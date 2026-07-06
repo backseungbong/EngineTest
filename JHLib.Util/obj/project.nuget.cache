@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "klQUFpGy5Uc=",
+  "success": true,
+  "projectFilePath": "D:\\2026\\Project\\EngineTest\\JHLib.Util\\JHLib.Util.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsb\\.nuget\\packages\\memorypack\\1.21.4\\memorypack.1.21.4.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\memorypack.core\\1.21.4\\memorypack.core.1.21.4.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\memorypack.generator\\1.21.4\\memorypack.generator.1.21.4.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\system.io.hashing\\10.0.9\\system.io.hashing.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
