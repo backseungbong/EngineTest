@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDBrp4ZSQqs=",
+  "success": true,
+  "projectFilePath": "D:\\2026\\Project\\EngineTest\\JHLib.S57ManualUpdate\\JHLib.S57ManualUpdate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bsb\\.nuget\\packages\\memorypack\\1.21.4\\memorypack.1.21.4.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\memorypack.core\\1.21.4\\memorypack.core.1.21.4.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\memorypack.generator\\1.21.4\\memorypack.generator.1.21.4.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\skiasharp\\3.119.2\\skiasharp.3.119.2.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.2\\skiasharp.nativeassets.macos.3.119.2.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.2\\skiasharp.nativeassets.win32.3.119.2.nupkg.sha512",
+    "C:\\Users\\bsb\\.nuget\\packages\\system.io.hashing\\10.0.9\\system.io.hashing.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

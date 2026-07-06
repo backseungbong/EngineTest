@@ -1,0 +1,16 @@
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\bin\Release\net10.0\JHLib.Graphics.deps.json
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\bin\Release\net10.0\JHLib.Graphics.dll
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\bin\Release\net10.0\JHLib.Graphics.pdb
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\bin\Release\net10.0\JHLib.Util.dll
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\bin\Release\net10.0\JHLib.Util.pdb
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.csproj.AssemblyReference.cache
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.AssemblyInfoInputs.cache
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.AssemblyInfo.cs
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.csproj.CoreCompileInputs.cache
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.sourcelink.json
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Gr.4FB63C45.Up2Date
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.dll
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\refint\JHLib.Graphics.dll
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\JHLib.Graphics.pdb
+D:\2026\Project\0_JHSolution\0_Source\JHSolution\JHLib.Graphics\obj\Release\net10.0\ref\JHLib.Graphics.dll
