@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JHLib.Util")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b151a3138d1ba82d05c8c043c231cd09a5d3f843")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c65747304595f30fea10616ddf0f2efde0b55ce1")]
 [assembly: System.Reflection.AssemblyProductAttribute("JHLib.Util")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JHLib.Util")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
