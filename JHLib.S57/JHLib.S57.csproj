@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="S57\ENC\DETECTION\**" />
+    <Compile Remove="S57\ENC\UPDATE\**" />
+    <EmbeddedResource Remove="S57\ENC\DETECTION\**" />
+    <EmbeddedResource Remove="S57\ENC\UPDATE\**" />
+    <None Remove="S57\ENC\DETECTION\**" />
+    <None Remove="S57\ENC\UPDATE\**" />
+    <Page Remove="S57\ENC\DETECTION\**" />
+    <Page Remove="S57\ENC\UPDATE\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JHLib.ChartManager\JHLib.ChartManager.csproj" />
+    <ProjectReference Include="..\JHLib.Graphics\JHLib.Graphics.csproj" />
+    <ProjectReference Include="..\JHLib.S57ManualUpdate\JHLib.S57ManualUpdate.csproj" />
+    <ProjectReference Include="..\JHLib.Util\JHLib.Util.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="S57\ENC\ATTRIBUTE\" />
+    <Folder Include="S57\ENC\COVERAGE\" />
+    <Folder Include="S57\ENC\SENC\" />
+  </ItemGroup>
+
+</Project>

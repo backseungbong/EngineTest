@@ -1,0 +1,34 @@
+﻿namespace Legacy.ECM_Core.Enumeration
+{
+    public enum SSE
+    {
+        UNKNOWN,
+        ERROR_01,
+        ERROR_02,
+        ERROR_03,
+        ERROR_04,
+        ERROR_05,
+        ERROR_06,
+        ERROR_07,
+        ERROR_08,
+        ERROR_09,
+        ERROR_10,
+        ERROR_11,
+        ERROR_12,
+        ERROR_13,
+        ERROR_14,
+        ERROR_15,
+        ERROR_16,
+        ERROR_17,
+        ERROR_18,
+        ERROR_19,
+        ERROR_20,
+        ERROR_21,
+        ERROR_22,
+        ERROR_23,
+        ERROR_24,
+        ERROR_25,
+        ERROR_26,
+        ERROR_27,
+    }
+}

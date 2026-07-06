@@ -1,5 +1,9 @@
 <Solution>
   <Project Path="JHApp.ECDIS/JHApp.ECDIS.csproj" />
+  <Project Path="JHLib.ChartManager/JHLib.ChartManager.csproj" />
+  <Project Path="JHLib.Graphics/JHLib.Graphics.csproj" />
+  <Project Path="JHLib.S57/JHLib.S57.csproj" />
+  <Project Path="JHLib.S57ManualUpdate/JHLib.S57ManualUpdate.csproj" />
   <Project Path="JHLib.Util/JHLib.Util.csproj" />
   <Project Path="JHLib.WPFUtil/JHLib.WPFUtil.csproj" />
 </Solution>

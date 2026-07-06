@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Legacy\Resource\ATTRIBUTE.cat" />
+    <None Remove="Legacy\Resource\Chart1\LOOKUP_A.txt" />
+    <None Remove="Legacy\Resource\Chart1\LOOKUP_L.txt" />
+    <None Remove="Legacy\Resource\Chart1\LOOKUP_P_P.txt" />
+    <None Remove="Legacy\Resource\Chart1\LOOKUP_P_S.txt" />
+    <None Remove="Legacy\Resource\COLOR_ACRONYM.txt" />
+    <None Remove="Legacy\Resource\CP.txt" />
+    <None Remove="Legacy\Resource\LINE_ACRONYM.inf" />
+    <None Remove="Legacy\Resource\LOOKUP_A_P.lut" />
+    <None Remove="Legacy\Resource\LOOKUP_A_S.lut" />
+    <None Remove="Legacy\Resource\LOOKUP_L.lut" />
+    <None Remove="Legacy\Resource\LOOKUP_P_P.lut" />
+    <None Remove="Legacy\Resource\LOOKUP_P_S.lut" />
+    <None Remove="Legacy\Resource\OBJECT.cat" />
+    <None Remove="Legacy\Resource\PATTERN_ACRONYM.inf" />
+    <None Remove="Legacy\Resource\SA.txt" />
+    <None Remove="Legacy\Resource\SYMBOL_ACRONYM.inf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Legacy\Resource\ATTRIBUTE.cat" />
+    <EmbeddedResource Include="Legacy\Resource\Chart1\LOOKUP_A.txt" />
+    <EmbeddedResource Include="Legacy\Resource\Chart1\LOOKUP_L.txt" />
+    <EmbeddedResource Include="Legacy\Resource\Chart1\LOOKUP_P_P.txt" />
+    <EmbeddedResource Include="Legacy\Resource\Chart1\LOOKUP_P_S.txt" />
+    <EmbeddedResource Include="Legacy\Resource\COLOR_ACRONYM.txt" />
+    <EmbeddedResource Include="Legacy\Resource\CP.txt" />
+    <EmbeddedResource Include="Legacy\Resource\LINE_ACRONYM.inf" />
+    <EmbeddedResource Include="Legacy\Resource\LOOKUP_A_P.lut" />
+    <EmbeddedResource Include="Legacy\Resource\LOOKUP_A_S.lut" />
+    <EmbeddedResource Include="Legacy\Resource\LOOKUP_L.lut" />
+    <EmbeddedResource Include="Legacy\Resource\LOOKUP_P_P.lut" />
+    <EmbeddedResource Include="Legacy\Resource\LOOKUP_P_S.lut" />
+    <EmbeddedResource Include="Legacy\Resource\OBJECT.cat" />
+    <EmbeddedResource Include="Legacy\Resource\PATTERN_ACRONYM.inf" />
+    <EmbeddedResource Include="Legacy\Resource\SA.txt" />
+    <EmbeddedResource Include="Legacy\Resource\SYMBOL_ACRONYM.inf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="ZLogger" Version="2.5.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JHLib.Util\JHLib.Util.csproj" />
+  </ItemGroup>
+
+</Project>

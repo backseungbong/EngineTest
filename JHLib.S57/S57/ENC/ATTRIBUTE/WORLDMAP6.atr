@@ -1,0 +1,4791 @@
+-809-
+ >> Coverage(M_COVR)
+ Position : 67 00' 00.00" N , 122 29' 59.06" E
+ Primitive  : Area
+ [Category of coverage(CATCOV)]  : coverage
+=
+-1-
+ >> Seabed area(SBDARE)
+ Position : 69 03' 37.06" N , 067 19' 25.00" E
+ Primitive  : Area
+ [Natural surface(NATSUR)]  : mud
+ [Water level effect(WATLEV)]  : covers and uncovers
+=
+-2-
+ >> Depth area(DEPARE)
+ Position : 69 03' 37.06" N , 067 19' 25.00" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : -0.2 metres
+ [Depth range value 2(DRVAL2)]  : 0 metres
+=
+-3-
+ >> Land area(LNDARE)
+ Position : 77 04' 42.01" N , 156 27' 57.05" E
+ Primitive  : Area
+=
+-4-
+ >> Land area(LNDARE)
+ Position : 76 09' 11.02" N , 152 41' 17.04" E
+ Primitive  : Area
+=
+-5-
+ >> Land area(LNDARE)
+ Position : 76 41' 47.05" N , 148 55' 52.08" E
+ Primitive  : Area
+=
+-6-
+ >> Land area(LNDARE)
+ Position : 70 44' 49.03" N , 161 34' 15.02" E
+ Primitive  : Area
+=
+-7-
+ >> Land area(LNDARE)
+ Position : 70 50' 09.04" N , 160 30' 19.02" E
+ Primitive  : Area
+=
+-8-
+ >> Land area(LNDARE)
+ Position : 59 04' 15.06" N , 150 35' 28.09" E
+ Primitive  : Area
+=
+-9-
+ >> Land area(LNDARE)
+ Position : 54 40' 38.01" N , 167 32' 34.00" E
+ Primitive  : Area
+=
+-10-
+ >> Land area(LNDARE)
+ Position : 55 03' 09.06" N , 166 07' 26.06" E
+ Primitive  : Area
+=
+-11-
+ >> Land area(LNDARE)
+ Position : 50 52' 40.01" N , 155 31' 12.00" E
+ Primitive  : Area
+=
+-12-
+ >> Land area(LNDARE)
+ Position : 50 44' 34.05" N , 156 20' 19.04" E
+ Primitive  : Area
+=
+-13-
+ >> Land area(LNDARE)
+ Position : 50 22' 16.01" N , 155 38' 40.04" E
+ Primitive  : Area
+=
+-14-
+ >> Land area(LNDARE)
+ Position : 52 24' 27.06" N , 173 32' 24.04" E
+ Primitive  : Area
+=
+-15-
+ >> Land area(LNDARE)
+ Position : 51 47' 38.05" N , 178 14' 14.03" E
+ Primitive  : Area
+=
+-16-
+ >> Land area(LNDARE)
+ Position : 51 56' 42.05" N , 178 28' 45.05" E
+ Primitive  : Area
+=
+-17-
+ >> Land area(LNDARE)
+ Position : 51 58' 55.05" N , 178 04' 18.02" E
+ Primitive  : Area
+=
+-18-
+ >> Land area(LNDARE)
+ Position : 51 55' 44.08" N , 177 23' 21.03" E
+ Primitive  : Area
+=
+-19-
+ >> Land area(LNDARE)
+ Position : 51 28' 54.05" N , 178 57' 30.06" E
+ Primitive  : Area
+=
+-20-
+ >> Land area(LNDARE)
+ Position : 51 55' 29.09" N , 179 31' 02.00" E
+ Primitive  : Area
+=
+-21-
+ >> Land area(LNDARE)
+ Position : 52 51' 43.03" N , 172 51' 08.02" E
+ Primitive  : Area
+=
+-22-
+ >> Land area(LNDARE)
+ Position : 76 04' 16.05" N , 140 58' 29.05" E
+ Primitive  : Area
+=
+-23-
+ >> Land area(LNDARE)
+ Position : 76 20' 15.07" N , 140 24' 37.02" E
+ Primitive  : Area
+=
+-24-
+ >> Land area(LNDARE)
+ Position : 76 18' 45.05" N , 141 26' 46.05" E
+ Primitive  : Area
+=
+-25-
+ >> Land area(LNDARE)
+ Position : 75 40' 10.05" N , 140 43' 23.02" E
+ Primitive  : Area
+=
+-26-
+ >> Land area(LNDARE)
+ Position : 75 34' 21.08" N , 135 50' 25.04" E
+ Primitive  : Area
+=
+-27-
+ >> Land area(LNDARE)
+ Position : 75 26' 30.00" N , 138 50' 07.08" E
+ Primitive  : Area
+=
+-28-
+ >> Land area(LNDARE)
+ Position : 75 30' 06.09" N , 143 32' 05.01" E
+ Primitive  : Area
+=
+-29-
+ >> Land area(LNDARE)
+ Position : 75 05' 31.09" N , 148 51' 20.06" E
+ Primitive  : Area
+=
+-30-
+ >> Land area(LNDARE)
+ Position : 73 32' 10.07" N , 141 59' 48.06" E
+ Primitive  : Area
+=
+-31-
+ >> Land area(LNDARE)
+ Position : 74 06' 14.08" N , 140 32' 46.05" E
+ Primitive  : Area
+=
+-32-
+ >> Land area(LNDARE)
+ Position : 74 06' 18.03" N , 135 50' 37.07" E
+ Primitive  : Area
+=
+-33-
+ >> Land area(LNDARE)
+ Position : 55 07' 02.02" N , 138 19' 57.02" E
+ Primitive  : Area
+=
+-34-
+ >> Land area(LNDARE)
+ Position : 55 03' 54.08" N , 137 00' 24.00" E
+ Primitive  : Area
+=
+-35-
+ >> Land area(LNDARE)
+ Position : 54 59' 07.06" N , 137 44' 36.03" E
+ Primitive  : Area
+=
+-36-
+ >> Land area(LNDARE)
+ Position : 58 54' 54.00" N , 164 01' 46.08" E
+ Primitive  : Area
+=
+-37-
+ >> Land area(LNDARE)
+ Position : 62 35' 47.03" N , 177 27' 32.09" E
+ Primitive  : Area
+=
+-38-
+ >> Land area(LNDARE)
+ Position : 69 44' 54.06" N , 170 01' 49.05" E
+ Primitive  : Area
+=
+-39-
+ >> Land area(LNDARE)
+ Position : 69 23' 26.03" N , 161 09' 53.06" E
+ Primitive  : Area
+=
+-40-
+ >> Land area(LNDARE)
+ Position : 69 06' 54.02" N , 161 13' 32.03" E
+ Primitive  : Area
+=
+-41-
+ >> Land area(LNDARE)
+ Position : 69 31' 50.09" N , 161 27' 37.09" E
+ Primitive  : Area
+=
+-42-
+ >> Land area(LNDARE)
+ Position : 69 35' 07.05" N , 161 43' 52.01" E
+ Primitive  : Area
+=
+-43-
+ >> Land area(LNDARE)
+ Position : 69 31' 16.03" N , 160 40' 16.09" E
+ Primitive  : Area
+=
+-44-
+ >> Land area(LNDARE)
+ Position : 71 11' 03.07" N , 149 29' 47.00" E
+ Primitive  : Area
+=
+-45-
+ >> Land area(LNDARE)
+ Position : 71 04' 51.08" N , 149 49' 49.09" E
+ Primitive  : Area
+=
+-46-
+ >> Land area(LNDARE)
+ Position : 71 04' 26.01" N , 149 25' 05.00" E
+ Primitive  : Area
+=
+-47-
+ >> Land area(LNDARE)
+ Position : 71 01' 38.05" N , 149 06' 00.03" E
+ Primitive  : Area
+=
+-48-
+ >> Land area(LNDARE)
+ Position : 70 53' 15.05" N , 148 58' 37.07" E
+ Primitive  : Area
+=
+-49-
+ >> Land area(LNDARE)
+ Position : 71 06' 25.05" N , 150 24' 23.08" E
+ Primitive  : Area
+=
+-50-
+ >> Land area(LNDARE)
+ Position : 70 57' 04.07" N , 150 24' 24.08" E
+ Primitive  : Area
+=
+-51-
+ >> Land area(LNDARE)
+ Position : 71 01' 15.04" N , 151 52' 27.06" E
+ Primitive  : Area
+=
+-52-
+ >> Land area(LNDARE)
+ Position : 71 22' 20.04" N , 150 06' 54.05" E
+ Primitive  : Area
+=
+-53-
+ >> Land area(LNDARE)
+ Position : 71 15' 55.04" N , 150 08' 48.06" E
+ Primitive  : Area
+=
+-54-
+ >> Land area(LNDARE)
+ Position : 71 17' 20.05" N , 150 25' 43.02" E
+ Primitive  : Area
+=
+-55-
+ >> Land area(LNDARE)
+ Position : 71 25' 29.05" N , 150 27' 53.05" E
+ Primitive  : Area
+=
+-56-
+ >> Land area(LNDARE)
+ Position : 71 31' 38.01" N , 150 17' 54.07" E
+ Primitive  : Area
+=
+-57-
+ >> Land area(LNDARE)
+ Position : 71 23' 29.07" N , 149 48' 10.09" E
+ Primitive  : Area
+=
+-58-
+ >> Land area(LNDARE)
+ Position : 71 36' 11.09" N , 149 54' 39.03" E
+ Primitive  : Area
+=
+-59-
+ >> Land area(LNDARE)
+ Position : 69 47' 36.00" N , 168 35' 54.05" E
+ Primitive  : Area
+=
+-60-
+ >> Land area(LNDARE)
+ Position : 71 29' 49.07" N , 149 23' 18.04" E
+ Primitive  : Area
+=
+-61-
+ >> Land area(LNDARE)
+ Position : 71 14' 43.00" N , 151 21' 14.03" E
+ Primitive  : Area
+=
+-62-
+ >> Land area(LNDARE)
+ Position : 71 25' 59.03" N , 136 58' 11.07" E
+ Primitive  : Area
+=
+-63-
+ >> Land area(LNDARE)
+ Position : 71 30' 58.06" N , 137 36' 59.07" E
+ Primitive  : Area
+=
+-64-
+ >> Land area(LNDARE)
+ Position : 71 35' 38.03" N , 136 36' 20.05" E
+ Primitive  : Area
+=
+-65-
+ >> Land area(LNDARE)
+ Position : 71 32' 54.04" N , 136 04' 55.00" E
+ Primitive  : Area
+=
+-66-
+ >> Land area(LNDARE)
+ Position : 71 35' 34.02" N , 135 50' 49.05" E
+ Primitive  : Area
+=
+-67-
+ >> Land area(LNDARE)
+ Position : 71 36' 37.08" N , 135 33' 33.01" E
+ Primitive  : Area
+=
+-68-
+ >> Land area(LNDARE)
+ Position : 71 18' 58.07" N , 136 30' 45.00" E
+ Primitive  : Area
+=
+-69-
+ >> Land area(LNDARE)
+ Position : 71 27' 05.08" N , 135 41' 31.00" E
+ Primitive  : Area
+=
+-70-
+ >> Land area(LNDARE)
+ Position : 71 10' 43.08" N , 136 46' 14.05" E
+ Primitive  : Area
+=
+-71-
+ >> Land area(LNDARE)
+ Position : 71 18' 06.02" N , 135 33' 07.09" E
+ Primitive  : Area
+=
+-72-
+ >> Land area(LNDARE)
+ Position : 71 47' 30.04" N , 129 19' 57.02" E
+ Primitive  : Area
+=
+-73-
+ >> Land area(LNDARE)
+ Position : 71 56' 57.08" N , 128 48' 21.07" E
+ Primitive  : Area
+=
+-74-
+ >> Land area(LNDARE)
+ Position : 72 24' 49.00" N , 126 54' 53.00" E
+ Primitive  : Area
+=
+-75-
+ >> Land area(LNDARE)
+ Position : 72 25' 48.04" N , 126 34' 09.08" E
+ Primitive  : Area
+=
+-76-
+ >> Land area(LNDARE)
+ Position : 72 46' 09.07" N , 126 09' 23.07" E
+ Primitive  : Area
+=
+-77-
+ >> Land area(LNDARE)
+ Position : 73 05' 38.00" N , 126 23' 13.08" E
+ Primitive  : Area
+=
+-78-
+ >> Land area(LNDARE)
+ Position : 73 01' 45.03" N , 124 18' 37.06" E
+ Primitive  : Area
+=
+-79-
+ >> Land area(LNDARE)
+ Position : 72 58' 19.07" N , 124 05' 21.00" E
+ Primitive  : Area
+=
+-80-
+ >> Land area(LNDARE)
+ Position : 72 59' 24.06" N , 123 42' 29.00" E
+ Primitive  : Area
+=
+-81-
+ >> Land area(LNDARE)
+ Position : 73 05' 05.04" N , 123 44' 39.05" E
+ Primitive  : Area
+=
+-82-
+ >> Land area(LNDARE)
+ Position : 72 42' 43.04" N , 125 17' 09.01" E
+ Primitive  : Area
+=
+-83-
+ >> Land area(LNDARE)
+ Position : 72 28' 07.01" N , 127 16' 14.06" E
+ Primitive  : Area
+=
+-84-
+ >> Land area(LNDARE)
+ Position : 72 23' 15.05" N , 127 44' 16.06" E
+ Primitive  : Area
+=
+-85-
+ >> Land area(LNDARE)
+ Position : 72 24' 54.06" N , 128 16' 10.00" E
+ Primitive  : Area
+=
+-86-
+ >> Land area(LNDARE)
+ Position : 72 12' 08.03" N , 128 28' 08.01" E
+ Primitive  : Area
+=
+-87-
+ >> Land area(LNDARE)
+ Position : 72 08' 40.00" N , 128 44' 57.06" E
+ Primitive  : Area
+=
+-88-
+ >> Land area(LNDARE)
+ Position : 72 03' 01.02" N , 128 51' 11.07" E
+ Primitive  : Area
+=
+-89-
+ >> Land area(LNDARE)
+ Position : 72 02' 08.04" N , 129 05' 23.03" E
+ Primitive  : Area
+=
+-90-
+ >> Land area(LNDARE)
+ Position : 72 05' 20.04" N , 129 04' 25.02" E
+ Primitive  : Area
+=
+-91-
+ >> Land area(LNDARE)
+ Position : 72 17' 03.01" N , 128 49' 46.09" E
+ Primitive  : Area
+=
+-92-
+ >> Land area(LNDARE)
+ Position : 73 16' 40.07" N , 127 09' 17.04" E
+ Primitive  : Area
+=
+-93-
+ >> Land area(LNDARE)
+ Position : 72 31' 55.03" N , 128 53' 22.09" E
+ Primitive  : Area
+=
+-94-
+ >> Land area(LNDARE)
+ Position : 73 46' 08.01" N , 124 02' 18.09" E
+ Primitive  : Area
+=
+-95-
+ >> Land area(LNDARE)
+ Position : 73 58' 05.03" N , 123 31' 19.05" E
+ Primitive  : Area
+=
+-96-
+ >> Land area(LNDARE)
+ Position : 73 51' 56.04" N , 124 35' 45.02" E
+ Primitive  : Area
+=
+-97-
+ >> Land area(LNDARE)
+ Position : 73 22' 03.03" N , 124 30' 28.07" E
+ Primitive  : Area
+=
+-98-
+ >> Land area(LNDARE)
+ Position : 73 32' 20.03" N , 125 39' 11.01" E
+ Primitive  : Area
+=
+-99-
+ >> Land area(LNDARE)
+ Position : 73 00' 06.02" N , 122 53' 24.05" E
+ Primitive  : Area
+=
+-100-
+ >> Land area(LNDARE)
+ Position : 72 53' 51.02" N , 123 08' 22.00" E
+ Primitive  : Area
+=
+-101-
+ >> Land area(LNDARE)
+ Position : 72 50' 21.04" N , 123 22' 50.03" E
+ Primitive  : Area
+=
+-102-
+ >> Land area(LNDARE)
+ Position : 72 53' 55.04" N , 122 48' 56.00" E
+ Primitive  : Area
+=
+-103-
+ >> Land area(LNDARE)
+ Position : 72 56' 05.06" N , 122 35' 28.02" E
+ Primitive  : Area
+=
+-104-
+ >> Land area(LNDARE)
+ Position : 73 03' 00.05" N , 119 42' 57.06" E
+ Primitive  : Area
+=
+-105-
+ >> Land area(LNDARE)
+ Position : 73 07' 49.09" N , 119 51' 05.09" E
+ Primitive  : Area
+=
+-106-
+ >> Land area(LNDARE)
+ Position : 73 04' 54.02" N , 120 10' 54.00" E
+ Primitive  : Area
+=
+-107-
+ >> Land area(LNDARE)
+ Position : 73 04' 53.06" N , 122 05' 08.01" E
+ Primitive  : Area
+=
+-108-
+ >> Land area(LNDARE)
+ Position : 74 38' 46.07" N , 112 53' 28.03" E
+ Primitive  : Area
+=
+-109-
+ >> Land area(LNDARE)
+ Position : 74 17' 15.06" N , 111 07' 47.06" E
+ Primitive  : Area
+=
+-110-
+ >> Land area(LNDARE)
+ Position : 76 10' 01.06" N , 096 34' 20.02" E
+ Primitive  : Area
+=
+-111-
+ >> Land area(LNDARE)
+ Position : 76 13' 48.07" N , 096 54' 29.08" E
+ Primitive  : Area
+=
+-112-
+ >> Land area(LNDARE)
+ Position : 76 19' 01.00" N , 096 55' 17.00" E
+ Primitive  : Area
+=
+-113-
+ >> Land area(LNDARE)
+ Position : 76 20' 31.07" N , 096 35' 30.05" E
+ Primitive  : Area
+=
+-114-
+ >> Land area(LNDARE)
+ Position : 76 09' 45.04" N , 095 05' 42.08" E
+ Primitive  : Area
+=
+-115-
+ >> Land area(LNDARE)
+ Position : 76 13' 23.00" N , 094 40' 41.06" E
+ Primitive  : Area
+=
+-116-
+ >> Land area(LNDARE)
+ Position : 76 14' 08.02" N , 095 57' 37.05" E
+ Primitive  : Area
+=
+-117-
+ >> Land area(LNDARE)
+ Position : 76 03' 53.07" N , 097 03' 54.04" E
+ Primitive  : Area
+=
+-118-
+ >> Land area(LNDARE)
+ Position : 76 20' 04.02" N , 096 07' 30.00" E
+ Primitive  : Area
+=
+-119-
+ >> Land area(LNDARE)
+ Position : 76 39' 13.04" N , 095 34' 18.00" E
+ Primitive  : Area
+=
+-120-
+ >> Land area(LNDARE)
+ Position : 76 42' 26.08" N , 095 59' 58.01" E
+ Primitive  : Area
+=
+-121-
+ >> Land area(LNDARE)
+ Position : 76 43' 12.00" N , 095 42' 02.08" E
+ Primitive  : Area
+=
+-122-
+ >> Land area(LNDARE)
+ Position : 76 38' 42.08" N , 096 06' 40.08" E
+ Primitive  : Area
+=
+-123-
+ >> Land area(LNDARE)
+ Position : 76 38' 23.09" N , 095 03' 52.09" E
+ Primitive  : Area
+=
+-124-
+ >> Land area(LNDARE)
+ Position : 76 30' 58.06" N , 094 09' 17.07" E
+ Primitive  : Area
+=
+-125-
+ >> Land area(LNDARE)
+ Position : 76 33' 37.09" N , 094 12' 40.01" E
+ Primitive  : Area
+=
+-126-
+ >> Land area(LNDARE)
+ Position : 76 25' 48.01" N , 094 57' 19.06" E
+ Primitive  : Area
+=
+-127-
+ >> Land area(LNDARE)
+ Position : 76 32' 10.06" N , 095 20' 16.00" E
+ Primitive  : Area
+=
+-128-
+ >> Land area(LNDARE)
+ Position : 76 51' 26.07" N , 097 18' 59.04" E
+ Primitive  : Area
+=
+-129-
+ >> Land area(LNDARE)
+ Position : 76 49' 16.05" N , 097 50' 42.04" E
+ Primitive  : Area
+=
+-130-
+ >> Land area(LNDARE)
+ Position : 76 45' 50.07" N , 097 21' 55.00" E
+ Primitive  : Area
+=
+-131-
+ >> Land area(LNDARE)
+ Position : 76 39' 10.05" N , 097 27' 29.03" E
+ Primitive  : Area
+=
+-132-
+ >> Land area(LNDARE)
+ Position : 76 54' 12.08" N , 096 08' 27.01" E
+ Primitive  : Area
+=
+-133-
+ >> Land area(LNDARE)
+ Position : 77 03' 56.08" N , 095 59' 39.06" E
+ Primitive  : Area
+=
+-134-
+ >> Land area(LNDARE)
+ Position : 75 59' 03.06" N , 092 36' 58.06" E
+ Primitive  : Area
+=
+-135-
+ >> Land area(LNDARE)
+ Position : 76 02' 55.07" N , 091 47' 03.02" E
+ Primitive  : Area
+=
+-136-
+ >> Land area(LNDARE)
+ Position : 75 50' 52.01" N , 092 46' 59.06" E
+ Primitive  : Area
+=
+-137-
+ >> Land area(LNDARE)
+ Position : 74 19' 39.01" N , 112 35' 16.08" E
+ Primitive  : Area
+=
+-138-
+ >> Land area(LNDARE)
+ Position : 76 23' 16.07" N , 113 15' 45.07" E
+ Primitive  : Area
+=
+-139-
+ >> Land area(LNDARE)
+ Position : 76 32' 59.08" N , 112 18' 33.04" E
+ Primitive  : Area
+=
+-140-
+ >> Land area(LNDARE)
+ Position : 77 17' 15.00" N , 107 26' 55.03" E
+ Primitive  : Area
+=
+-141-
+ >> Land area(LNDARE)
+ Position : 77 16' 18.04" N , 105 47' 22.01" E
+ Primitive  : Area
+=
+-142-
+ >> Land area(LNDARE)
+ Position : 77 19' 20.04" N , 106 16' 54.05" E
+ Primitive  : Area
+=
+-143-
+ >> Land area(LNDARE)
+ Position : 77 25' 15.00" N , 106 38' 12.07" E
+ Primitive  : Area
+=
+-144-
+ >> Land area(LNDARE)
+ Position : 78 07' 47.05" N , 107 04' 45.07" E
+ Primitive  : Area
+=
+-145-
+ >> Land area(LNDARE)
+ Position : 77 40' 33.09" N , 101 07' 59.01" E
+ Primitive  : Area
+=
+-146-
+ >> Land area(LNDARE)
+ Position : 77 38' 40.02" N , 101 21' 50.02" E
+ Primitive  : Area
+=
+-147-
+ >> Land area(LNDARE)
+ Position : 77 37' 07.05" N , 101 31' 56.04" E
+ Primitive  : Area
+=
+-148-
+ >> Land area(LNDARE)
+ Position : 77 39' 07.07" N , 091 57' 25.07" E
+ Primitive  : Area
+=
+-149-
+ >> Land area(LNDARE)
+ Position : 78 11' 23.03" N , 093 44' 18.06" E
+ Primitive  : Area
+=
+-150-
+ >> Land area(LNDARE)
+ Position : 79 31' 52.00" N , 091 03' 51.07" E
+ Primitive  : Area
+=
+-151-
+ >> Land area(LNDARE)
+ Position : 79 32' 37.09" N , 090 36' 49.01" E
+ Primitive  : Area
+=
+-152-
+ >> Land area(LNDARE)
+ Position : 79 27' 08.04" N , 091 36' 03.07" E
+ Primitive  : Area
+=
+-153-
+ >> Land area(LNDARE)
+ Position : 79 25' 17.08" N , 092 15' 50.03" E
+ Primitive  : Area
+=
+-154-
+ >> Land area(LNDARE)
+ Position : 79 11' 16.09" N , 092 21' 48.00" E
+ Primitive  : Area
+=
+-155-
+ >> Land area(LNDARE)
+ Position : 79 25' 44.03" N , 092 49' 35.04" E
+ Primitive  : Area
+=
+-156-
+ >> Land area(LNDARE)
+ Position : 78 38' 17.07" N , 098 40' 00.01" E
+ Primitive  : Area
+=
+-157-
+ >> Land area(LNDARE)
+ Position : 81 02' 28.07" N , 093 39' 19.09" E
+ Primitive  : Area
+=
+-158-
+ >> Land area(LNDARE)
+ Position : 81 02' 15.06" N , 094 11' 14.03" E
+ Primitive  : Area
+=
+-159-
+ >> Land area(LNDARE)
+ Position : 80 00' 17.06" N , 094 13' 50.02" E
+ Primitive  : Area
+=
+-160-
+ >> Land area(LNDARE)
+ Position : 79 53' 06.00" N , 092 22' 35.01" E
+ Primitive  : Area
+=
+-161-
+ >> Land area(LNDARE)
+ Position : 70 58' 52.05" N , 149 33' 57.06" E
+ Primitive  : Area
+=
+-162-
+ >> Land area(LNDARE)
+ Position : 70 57' 20.00" N , 149 54' 51.01" E
+ Primitive  : Area
+=
+-163-
+ >> Land area(LNDARE)
+ Position : 73 29' 58.05" N , 080 22' 02.09" E
+ Primitive  : Area
+=
+-164-
+ >> Land area(LNDARE)
+ Position : 72 51' 47.07" N , 079 14' 07.06" E
+ Primitive  : Area
+=
+-165-
+ >> Land area(LNDARE)
+ Position : 73 10' 47.04" N , 076 05' 40.07" E
+ Primitive  : Area
+=
+-166-
+ >> Land area(LNDARE)
+ Position : 73 08' 56.06" N , 076 30' 00.02" E
+ Primitive  : Area
+=
+-167-
+ >> Land area(LNDARE)
+ Position : 73 27' 06.04" N , 075 49' 51.09" E
+ Primitive  : Area
+=
+-168-
+ >> Land area(LNDARE)
+ Position : 72 25' 41.06" N , 077 44' 24.08" E
+ Primitive  : Area
+=
+-169-
+ >> Land area(LNDARE)
+ Position : 72 59' 37.09" N , 074 33' 26.08" E
+ Primitive  : Area
+=
+-170-
+ >> Land area(LNDARE)
+ Position : 73 13' 51.01" N , 070 42' 39.03" E
+ Primitive  : Area
+=
+-171-
+ >> Land area(LNDARE)
+ Position : 70 34' 01.00" N , 066 35' 17.00" E
+ Primitive  : Area
+=
+-172-
+ >> Land area(LNDARE)
+ Position : 71 25' 49.00" N , 067 45' 34.03" E
+ Primitive  : Area
+=
+-173-
+ >> Land area(LNDARE)
+ Position : 70 58' 28.01" N , 066 34' 41.08" E
+ Primitive  : Area
+=
+-174-
+ >> Land area(LNDARE)
+ Position : 69 01' 18.06" N , 066 12' 20.08" E
+ Primitive  : Area
+=
+-175-
+ >> Land area(LNDARE)
+ Position : 69 28' 25.04" N , 067 16' 01.04" E
+ Primitive  : Area
+=
+-176-
+ >> Land area(LNDARE)
+ Position : 66 41' 25.08" N , 071 15' 28.02" E
+ Primitive  : Area
+=
+-177-
+ >> Land area(LNDARE)
+ Position : 66 36' 16.05" N , 070 41' 11.04" E
+ Primitive  : Area
+=
+-178-
+ >> Land area(LNDARE)
+ Position : 66 32' 23.09" N , 070 27' 08.09" E
+ Primitive  : Area
+=
+-179-
+ >> Land area(LNDARE)
+ Position : 66 39' 15.01" N , 069 51' 14.08" E
+ Primitive  : Area
+=
+-180-
+ >> Land area(LNDARE)
+ Position : 74 53' 45.02" N , 086 43' 38.00" E
+ Primitive  : Area
+=
+-181-
+ >> Land area(LNDARE)
+ Position : 74 46' 11.00" N , 086 36' 52.05" E
+ Primitive  : Area
+=
+-182-
+ >> Land area(LNDARE)
+ Position : 71 07' 09.02" N , 179 21' 58.09" E
+ Primitive  : Area
+=
+-183-
+ >> Land area(LNDARE)
+ Position : 75 32' 08.04" N , 089 30' 48.07" E
+ Primitive  : Area
+=
+-184-
+ >> Land area(LNDARE)
+ Position : 75 38' 25.06" N , 087 58' 46.04" E
+ Primitive  : Area
+=
+-185-
+ >> Land area(LNDARE)
+ Position : 75 42' 13.05" N , 088 17' 33.04" E
+ Primitive  : Area
+=
+-186-
+ >> Land area(LNDARE)
+ Position : 75 21' 46.01" N , 082 00' 05.08" E
+ Primitive  : Area
+=
+-187-
+ >> Land area(LNDARE)
+ Position : 62 26' 21.09" N , 113 28' 45.06" E
+ Primitive  : Area
+=
+-188-
+ >> Land area(LNDARE)
+ Position : 80 34' 51.02" N , 094 51' 00.07" E
+ Primitive  : Area
+=
+-189-
+ >> Land area(LNDARE)
+ Position : 74 51' 58.04" N , 085 37' 22.05" E
+ Primitive  : Area
+=
+-190-
+ >> Land area(LNDARE)
+ Position : 74 49' 21.02" N , 085 50' 59.04" E
+ Primitive  : Area
+=
+-191-
+ >> Land area(LNDARE)
+ Position : 74 04' 23.03" N , 086 40' 26.09" E
+ Primitive  : Area
+=
+-192-
+ >> Land area(LNDARE)
+ Position : 74 25' 10.00" N , 085 25' 30.09" E
+ Primitive  : Area
+=
+-193-
+ >> Land area(LNDARE)
+ Position : 74 30' 47.04" N , 085 56' 27.07" E
+ Primitive  : Area
+=
+-194-
+ >> Land area(LNDARE)
+ Position : 74 27' 33.05" N , 084 39' 36.07" E
+ Primitive  : Area
+=
+-195-
+ >> Land area(LNDARE)
+ Position : 74 43' 46.04" N , 085 31' 25.04" E
+ Primitive  : Area
+=
+-196-
+ >> Land area(LNDARE)
+ Position : 74 31' 23.03" N , 085 23' 57.09" E
+ Primitive  : Area
+=
+-197-
+ >> Land area(LNDARE)
+ Position : 74 09' 32.03" N , 085 34' 59.05" E
+ Primitive  : Area
+=
+-198-
+ >> Land area(LNDARE)
+ Position : 73 58' 42.04" N , 084 09' 40.08" E
+ Primitive  : Area
+=
+-199-
+ >> Land area(LNDARE)
+ Position : 74 06' 23.00" N , 082 36' 35.07" E
+ Primitive  : Area
+=
+-200-
+ >> Land area(LNDARE)
+ Position : 74 05' 20.00" N , 083 15' 33.05" E
+ Primitive  : Area
+=
+-201-
+ >> Land area(LNDARE)
+ Position : 74 33' 43.05" N , 079 33' 09.00" E
+ Primitive  : Area
+=
+-202-
+ >> Land area(LNDARE)
+ Position : 75 06' 40.09" N , 082 09' 04.07" E
+ Primitive  : Area
+=
+-203-
+ >> Land area(LNDARE)
+ Position : 78 39' 21.09" N , 102 21' 40.09" E
+ Primitive  : Area
+=
+-204-
+ >> Land area(LNDARE)
+ Position : 79 30' 22.09" N , 097 01' 23.02" E
+ Primitive  : Area
+=
+-205-
+ >> Land area(LNDARE)
+ Position : 75 55' 15.03" N , 082 02' 13.08" E
+ Primitive  : Area
+=
+-206-
+ >> Land area(LNDARE)
+ Position : 75 58' 05.05" N , 082 42' 15.08" E
+ Primitive  : Area
+=
+-207-
+ >> Land area(LNDARE)
+ Position : 75 57' 20.00" N , 083 10' 49.08" E
+ Primitive  : Area
+=
+-208-
+ >> Land area(LNDARE)
+ Position : 81 05' 52.01" N , 065 10' 59.06" E
+ Primitive  : Area
+=
+-209-
+ >> Land area(LNDARE)
+ Position : 80 47' 54.03" N , 079 29' 45.02" E
+ Primitive  : Area
+=
+-210-
+ >> Land area(LNDARE)
+ Position : 81 10' 03.04" N , 090 59' 14.04" E
+ Primitive  : Area
+=
+-211-
+ >> Land area(LNDARE)
+ Position : 79 30' 34.01" N , 076 58' 32.03" E
+ Primitive  : Area
+=
+-212-
+ >> Land area(LNDARE)
+ Position : 77 29' 08.03" N , 082 29' 02.04" E
+ Primitive  : Area
+=
+-213-
+ >> Land area(LNDARE)
+ Position : 77 15' 43.03" N , 089 28' 56.05" E
+ Primitive  : Area
+=
+-214-
+ >> Land area(LNDARE)
+ Position : 77 05' 31.01" N , 088 53' 24.09" E
+ Primitive  : Area
+=
+-216-
+ >> Land area(LNDARE)
+ Position : 78 16' 02.08" N , 106 19' 16.01" E
+ Primitive  : Area
+=
+-217-
+ >> Land area(LNDARE)
+ Position : 72 55' 21.03" N , 128 00' 42.05" E
+ Primitive  : Area
+=
+-218-
+ >> Land area(LNDARE)
+ Position : 76 26' 42.07" N , 066 59' 25.00" E
+ Primitive  : Area
+=
+-219-
+ >> Ice area(ICEARE)
+ Position : 76 26' 07.04" N , 066 26' 35.08" E
+ Primitive  : Area
+ [Category of ice(CATICE)]  : glacier
+=
+-220-
+ >> Land area(LNDARE)
+ Position : 51 49' 19.09" N , 142 39' 17.07" E
+ Primitive  : Area
+=
+-222-
+ >> Lake(LAKARE)
+ Position : 74 36' 21.00" N , 102 17' 08.08" E
+ Primitive  : Area
+ [Scale minimum(SCAMIN)]  : 39000000
+=
+-223-
+ >> Lake(LAKARE)
+ Position : 53 24' 43.01" N , 107 38' 20.07" E
+ Primitive  : Area
+ [Scale minimum(SCAMIN)]  : 39000000
+=
+-224-
+ >> River(RIVERS)
+ Position : 68 18' 49.03" N , 124 41' 45.04" E
+ Primitive  : Area
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-225-
+ >> Coastline(COALNE)
+ Position : 54 04' 30.07" N , 142 24' 30.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-231-
+ >> Coastline(COALNE)
+ Position : 72 43' 05.03" N , 127 30' 22.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-232-
+ >> Coastline(COALNE)
+ Position : 78 15' 45.00" N , 105 56' 28.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-233-
+ >> Land region(LNDRGN)
+ Position : 79 27' 49.01" N , 073 59' 52.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Vize
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-234-
+ >> Land region(LNDRGN)
+ Position : 77 32' 07.06" N , 076 46' 57.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Uyedineniya
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-235-
+ >> Land region(LNDRGN)
+ Position : 77 27' 06.06" N , 086 23' 03.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strova Sergeya Kirova
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-236-
+ >> Land region(LNDRGN)
+ Position : 79 51' 30.06" N , 088 16' 32.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Pioner
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-237-
+ >> Coastline(COALNE)
+ Position : 76 43' 46.02" N , 069 10' 03.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-238-
+ >> Coastline(COALNE)
+ Position : 77 03' 11.08" N , 088 45' 41.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-239-
+ >> Coastline(COALNE)
+ Position : 77 12' 30.06" N , 089 39' 12.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-240-
+ >> Coastline(COALNE)
+ Position : 77 27' 47.03" N , 082 28' 05.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-241-
+ >> Coastline(COALNE)
+ Position : 79 27' 58.03" N , 077 19' 46.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-242-
+ >> Land region(LNDRGN)
+ Position : 80 45' 14.06" N , 080 52' 30.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Ushakova
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-243-
+ >> Land region(LNDRGN)
+ Position : 80 42' 05.08" N , 089 15' 05.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Komsomolets
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-244-
+ >> Land region(LNDRGN)
+ Position : 81 12' 07.00" N , 086 30' 18.04" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Shmidta
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-245-
+ >> Land region(LNDRGN)
+ Position : 81 03' 00.06" N , 066 05' 09.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Greem-Bell
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-248-
+ >> Coastline(COALNE)
+ Position : 81 06' 08.00" N , 090 28' 09.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-249-
+ >> Coastline(COALNE)
+ Position : 80 51' 36.02" N , 079 49' 57.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-250-
+ >> Coastline(COALNE)
+ Position : 81 01' 28.05" N , 065 23' 08.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-251-
+ >> Coastline(COALNE)
+ Position : 75 56' 12.01" N , 083 13' 12.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-252-
+ >> Coastline(COALNE)
+ Position : 75 58' 46.00" N , 082 57' 42.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-253-
+ >> Coastline(COALNE)
+ Position : 75 53' 29.01" N , 082 20' 06.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-260-
+ >> Coastline(COALNE)
+ Position : 79 22' 58.05" N , 099 43' 19.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-261-
+ >> Coastline(COALNE)
+ Position : 77 56' 43.07" N , 099 49' 01.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-262-
+ >> Coastline(COALNE)
+ Position : 75 05' 47.09" N , 082 09' 16.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-263-
+ >> Coastline(COALNE)
+ Position : 74 30' 10.09" N , 079 35' 21.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-264-
+ >> Coastline(COALNE)
+ Position : 74 06' 16.06" N , 083 04' 11.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-277-
+ >> Coastline(COALNE)
+ Position : 74 03' 56.02" N , 082 45' 06.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-278-
+ >> Coastline(COALNE)
+ Position : 73 58' 13.00" N , 084 20' 48.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-279-
+ >> Coastline(COALNE)
+ Position : 74 07' 45.01" N , 085 45' 21.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-280-
+ >> Coastline(COALNE)
+ Position : 74 27' 54.00" N , 085 23' 47.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-281-
+ >> Coastline(COALNE)
+ Position : 74 46' 14.08" N , 085 32' 37.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-282-
+ >> Coastline(COALNE)
+ Position : 74 30' 26.08" N , 084 49' 08.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-283-
+ >> Coastline(COALNE)
+ Position : 74 33' 48.09" N , 085 53' 17.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-284-
+ >> Coastline(COALNE)
+ Position : 74 24' 12.09" N , 085 23' 34.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-285-
+ >> Coastline(COALNE)
+ Position : 74 03' 18.06" N , 086 40' 08.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-286-
+ >> Coastline(COALNE)
+ Position : 74 48' 15.07" N , 085 50' 38.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-287-
+ >> Coastline(COALNE)
+ Position : 74 51' 20.01" N , 085 40' 54.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-292-
+ >> Coastline(COALNE)
+ Position : 81 16' 15.03" N , 095 16' 40.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-293-
+ >> Coastline(COALNE)
+ Position : 73 13' 36.06" N , 080 40' 03.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-296-
+ >> Coastline(COALNE)
+ Position : 75 26' 26.03" N , 082 11' 31.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-297-
+ >> Coastline(COALNE)
+ Position : 75 41' 30.07" N , 088 16' 54.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-298-
+ >> Coastline(COALNE)
+ Position : 75 37' 47.03" N , 088 03' 58.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-299-
+ >> Coastline(COALNE)
+ Position : 75 31' 07.04" N , 089 36' 49.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-300-
+ >> Coastline(COALNE)
+ Position : 71 01' 43.05" N , 178 33' 03.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-301-
+ >> Coastline(COALNE)
+ Position : 74 44' 40.02" N , 086 35' 34.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-302-
+ >> Coastline(COALNE)
+ Position : 74 56' 57.06" N , 086 50' 28.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-305-
+ >> Land region(LNDRGN)
+ Position : 66 38' 20.04" N , 066 46' 45.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Salekhard
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-306-
+ >> Land region(LNDRGN)
+ Position : 63 49' 23.04" N , 065 32' 11.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Berezovo
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-307-
+ >> Coastline(COALNE)
+ Position : 66 37' 12.01" N , 069 56' 54.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-308-
+ >> Coastline(COALNE)
+ Position : 66 30' 28.00" N , 070 34' 53.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-309-
+ >> Coastline(COALNE)
+ Position : 66 34' 19.02" N , 070 48' 53.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-310-
+ >> Coastline(COALNE)
+ Position : 66 46' 29.09" N , 071 27' 59.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-314-
+ >> Coastline(COALNE)
+ Position : 69 24' 38.03" N , 067 15' 13.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-316-
+ >> Coastline(COALNE)
+ Position : 69 03' 32.02" N , 066 07' 15.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-317-
+ >> Coastline(COALNE)
+ Position : 70 58' 43.06" N , 066 37' 29.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-318-
+ >> Coastline(COALNE)
+ Position : 71 22' 53.08" N , 067 37' 54.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-319-
+ >> Coastline(COALNE)
+ Position : 70 33' 11.02" N , 066 26' 47.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-320-
+ >> Land region(LNDRGN)
+ Position : 73 34' 33.06" N , 080 33' 35.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Dikson
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-321-
+ >> Coastline(COALNE)
+ Position : 73 08' 15.05" N , 071 22' 47.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-322-
+ >> Coastline(COALNE)
+ Position : 73 06' 26.09" N , 074 24' 21.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-323-
+ >> Coastline(COALNE)
+ Position : 72 33' 12.08" N , 077 33' 47.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-324-
+ >> Coastline(COALNE)
+ Position : 73 25' 05.02" N , 075 59' 20.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-325-
+ >> Coastline(COALNE)
+ Position : 73 06' 57.04" N , 076 42' 33.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-326-
+ >> Coastline(COALNE)
+ Position : 73 09' 18.06" N , 076 05' 46.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-327-
+ >> Coastline(COALNE)
+ Position : 72 47' 00.09" N , 078 50' 01.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-329-
+ >> Coastline(COALNE)
+ Position : 73 28' 58.03" N , 080 25' 07.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-331-
+ >> Land region(LNDRGN)
+ Position : 71 50' 40.09" N , 083 47' 14.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Gol'chikha
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-332-
+ >> Land region(LNDRGN)
+ Position : 61 17' 16.02" N , 078 45' 07.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Lat'yak
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-333-
+ >> Land region(LNDRGN)
+ Position : 61 20' 40.02" N , 072 56' 22.06" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Surgut
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-334-
+ >> Land region(LNDRGN)
+ Position : 61 00' 46.08" N , 068 10' 11.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Samarovo
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-336-
+ >> Land region(LNDRGN)
+ Position : 58 09' 54.00" N , 067 57' 59.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Tobol'sk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-337-
+ >> Land region(LNDRGN)
+ Position : 54 50' 48.09" N , 069 20' 50.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Petropavlovsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-338-
+ >> Land region(LNDRGN)
+ Position : 55 32' 42.00" N , 078 19' 15.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Barabinsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-339-
+ >> Land region(LNDRGN)
+ Position : 55 11' 24.03" N , 083 07' 21.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Novosibirsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-340-
+ >> Land region(LNDRGN)
+ Position : 56 42' 34.09" N , 084 49' 14.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Tomak
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-341-
+ >> Land region(LNDRGN)
+ Position : 58 37' 13.09" N , 083 06' 56.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Kolpashevo
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-342-
+ >> Land region(LNDRGN)
+ Position : 56 36' 41.07" N , 090 23' 40.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Achinsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-343-
+ >> Land region(LNDRGN)
+ Position : 53 15' 19.01" N , 069 33' 38.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Kokchetav
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-344-
+ >> Land region(LNDRGN)
+ Position : 51 21' 34.04" N , 071 08' 40.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Akmolinsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-345-
+ >> Land region(LNDRGN)
+ Position : 54 03' 07.02" N , 087 00' 08.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Stalinsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-346-
+ >> Land region(LNDRGN)
+ Position : 53 11' 11.05" N , 083 45' 08.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Barnaul
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-347-
+ >> Land region(LNDRGN)
+ Position : 52 35' 32.03" N , 085 23' 49.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Biysk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-348-
+ >> Land region(LNDRGN)
+ Position : 68 34' 48.08" N , 102 06' 33.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Yessey
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-349-
+ >> Land region(LNDRGN)
+ Position : 68 26' 26.00" N , 112 20' 05.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Olenekskaya Kul'tbaz
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-351-
+ >> Coastline(COALNE)
+ Position : 70 57' 38.00" N , 150 04' 48.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-352-
+ >> Coastline(COALNE)
+ Position : 70 59' 33.00" N , 149 21' 35.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-353-
+ >> Coastline(COALNE)
+ Position : 60 48' 52.01" N , 163 27' 50.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-354-
+ >> Coastline(COALNE)
+ Position : 79 46' 24.08" N , 092 06' 39.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-355-
+ >> Coastline(COALNE)
+ Position : 79 59' 41.07" N , 094 04' 26.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-356-
+ >> Coastline(COALNE)
+ Position : 81 03' 02.08" N , 094 10' 36.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-357-
+ >> Coastline(COALNE)
+ Position : 81 01' 35.05" N , 093 33' 20.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-372-
+ >> Coastline(COALNE)
+ Position : 78 37' 18.03" N , 098 42' 20.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-373-
+ >> Coastline(COALNE)
+ Position : 79 27' 04.08" N , 092 42' 23.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-374-
+ >> Coastline(COALNE)
+ Position : 79 13' 50.00" N , 092 15' 09.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-375-
+ >> Coastline(COALNE)
+ Position : 79 23' 43.01" N , 092 25' 18.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-376-
+ >> Coastline(COALNE)
+ Position : 79 25' 40.02" N , 091 44' 52.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-377-
+ >> Coastline(COALNE)
+ Position : 79 31' 51.09" N , 090 41' 11.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-378-
+ >> Coastline(COALNE)
+ Position : 79 30' 23.02" N , 091 15' 44.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-379-
+ >> Coastline(COALNE)
+ Position : 72 27' 47.08" N , 146 02' 51.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-380-
+ >> Coastline(COALNE)
+ Position : 78 11' 01.09" N , 093 51' 28.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-381-
+ >> Coastline(COALNE)
+ Position : 77 40' 23.07" N , 091 56' 16.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-384-
+ >> Coastline(COALNE)
+ Position : 77 36' 21.07" N , 101 33' 52.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-385-
+ >> Coastline(COALNE)
+ Position : 77 38' 01.07" N , 101 22' 34.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-386-
+ >> Coastline(COALNE)
+ Position : 77 40' 12.04" N , 101 10' 30.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-387-
+ >> Land region(LNDRGN)
+ Position : 78 07' 57.01" N , 108 06' 50.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Mally Taymy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-389-
+ >> Coastline(COALNE)
+ Position : 78 04' 02.01" N , 107 19' 34.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-390-
+ >> Coastline(COALNE)
+ Position : 72 27' 35.05" N , 104 05' 44.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-391-
+ >> Coastline(COALNE)
+ Position : 72 00' 15.07" N , 127 17' 50.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-411-
+ >> Coastline(COALNE)
+ Position : 77 27' 34.09" N , 106 50' 09.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-412-
+ >> Coastline(COALNE)
+ Position : 77 18' 45.04" N , 106 19' 49.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-413-
+ >> Coastline(COALNE)
+ Position : 77 15' 10.03" N , 105 45' 26.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-414-
+ >> Coastline(COALNE)
+ Position : 77 13' 55.01" N , 107 28' 20.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-415-
+ >> Coastline(COALNE)
+ Position : 72 54' 57.04" N , 122 15' 42.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-416-
+ >> Coastline(COALNE)
+ Position : 76 38' 10.02" N , 112 02' 48.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-417-
+ >> Coastline(COALNE)
+ Position : 73 40' 52.01" N , 109 46' 49.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-418-
+ >> Coastline(COALNE)
+ Position : 76 29' 47.03" N , 106 48' 19.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-419-
+ >> Coastline(COALNE)
+ Position : 76 20' 56.09" N , 113 17' 38.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-421-
+ >> Coastline(COALNE)
+ Position : 74 16' 09.05" N , 111 53' 05.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-431-
+ >> Coastline(COALNE)
+ Position : 75 51' 24.07" N , 092 48' 27.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-432-
+ >> Coastline(COALNE)
+ Position : 76 03' 51.00" N , 091 48' 21.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-433-
+ >> Coastline(COALNE)
+ Position : 75 58' 04.01" N , 092 38' 33.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-434-
+ >> Coastline(COALNE)
+ Position : 77 05' 34.02" N , 096 31' 22.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-435-
+ >> Coastline(COALNE)
+ Position : 76 54' 29.08" N , 096 16' 38.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-443-
+ >> Coastline(COALNE)
+ Position : 76 39' 22.08" N , 097 21' 33.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-444-
+ >> Coastline(COALNE)
+ Position : 76 46' 02.03" N , 097 13' 00.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-445-
+ >> Coastline(COALNE)
+ Position : 76 50' 24.04" N , 097 51' 06.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-446-
+ >> Coastline(COALNE)
+ Position : 76 50' 39.06" N , 097 18' 21.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-467-
+ >> Coastline(COALNE)
+ Position : 76 30' 58.08" N , 095 17' 03.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-468-
+ >> Coastline(COALNE)
+ Position : 76 26' 36.00" N , 095 01' 24.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-469-
+ >> Coastline(COALNE)
+ Position : 76 34' 33.05" N , 094 13' 38.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-470-
+ >> Coastline(COALNE)
+ Position : 76 29' 47.01" N , 094 10' 13.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-471-
+ >> Coastline(COALNE)
+ Position : 76 36' 27.08" N , 094 58' 49.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-472-
+ >> Coastline(COALNE)
+ Position : 76 36' 28.07" N , 096 03' 52.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-480-
+ >> Coastline(COALNE)
+ Position : 76 42' 03.06" N , 095 40' 25.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-481-
+ >> Coastline(COALNE)
+ Position : 76 41' 16.04" N , 096 02' 08.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-482-
+ >> Coastline(COALNE)
+ Position : 76 39' 00.08" N , 095 41' 50.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-483-
+ >> Coastline(COALNE)
+ Position : 76 18' 33.00" N , 096 08' 09.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-484-
+ >> Coastline(COALNE)
+ Position : 76 05' 11.03" N , 096 59' 47.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-485-
+ >> Coastline(COALNE)
+ Position : 76 16' 30.05" N , 096 10' 57.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-486-
+ >> Coastline(COALNE)
+ Position : 76 13' 11.03" N , 094 30' 43.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-487-
+ >> Coastline(COALNE)
+ Position : 76 08' 06.06" N , 095 05' 39.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-488-
+ >> Coastline(COALNE)
+ Position : 76 20' 02.09" N , 096 43' 49.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-489-
+ >> Coastline(COALNE)
+ Position : 76 17' 54.09" N , 097 01' 51.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-490-
+ >> Coastline(COALNE)
+ Position : 76 15' 31.07" N , 096 58' 55.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-491-
+ >> Coastline(COALNE)
+ Position : 76 08' 51.07" N , 096 39' 13.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-492-
+ >> Coastline(COALNE)
+ Position : 76 00' 47.08" N , 096 21' 57.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-493-
+ >> Land region(LNDRGN)
+ Position : 73 34' 46.01" N , 110 51' 01.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Kozhevnikovo
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-494-
+ >> Coastline(COALNE)
+ Position : 71 44' 12.02" N , 100 53' 15.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-495-
+ >> Land region(LNDRGN)
+ Position : 74 25' 23.09" N , 113 55' 05.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Begicheva
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-496-
+ >> Coastline(COALNE)
+ Position : 73 36' 49.04" N , 118 21' 12.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-497-
+ >> Coastline(COALNE)
+ Position : 74 14' 59.01" N , 111 11' 25.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-498-
+ >> Coastline(COALNE)
+ Position : 74 36' 12.08" N , 112 52' 34.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-499-
+ >> Coastline(COALNE)
+ Position : 73 19' 04.01" N , 113 37' 57.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-506-
+ >> Coastline(COALNE)
+ Position : 73 03' 22.02" N , 122 06' 25.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-507-
+ >> Coastline(COALNE)
+ Position : 73 04' 49.09" N , 119 59' 38.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-508-
+ >> Coastline(COALNE)
+ Position : 73 05' 42.08" N , 119 48' 56.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-509-
+ >> Coastline(COALNE)
+ Position : 73 02' 13.02" N , 119 48' 41.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-510-
+ >> Coastline(COALNE)
+ Position : 72 53' 53.07" N , 122 36' 00.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-511-
+ >> Coastline(COALNE)
+ Position : 72 52' 30.04" N , 122 47' 18.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-512-
+ >> Coastline(COALNE)
+ Position : 72 47' 45.03" N , 123 23' 03.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-513-
+ >> Coastline(COALNE)
+ Position : 72 52' 17.07" N , 123 09' 55.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-514-
+ >> Coastline(COALNE)
+ Position : 72 57' 20.02" N , 123 07' 27.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-517-
+ >> Coastline(COALNE)
+ Position : 73 39' 05.09" N , 125 46' 41.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-518-
+ >> Coastline(COALNE)
+ Position : 72 54' 21.07" N , 123 24' 13.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-519-
+ >> Coastline(COALNE)
+ Position : 73 53' 36.02" N , 124 22' 32.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-520-
+ >> Coastline(COALNE)
+ Position : 73 59' 38.01" N , 123 25' 43.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-521-
+ >> Coastline(COALNE)
+ Position : 73 44' 22.06" N , 124 02' 39.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-531-
+ >> Coastline(COALNE)
+ Position : 72 33' 49.06" N , 127 26' 38.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-532-
+ >> Coastline(COALNE)
+ Position : 73 18' 13.08" N , 127 43' 09.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-533-
+ >> Coastline(COALNE)
+ Position : 73 08' 31.03" N , 086 50' 28.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-534-
+ >> Coastline(COALNE)
+ Position : 72 17' 25.09" N , 128 44' 04.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-535-
+ >> Coastline(COALNE)
+ Position : 72 03' 54.05" N , 129 02' 40.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-536-
+ >> Coastline(COALNE)
+ Position : 72 00' 44.07" N , 129 06' 16.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-537-
+ >> Coastline(COALNE)
+ Position : 72 01' 02.07" N , 128 53' 35.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-538-
+ >> Coastline(COALNE)
+ Position : 72 07' 07.06" N , 128 44' 56.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-539-
+ >> Coastline(COALNE)
+ Position : 72 10' 43.08" N , 128 29' 12.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-540-
+ >> Coastline(COALNE)
+ Position : 72 32' 23.04" N , 128 03' 02.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-541-
+ >> Coastline(COALNE)
+ Position : 72 21' 40.09" N , 127 44' 29.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-542-
+ >> Coastline(COALNE)
+ Position : 72 26' 36.01" N , 127 20' 34.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-544-
+ >> Coastline(COALNE)
+ Position : 72 53' 42.00" N , 124 41' 47.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-545-
+ >> Coastline(COALNE)
+ Position : 73 03' 48.07" N , 123 48' 19.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-546-
+ >> Coastline(COALNE)
+ Position : 73 00' 36.01" N , 123 47' 04.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-547-
+ >> Coastline(COALNE)
+ Position : 72 57' 55.00" N , 124 15' 51.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-548-
+ >> Coastline(COALNE)
+ Position : 73 00' 03.05" N , 124 32' 02.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-549-
+ >> Coastline(COALNE)
+ Position : 72 59' 15.07" N , 126 16' 26.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-550-
+ >> Coastline(COALNE)
+ Position : 72 37' 54.04" N , 126 22' 16.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-551-
+ >> Coastline(COALNE)
+ Position : 72 20' 22.05" N , 126 39' 22.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-552-
+ >> Coastline(COALNE)
+ Position : 72 26' 24.07" N , 126 59' 12.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-553-
+ >> Coastline(COALNE)
+ Position : 71 59' 00.05" N , 128 44' 20.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-554-
+ >> Coastline(COALNE)
+ Position : 71 42' 58.06" N , 129 16' 30.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-556-
+ >> Coastline(COALNE)
+ Position : 71 28' 49.00" N , 135 00' 11.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-557-
+ >> Coastline(COALNE)
+ Position : 71 16' 26.00" N , 136 44' 43.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-558-
+ >> Coastline(COALNE)
+ Position : 71 25' 10.08" N , 136 24' 50.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-559-
+ >> Coastline(COALNE)
+ Position : 71 16' 57.09" N , 136 34' 46.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-560-
+ >> Coastline(COALNE)
+ Position : 71 34' 21.05" N , 135 34' 33.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-561-
+ >> Coastline(COALNE)
+ Position : 71 33' 24.09" N , 135 52' 36.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-562-
+ >> Coastline(COALNE)
+ Position : 71 30' 53.06" N , 136 10' 16.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-563-
+ >> Coastline(COALNE)
+ Position : 71 35' 07.01" N , 136 40' 39.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-564-
+ >> Coastline(COALNE)
+ Position : 71 31' 34.06" N , 138 02' 43.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-565-
+ >> Coastline(COALNE)
+ Position : 71 21' 24.01" N , 137 20' 01.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-566-
+ >> Coastline(COALNE)
+ Position : 71 17' 43.03" N , 150 43' 05.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-567-
+ >> Coastline(COALNE)
+ Position : 71 24' 37.08" N , 149 37' 50.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-568-
+ >> Coastline(COALNE)
+ Position : 69 56' 42.00" N , 167 57' 15.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-569-
+ >> Coastline(COALNE)
+ Position : 71 33' 42.01" N , 149 59' 03.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-570-
+ >> Coastline(COALNE)
+ Position : 71 17' 32.02" N , 149 42' 54.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-571-
+ >> Coastline(COALNE)
+ Position : 71 29' 31.04" N , 150 21' 03.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-572-
+ >> Coastline(COALNE)
+ Position : 71 22' 21.09" N , 150 26' 29.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-573-
+ >> Coastline(COALNE)
+ Position : 71 15' 25.08" N , 150 20' 13.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-574-
+ >> Coastline(COALNE)
+ Position : 71 13' 40.07" N , 150 07' 54.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-575-
+ >> Coastline(COALNE)
+ Position : 71 16' 03.00" N , 149 52' 13.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-576-
+ >> Coastline(COALNE)
+ Position : 70 59' 24.07" N , 152 16' 16.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-577-
+ >> Coastline(COALNE)
+ Position : 70 56' 22.05" N , 150 12' 51.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-578-
+ >> Coastline(COALNE)
+ Position : 71 02' 12.02" N , 150 20' 54.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-579-
+ >> Coastline(COALNE)
+ Position : 70 50' 28.08" N , 149 05' 28.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-580-
+ >> Coastline(COALNE)
+ Position : 71 01' 20.08" N , 149 12' 02.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-581-
+ >> Coastline(COALNE)
+ Position : 71 04' 25.00" N , 149 35' 50.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-582-
+ >> Coastline(COALNE)
+ Position : 71 06' 42.02" N , 150 01' 55.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-583-
+ >> Coastline(COALNE)
+ Position : 71 08' 21.06" N , 149 37' 49.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-584-
+ >> Coastline(COALNE)
+ Position : 71 04' 11.02" N , 155 49' 02.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-585-
+ >> River(RIVERS)
+ Position : 69 45' 29.03" N , 159 21' 07.09" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-586-
+ >> Coastline(COALNE)
+ Position : 69 24' 38.04" N , 160 56' 22.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-587-
+ >> Coastline(COALNE)
+ Position : 69 32' 00.03" N , 161 43' 24.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-588-
+ >> Coastline(COALNE)
+ Position : 69 29' 48.00" N , 161 33' 43.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-589-
+ >> Coastline(COALNE)
+ Position : 69 02' 41.06" N , 161 22' 58.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-590-
+ >> Coastline(COALNE)
+ Position : 69 21' 10.04" N , 161 15' 05.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-591-
+ >> Coastline(COALNE)
+ Position : 69 45' 21.00" N , 169 56' 05.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-592-
+ >> Coastline(COALNE)
+ Position : 68 45' 53.08" N , 169 50' 10.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-593-
+ >> Coastline(COALNE)
+ Position : 64 46' 28.07" N , 175 49' 11.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-594-
+ >> Coastline(COALNE)
+ Position : 62 32' 55.05" N , 177 33' 11.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-595-
+ >> Coastline(COALNE)
+ Position : 58 46' 01.01" N , 163 54' 46.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-596-
+ >> Coastline(COALNE)
+ Position : 54 50' 08.08" N , 137 30' 01.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-597-
+ >> Coastline(COALNE)
+ Position : 54 59' 58.09" N , 136 46' 05.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-598-
+ >> Coastline(COALNE)
+ Position : 55 03' 57.02" N , 138 20' 49.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-606-
+ >> Land region(LNDRGN)
+ Position : 51 53' 10.06" N , 107 34' 59.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Ulan-Ude
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-607-
+ >> Land region(LNDRGN)
+ Position : 52 08' 43.06" N , 113 22' 02.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Chita
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-608-
+ >> Land region(LNDRGN)
+ Position : 52 26' 00.08" N , 103 45' 49.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Irkutsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-609-
+ >> Land region(LNDRGN)
+ Position : 55 17' 44.01" N , 098 59' 13.06" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Nizhneudinsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-610-
+ >> Land region(LNDRGN)
+ Position : 57 43' 50.09" N , 108 02' 45.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Kirensk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-611-
+ >> Land region(LNDRGN)
+ Position : 53 51' 01.01" N , 119 53' 43.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Mogocha
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-612-
+ >> Land region(LNDRGN)
+ Position : 57 53' 25.05" N , 114 00' 28.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Bodaybo
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-613-
+ >> Land region(LNDRGN)
+ Position : 58 39' 13.05" N , 092 07' 16.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Yeniseysk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-614-
+ >> Land region(LNDRGN)
+ Position : 56 13' 00.09" N , 092 32' 40.04" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Krasnoyarsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-615-
+ >> Land region(LNDRGN)
+ Position : 54 01' 06.02" N , 091 12' 21.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Abakan
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-616-
+ >> Land region(LNDRGN)
+ Position : 60 28' 44.07" N , 098 29' 46.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Stalino
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-621-
+ >> Coastline(COALNE)
+ Position : 74 03' 49.03" N , 135 49' 05.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-623-
+ >> Land region(LNDRGN)
+ Position : 74 02' 43.00" N , 129 55' 47.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Stolbovoy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-624-
+ >> Land region(LNDRGN)
+ Position : 75 42' 42.03" N , 129 12' 25.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Bel'kovskiy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-625-
+ >> Land region(LNDRGN)
+ Position : 76 04' 56.01" N , 132 05' 47.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Kotel'nyy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-626-
+ >> Land region(LNDRGN)
+ Position : 76 28' 39.01" N , 136 17' 44.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Faddeyevskiy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-627-
+ >> Land region(LNDRGN)
+ Position : 74 10' 10.01" N , 141 37' 03.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Malyy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-628-
+ >> Coastline(COALNE)
+ Position : 74 12' 58.00" N , 140 10' 32.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-629-
+ >> Coastline(COALNE)
+ Position : 73 47' 03.08" N , 140 50' 44.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-630-
+ >> Coastline(COALNE)
+ Position : 75 13' 21.02" N , 150 03' 56.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-631-
+ >> Coastline(COALNE)
+ Position : 75 02' 25.09" N , 143 32' 33.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-632-
+ >> Coastline(COALNE)
+ Position : 76 07' 04.07" N , 138 14' 02.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-633-
+ >> Coastline(COALNE)
+ Position : 75 47' 36.07" N , 135 48' 36.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-635-
+ >> Coastline(COALNE)
+ Position : 75 39' 13.08" N , 140 45' 42.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-636-
+ >> Coastline(COALNE)
+ Position : 76 18' 02.02" N , 141 30' 00.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-637-
+ >> Coastline(COALNE)
+ Position : 76 18' 43.01" N , 140 24' 03.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-638-
+ >> Coastline(COALNE)
+ Position : 76 02' 45.09" N , 140 54' 36.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-639-
+ >> Land region(LNDRGN)
+ Position : 76 54' 11.08" N , 147 42' 44.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Bennet
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-640-
+ >> Land region(LNDRGN)
+ Position : 74 55' 26.05" N , 151 41' 34.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Novaya Sibir
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-641-
+ >> Land region(LNDRGN)
+ Position : 73 40' 03.01" N , 144 02' 17.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Bol'shoy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-643-
+ >> Land region(LNDRGN)
+ Position : 67 31' 44.02" N , 134 06' 23.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : P;khoyansk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-644-
+ >> Land region(LNDRGN)
+ Position : 53 21' 17.09" N , 124 00' 36.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Dzhelinda
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-645-
+ >> Land region(LNDRGN)
+ Position : 53 53' 10.03" N , 127 22' 38.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Zeya
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-646-
+ >> Land region(LNDRGN)
+ Position : 62 14' 25.04" N , 129 40' 59.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Yakutsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-647-
+ >> Land region(LNDRGN)
+ Position : 60 23' 54.06" N , 134 14' 59.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Ust'-Maya
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-648-
+ >> Land region(LNDRGN)
+ Position : 59 23' 05.02" N , 143 11' 54.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Okhotsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-649-
+ >> Land region(LNDRGN)
+ Position : 53 08' 46.03" N , 140 40' 44.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Nikolayevsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-650-
+ >> Land region(LNDRGN)
+ Position : 50 14' 33.06" N , 127 32' 15.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Blagoveshchensk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-654-
+ >> Coastline(COALNE)
+ Position : 52 47' 56.01" N , 172 40' 46.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-655-
+ >> Coastline(COALNE)
+ Position : 51 51' 46.06" N , 179 32' 57.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-656-
+ >> Coastline(COALNE)
+ Position : 51 29' 35.03" N , 179 01' 16.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-657-
+ >> Coastline(COALNE)
+ Position : 51 51' 17.01" N , 177 24' 45.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-658-
+ >> Coastline(COALNE)
+ Position : 51 55' 00.04" N , 178 05' 37.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-659-
+ >> Coastline(COALNE)
+ Position : 51 53' 35.01" N , 178 29' 09.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-660-
+ >> Coastline(COALNE)
+ Position : 51 45' 57.09" N , 178 17' 52.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-662-
+ >> Coastline(COALNE)
+ Position : 52 27' 37.00" N , 173 26' 25.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-663-
+ >> Coastline(COALNE)
+ Position : 50 24' 58.09" N , 155 29' 51.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-664-
+ >> Coastline(COALNE)
+ Position : 50 47' 31.06" N , 156 17' 01.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-665-
+ >> Coastline(COALNE)
+ Position : 50 47' 38.04" N , 155 33' 34.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-666-
+ >> Land region(LNDRGN)
+ Position : 61 52' 16.02" N , 090 30' 06.06" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Podkamennaya Tunguska
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-667-
+ >> Land region(LNDRGN)
+ Position : 55 40' 01.05" N , 163 39' 58.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Karaginskiy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-668-
+ >> Land region(LNDRGN)
+ Position : 52 57' 14.01" N , 158 39' 43.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Petropavloysk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-669-
+ >> Coastline(COALNE)
+ Position : 55 11' 31.05" N , 166 09' 22.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-670-
+ >> Coastline(COALNE)
+ Position : 54 41' 37.04" N , 167 36' 42.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-671-
+ >> Land region(LNDRGN)
+ Position : 59 38' 38.01" N , 153 50' 28.06" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Yamsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-672-
+ >> Land region(LNDRGN)
+ Position : 62 54' 16.03" N , 152 34' 50.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Seymchan
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-673-
+ >> Land region(LNDRGN)
+ Position : 61 51' 20.00" N , 158 47' 05.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Nayakhan
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-674-
+ >> Land region(LNDRGN)
+ Position : 59 33' 12.08" N , 150 51' 43.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Magadan
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-676-
+ >> Land region(LNDRGN)
+ Position : 50 48' 53.04" N , 142 03' 24.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Aleksandrovsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-677-
+ >> Coastline(COALNE)
+ Position : 58 59' 57.07" N , 150 29' 36.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-678-
+ >> River(RIVERS)
+ Position : 53 23' 45.00" N , 139 57' 52.00" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-679-
+ >> River(RIVERS)
+ Position : 50 02' 07.08" N , 136 45' 01.01" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-684-
+ >> Land region(LNDRGN)
+ Position : 66 34' 33.02" N , 123 18' 54.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Zhigansk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-685-
+ >> Coastline(COALNE)
+ Position : 70 47' 47.08" N , 160 30' 42.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-686-
+ >> Coastline(COALNE)
+ Position : 70 42' 48.06" N , 161 38' 34.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-687-
+ >> Coastline(COALNE)
+ Position : 76 38' 30.07" N , 149 02' 26.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-688-
+ >> Coastline(COALNE)
+ Position : 76 07' 06.09" N , 152 36' 27.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-689-
+ >> Coastline(COALNE)
+ Position : 77 02' 43.00" N , 156 30' 48.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-691-
+ >> River(RIVERS)
+ Position : 51 20' 03.01" N , 139 16' 24.04" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-692-
+ >> River(RIVERS)
+ Position : 52 56' 41.07" N , 139 53' 55.06" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-693-
+ >> River(RIVERS)
+ Position : 71 13' 53.02" N , 138 35' 30.06" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-694-
+ >> River(RIVERS)
+ Position : 71 22' 19.09" N , 138 59' 51.09" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 39000000
+ [Status(STATUS)]  : permanent
+=
+-696-
+ >> Depth contour(DEPCNT)
+ Position : 69 38' 43.02" N , 065 58' 07.08" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 0 metres
+=
+-697-
+ >> Coastline(COALNE)
+ Position : 68 48' 35.02" N , 075 12' 03.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-698-
+ >> Coastline(COALNE)
+ Position : 69 28' 03.08" N , 178 14' 24.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-699-
+ >> Coastline(COALNE)
+ Position : 65 02' 17.00" N , 176 25' 06.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-700-
+ >> Coastline(COALNE)
+ Position : 75 38' 34.05" N , 090 53' 34.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-701-
+ >> Land region(LNDRGN)
+ Position : 68 21' 32.00" N , 094 52' 25.05" E
+ Primitive  : Point
+ [Information(INFORM)]  : 1
+ [Object name(OBJNAM)]  : RUSSIA
+ [Scale minimum(SCAMIN)]  : 90000000
+ [NOBJNM]  : 러시아
+=
+-706-
+ >> Land region(LNDRGN)
+ Position : 55 57' 12.05" N , 158 45' 40.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : POLUOSTROV KAMCHATKA
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-707-
+ >> Land region(LNDRGN)
+ Position : 65 39' 57.02" N , 126 06' 45.06" E
+ Primitive  : Point
+ [Information(INFORM)]  : 1
+ [Object name(OBJNAM)]  : SIBERIA
+ [Scale minimum(SCAMIN)]  : 90000000
+ [NOBJNM]  : 시베리아
+=
+-709-
+ >> Coastline(COALNE)
+ Position : 72 01' 27.01" N , 126 58' 52.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-710-
+ >> Coastline(COALNE)
+ Position : 71 37' 37.03" N , 132 21' 28.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-711-
+ >> Land region(LNDRGN)
+ Position : 75 59' 26.07" N , 076 08' 01.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : a Izvestiy Tsik
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-712-
+ >> Land region(LNDRGN)
+ Position : 75 22' 51.02" N , 073 41' 30.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strova Arkticheskogo Instituta
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-713-
+ >> Land region(LNDRGN)
+ Position : 74 38' 02.04" N , 073 52' 34.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : strov Sverdrup
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-714-
+ >> Land region(LNDRGN)
+ Position : 73 37' 03.03" N , 071 11' 44.04" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Belyy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-719-
+ >> Land region(LNDRGN)
+ Position : 71 31' 11.05" N , 069 55' 51.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : POLUOSTROV YAMAL
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-720-
+ >> Land region(LNDRGN)
+ Position : 72 39' 14.06" N , 078 18' 18.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Yeniseyskiy Zaliv
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-721-
+ >> Land region(LNDRGN)
+ Position : 74 06' 49.01" N , 082 37' 19.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Pyasinskiy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-722-
+ >> Land region(LNDRGN)
+ Position : 74 05' 39.09" N , 083 13' 36.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Zaliv
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-723-
+ >> Land region(LNDRGN)
+ Position : 75 27' 55.02" N , 097 51' 20.04" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : POLUOSTROV TAYMYR
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-728-
+ >> Sea area / named water area(SEAARE)
+ Position : 71 30' 45.07" N , 131 15' 41.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Guba Buorkhaya
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-729-
+ >> Sea area / named water area(SEAARE)
+ Position : 71 48' 19.09" N , 135 47' 03.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Yanskiy Zaliv
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-733-
+ >> Sea area / named water area(SEAARE)
+ Position : 75 00' 36.09" N , 135 25' 23.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Proliv Zarya
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-734-
+ >> Sea area / named water area(SEAARE)
+ Position : 74 24' 00.02" N , 138 35' 41.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Proliv Sannikova
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-735-
+ >> Sea area / named water area(SEAARE)
+ Position : 73 08' 05.04" N , 141 41' 25.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Proliv Dmitriya Lapteva
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-736-
+ >> Sea area / named water area(SEAARE)
+ Position : 75 09' 47.04" N , 144 55' 27.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Proliv Blagoveshchenskiy
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-737-
+ >> Sea area / named water area(SEAARE)
+ Position : 55 56' 14.05" N , 150 13' 12.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : SEA OF OKHOTSK
+ [Scale minimum(SCAMIN)]  : 9000000
+ [NOBJNM]  : 오호츠크해
+=
+-738-
+ >> Sea area / named water area(SEAARE)
+ Position : 59 52' 32.05" N , 158 01' 15.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Zaliv Shelekhova
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-739-
+ >> Land region(LNDRGN)
+ Position : 59 58' 09.07" N , 170 15' 44.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Mys Olyutorskiy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-740-
+ >> Land region(LNDRGN)
+ Position : 52 50' 43.08" N , 172 50' 44.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Near Is
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-741-
+ >> Land region(LNDRGN)
+ Position : 51 57' 34.05" N , 177 28' 11.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Rat Is
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-742-
+ >> Land region(LNDRGN)
+ Position : 70 45' 15.09" N , 161 34' 37.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Ostrova Medvezh'i
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-743-
+ >> Land region(LNDRGN)
+ Position : 69 48' 44.05" N , 168 29' 36.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Ostrov Ayon
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-744-
+ >> Sea area / named water area(SEAARE)
+ Position : 76 40' 05.00" N , 160 51' 56.06" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : EAST SIBERIAN SEA
+ [Scale minimum(SCAMIN)]  : 9000000
+ [NOBJNM]  : 동시베리아해
+=
+-745-
+ >> Land region(LNDRGN)
+ Position : 80 37' 07.09" N , 094 39' 58.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : SEVERNAYA ZEMLYA
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-746-
+ >> Land region(LNDRGN)
+ Position : 76 47' 43.05" N , 068 29' 14.06" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : NOVAYA ZEMLYA
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-747-
+ >> Sea area / named water area(SEAARE)
+ Position : 73 39' 36.00" N , 067 08' 26.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : KARA SEA
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-748-
+ >> Sea area / named water area(SEAARE)
+ Position : 78 00' 48.09" N , 101 48' 38.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Proliv Borisa Vil'kitskogo
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-749-
+ >> Land region(LNDRGN)
+ Position : 77 01' 52.08" N , 095 38' 36.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Arkbipelag Nardenshel'da
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-750-
+ >> Land region(LNDRGN)
+ Position : 80 29' 37.00" N , 099 14' 22.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : SEVERNAYA
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-751-
+ >> Land region(LNDRGN)
+ Position : 51 52' 10.01" N , 081 24' 59.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Semipaletinsk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-752-
+ >> Depth contour(DEPCNT)
+ Position : 77 44' 02.00" N , 077 57' 07.05" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-753-
+ >> Depth contour(DEPCNT)
+ Position : 81 33' 39.01" N , 091 19' 57.04" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-754-
+ >> Depth contour(DEPCNT)
+ Position : 79 53' 08.00" N , 087 22' 34.02" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-755-
+ >> Depth contour(DEPCNT)
+ Position : 78 42' 48.01" N , 139 20' 58.08" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-756-
+ >> Depth contour(DEPCNT)
+ Position : 75 56' 57.01" N , 070 28' 28.09" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-758-
+ >> Depth area(DEPARE)
+ Position : 75 11' 40.09" N , 126 13' 49.05" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-759-
+ >> Depth area(DEPARE)
+ Position : 81 01' 12.08" N , 126 29' 28.09" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 200 metres
+ [Depth range value 2(DRVAL2)]  : 10000 metres
+=
+-760-
+ >> Depth area(DEPARE)
+ Position : 76 54' 42.01" N , 166 20' 57.05" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 200 metres
+ [Depth range value 2(DRVAL2)]  : 10000 metres
+=
+-761-
+ >> Depth contour(DEPCNT)
+ Position : 76 19' 33.07" N , 167 11' 42.04" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-762-
+ >> Depth area(DEPARE)
+ Position : 75 29' 44.08" N , 067 51' 37.07" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 200 metres
+ [Depth range value 2(DRVAL2)]  : 10000 metres
+=
+-763-
+ >> Depth area(DEPARE)
+ Position : 80 04' 23.02" N , 088 09' 43.02" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-765-
+ >> Depth contour(DEPCNT)
+ Position : 57 43' 10.00" N , 150 16' 16.07" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-766-
+ >> Depth contour(DEPCNT)
+ Position : 59 20' 39.06" N , 165 30' 47.06" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-767-
+ >> Depth contour(DEPCNT)
+ Position : 54 51' 27.07" N , 166 03' 12.06" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-768-
+ >> Depth contour(DEPCNT)
+ Position : 54 24' 13.04" N , 167 48' 52.09" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-769-
+ >> Depth area(DEPARE)
+ Position : 54 37' 34.02" N , 167 37' 47.06" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-770-
+ >> Depth area(DEPARE)
+ Position : 55 02' 47.03" N , 166 06' 32.02" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-771-
+ >> Depth area(DEPARE)
+ Position : 57 36' 26.08" N , 153 09' 44.04" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-772-
+ >> Depth area(DEPARE)
+ Position : 54 54' 24.01" N , 170 55' 21.00" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 200 metres
+ [Depth range value 2(DRVAL2)]  : 10000 metres
+=
+-773-
+ >> Depth contour(DEPCNT)
+ Position : 55 12' 46.08" N , 146 34' 20.01" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-774-
+ >> Depth contour(DEPCNT)
+ Position : 55 22' 39.03" N , 145 17' 09.02" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-775-
+ >> Depth contour(DEPCNT)
+ Position : 56 12' 04.07" N , 143 21' 35.06" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-776-
+ >> Depth contour(DEPCNT)
+ Position : 56 06' 00.01" N , 142 49' 02.04" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-777-
+ >> Depth area(DEPARE)
+ Position : 52 31' 14.06" N , 173 32' 51.04" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-778-
+ >> Depth contour(DEPCNT)
+ Position : 52 10' 45.02" N , 174 02' 42.06" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-779-
+ >> Depth area(DEPARE)
+ Position : 51 55' 37.08" N , 177 52' 40.05" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-780-
+ >> Depth area(DEPARE)
+ Position : 52 01' 18.00" N , 179 36' 12.08" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-781-
+ >> Depth area(DEPARE)
+ Position : 51 28' 03.02" N , 178 59' 34.00" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-782-
+ >> Depth contour(DEPCNT)
+ Position : 52 14' 11.02" N , 179 52' 27.03" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-783-
+ >> Depth contour(DEPCNT)
+ Position : 51 42' 22.02" N , 178 39' 18.00" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-784-
+ >> Depth contour(DEPCNT)
+ Position : 51 57' 48.04" N , 177 00' 18.08" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-785-
+ >> Land region(LNDRGN)
+ Position : 55 02' 12.06" N , 166 07' 13.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Ostrov Bennga
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-786-
+ >> Land region(LNDRGN)
+ Position : 54 37' 45.07" N , 167 39' 45.07" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Ostrov Mednyy
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-787-
+ >> Sea area / named water area(SEAARE)
+ Position : 54 05' 25.06" N , 168 18' 43.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Komandorakiye Ostrova
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-788-
+ >> Sea area / named water area(SEAARE)
+ Position : 57 01' 58.03" N , 167 13' 35.09" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Komandorskaya Basin
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-789-
+ >> Sea area / named water area(SEAARE)
+ Position : 57 56' 40.06" N , 171 47' 26.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Shirshov Ridge
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-790-
+ >> Land region(LNDRGN)
+ Position : 52 22' 29.00" N , 173 31' 46.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Agattu Is
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-791-
+ >> Land region(LNDRGN)
+ Position : 50 44' 43.01" N , 156 21' 46.08" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Severo-Kunl'Sk
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-792-
+ >> Sea area / named water area(SEAARE)
+ Position : 51 09' 34.07" N , 156 58' 59.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Mys Lopatka
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-793-
+ >> Land region(LNDRGN)
+ Position : 57 48' 59.07" N , 158 46' 00.01" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Tigil'
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-794-
+ >> Sea area / named water area(SEAARE)
+ Position : 57 18' 16.06" N , 176 30' 50.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Aleutian Basin
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-795-
+ >> Sea area / named water area(SEAARE)
+ Position : 57 18' 16.06" N , 176 30' 50.02" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Aleutian Basin
+ [Scale minimum(SCAMIN)]  : 9000000
+=
+-796-
+ >> Depth area(DEPARE)
+ Position : 53 51' 30.07" N , 149 38' 06.02" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 200 metres
+ [Depth range value 2(DRVAL2)]  : 10000 metres
+=
+-797-
+ >> Depth area(DEPARE)
+ Position : 55 29' 11.03" N , 145 10' 56.05" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-798-
+ >> Depth area(DEPARE)
+ Position : 55 19' 22.01" N , 146 23' 08.09" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-799-
+ >> Depth area(DEPARE)
+ Position : 56 07' 34.07" N , 142 40' 37.01" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-800-
+ >> Depth area(DEPARE)
+ Position : 56 17' 30.03" N , 143 19' 42.06" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-801-
+ >> Land region(LNDRGN)
+ Position : 63 49' 54.08" N , 168 29' 29.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Penzhina
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-802-
+ >> Land region(LNDRGN)
+ Position : 64 30' 52.08" N , 170 17' 23.05" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Markovo
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-803-
+ >> Land region(LNDRGN)
+ Position : 62 27' 22.03" N , 165 18' 37.03" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Manily
+ [Scale minimum(SCAMIN)]  : 120000000
+=
+-810-
+ >> Shoreline Construction(SLCONS)
+ Position : 53 25' 58.08" N , 122 37' 21.03" E
+ Primitive  : Line
+ [Condition(CONDTN)]  : under construction
+=
+-811-
+ >> Shoreline Construction(SLCONS)
+ Position : 50 13' 43.09" N , 114 43' 50.09" E
+ Primitive  : Line
+ [Condition(CONDTN)]  : under construction
+=
+-812-
+ >> Shoreline Construction(SLCONS)
+ Position : 50 41' 19.07" N , 092 37' 49.03" E
+ Primitive  : Line
+ [Condition(CONDTN)]  : under construction
+=
+-813-
+ >> Shoreline Construction(SLCONS)
+ Position : 50 03' 01.07" N , 096 36' 30.06" E
+ Primitive  : Line
+ [Condition(CONDTN)]  : under construction
+=
+-814-
+ >> Shoreline Construction(SLCONS)
+ Position : 51 07' 10.04" N , 102 11' 41.07" E
+ Primitive  : Line
+ [Condition(CONDTN)]  : under construction
+=
+-815-
+ >> Ice area(ICEARE)
+ Position : 81 07' 24.08" N , 065 12' 02.04" E
+ Primitive  : Area
+ [Category of ice(CATICE)]  : glacier
+=
+-816-
+ >> Depth area(DEPARE)
+ Position : 80 51' 24.04" N , 065 30' 10.09" E
+ Primitive  : Area
+ [Depth range value 1(DRVAL1)]  : 0 metres
+ [Depth range value 2(DRVAL2)]  : 200 metres
+=
+-817-
+ >> Depth contour(DEPCNT)
+ Position : 80 55' 45.02" N , 066 18' 21.06" E
+ Primitive  : Line
+ [Scale minimum(SCAMIN)]  : 97500000
+ [Value of depth contour(VALDCO)]  : 200 metres
+=
+-818-
+ >> Coastline(COALNE)
+ Position : 73 55' 32.07" N , 086 47' 21.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-819-
+ >> Land area(LNDARE)
+ Position : 73 55' 37.09" N , 086 47' 11.02" E
+ Primitive  : Area
+=
+-820-
+ >> Coastline(COALNE)
+ Position : 74 08' 17.05" N , 084 53' 15.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-821-
+ >> Land area(LNDARE)
+ Position : 74 08' 22.08" N , 084 53' 04.03" E
+ Primitive  : Area
+=
+-822-
+ >> Coastline(COALNE)
+ Position : 74 10' 39.02" N , 084 47' 58.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-823-
+ >> Land area(LNDARE)
+ Position : 74 10' 44.04" N , 084 47' 47.05" E
+ Primitive  : Area
+=
+-824-
+ >> Coastline(COALNE)
+ Position : 74 11' 37.01" N , 085 00' 13.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-825-
+ >> Land area(LNDARE)
+ Position : 74 11' 42.04" N , 085 00' 02.06" E
+ Primitive  : Area
+=
+-826-
+ >> Coastline(COALNE)
+ Position : 74 18' 24.05" N , 085 09' 06.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-827-
+ >> Land area(LNDARE)
+ Position : 74 18' 29.07" N , 085 08' 56.01" E
+ Primitive  : Area
+=
+-828-
+ >> Coastline(COALNE)
+ Position : 74 20' 23.07" N , 085 14' 35.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-829-
+ >> Land area(LNDARE)
+ Position : 74 20' 28.09" N , 085 14' 24.08" E
+ Primitive  : Area
+=
+-830-
+ >> Coastline(COALNE)
+ Position : 74 22' 44.09" N , 085 15' 53.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-831-
+ >> Land area(LNDARE)
+ Position : 74 22' 50.01" N , 085 15' 42.07" E
+ Primitive  : Area
+=
+-832-
+ >> Coastline(COALNE)
+ Position : 74 33' 44.07" N , 084 59' 41.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-833-
+ >> Land area(LNDARE)
+ Position : 74 33' 50.00" N , 084 59' 30.06" E
+ Primitive  : Area
+=
+-834-
+ >> Coastline(COALNE)
+ Position : 74 52' 06.02" N , 085 18' 24.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-835-
+ >> Land area(LNDARE)
+ Position : 74 52' 11.04" N , 085 18' 13.08" E
+ Primitive  : Area
+=
+-836-
+ >> Coastline(COALNE)
+ Position : 74 50' 20.07" N , 085 19' 34.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-837-
+ >> Land area(LNDARE)
+ Position : 74 50' 25.09" N , 085 19' 24.00" E
+ Primitive  : Area
+=
+-838-
+ >> Coastline(COALNE)
+ Position : 74 48' 12.00" N , 085 21' 37.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-839-
+ >> Land area(LNDARE)
+ Position : 74 48' 17.02" N , 085 21' 26.08" E
+ Primitive  : Area
+=
+-840-
+ >> Coastline(COALNE)
+ Position : 74 53' 01.02" N , 085 55' 15.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-841-
+ >> Land area(LNDARE)
+ Position : 74 53' 06.04" N , 085 55' 05.01" E
+ Primitive  : Area
+=
+-842-
+ >> Coastline(COALNE)
+ Position : 74 21' 39.07" N , 082 44' 00.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-843-
+ >> Land area(LNDARE)
+ Position : 74 21' 44.09" N , 082 43' 49.05" E
+ Primitive  : Area
+=
+-844-
+ >> Coastline(COALNE)
+ Position : 74 21' 39.07" N , 083 57' 26.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-845-
+ >> Land area(LNDARE)
+ Position : 74 21' 44.09" N , 083 57' 15.07" E
+ Primitive  : Area
+=
+-846-
+ >> Coastline(COALNE)
+ Position : 73 54' 56.06" N , 084 31' 37.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-847-
+ >> Land area(LNDARE)
+ Position : 73 55' 01.08" N , 084 31' 26.01" E
+ Primitive  : Area
+=
+-848-
+ >> Coastline(COALNE)
+ Position : 73 50' 01.00" N , 084 38' 46.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-849-
+ >> Land area(LNDARE)
+ Position : 73 50' 06.02" N , 084 38' 36.00" E
+ Primitive  : Area
+=
+-850-
+ >> Coastline(COALNE)
+ Position : 75 41' 23.03" N , 087 42' 28.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-851-
+ >> Land area(LNDARE)
+ Position : 75 41' 28.05" N , 087 42' 18.07" E
+ Primitive  : Area
+=
+-852-
+ >> Coastline(COALNE)
+ Position : 75 44' 09.04" N , 087 58' 23.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-853-
+ >> Land area(LNDARE)
+ Position : 75 44' 14.06" N , 087 58' 13.02" E
+ Primitive  : Area
+=
+-854-
+ >> Coastline(COALNE)
+ Position : 75 45' 57.09" N , 088 14' 54.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-855-
+ >> Land area(LNDARE)
+ Position : 75 46' 03.01" N , 088 14' 44.05" E
+ Primitive  : Area
+=
+-856-
+ >> Coastline(COALNE)
+ Position : 75 42' 20.07" N , 088 37' 32.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-857-
+ >> Land area(LNDARE)
+ Position : 75 42' 25.09" N , 088 37' 22.07" E
+ Primitive  : Area
+=
+-858-
+ >> Coastline(COALNE)
+ Position : 75 40' 01.05" N , 088 47' 07.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-859-
+ >> Land area(LNDARE)
+ Position : 75 40' 06.07" N , 088 46' 57.09" E
+ Primitive  : Area
+=
+-860-
+ >> Coastline(COALNE)
+ Position : 75 41' 29.03" N , 089 01' 24.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-861-
+ >> Land area(LNDARE)
+ Position : 75 41' 34.05" N , 089 01' 14.05" E
+ Primitive  : Area
+=
+-862-
+ >> Coastline(COALNE)
+ Position : 75 54' 00.06" N , 091 34' 55.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-863-
+ >> Land area(LNDARE)
+ Position : 75 54' 05.08" N , 091 34' 46.07" E
+ Primitive  : Area
+=
+-864-
+ >> Coastline(COALNE)
+ Position : 75 55' 50.04" N , 092 06' 00.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-865-
+ >> Land area(LNDARE)
+ Position : 75 55' 55.05" N , 092 05' 52.01" E
+ Primitive  : Area
+=
+-866-
+ >> Coastline(COALNE)
+ Position : 75 55' 35.04" N , 092 16' 36.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-867-
+ >> Land area(LNDARE)
+ Position : 75 55' 40.06" N , 092 16' 27.05" E
+ Primitive  : Area
+=
+-868-
+ >> Coastline(COALNE)
+ Position : 76 04' 36.00" N , 092 02' 15.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-869-
+ >> Land area(LNDARE)
+ Position : 76 04' 41.02" N , 092 02' 06.06" E
+ Primitive  : Area
+=
+-870-
+ >> Coastline(COALNE)
+ Position : 76 02' 52.03" N , 092 14' 12.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-871-
+ >> Land area(LNDARE)
+ Position : 76 02' 57.05" N , 092 14' 04.00" E
+ Primitive  : Area
+=
+-872-
+ >> Coastline(COALNE)
+ Position : 76 00' 18.08" N , 092 23' 05.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-873-
+ >> Land area(LNDARE)
+ Position : 76 00' 24.00" N , 092 22' 57.00" E
+ Primitive  : Area
+=
+-874-
+ >> Coastline(COALNE)
+ Position : 77 09' 26.01" N , 090 08' 44.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-875-
+ >> Land area(LNDARE)
+ Position : 77 09' 31.02" N , 090 08' 35.07" E
+ Primitive  : Area
+=
+-876-
+ >> Coastline(COALNE)
+ Position : 77 15' 39.08" N , 090 37' 17.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-877-
+ >> Land area(LNDARE)
+ Position : 77 15' 45.00" N , 090 37' 08.09" E
+ Primitive  : Area
+=
+-878-
+ >> Coastline(COALNE)
+ Position : 77 19' 15.02" N , 090 44' 19.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-879-
+ >> Land area(LNDARE)
+ Position : 77 19' 20.04" N , 090 44' 10.09" E
+ Primitive  : Area
+=
+-880-
+ >> Coastline(COALNE)
+ Position : 76 36' 59.01" N , 094 22' 39.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-881-
+ >> Land area(LNDARE)
+ Position : 76 37' 04.03" N , 094 22' 31.09" E
+ Primitive  : Area
+=
+-882-
+ >> Coastline(COALNE)
+ Position : 76 37' 23.01" N , 093 59' 18.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-883-
+ >> Land area(LNDARE)
+ Position : 76 37' 28.03" N , 093 59' 10.05" E
+ Primitive  : Area
+=
+-884-
+ >> Coastline(COALNE)
+ Position : 76 40' 19.06" N , 094 24' 52.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-885-
+ >> Land area(LNDARE)
+ Position : 76 40' 24.07" N , 094 24' 45.04" E
+ Primitive  : Area
+=
+-886-
+ >> Coastline(COALNE)
+ Position : 76 38' 14.06" N , 094 36' 59.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-887-
+ >> Land area(LNDARE)
+ Position : 76 38' 19.07" N , 094 36' 52.00" E
+ Primitive  : Area
+=
+-888-
+ >> Coastline(COALNE)
+ Position : 76 43' 10.02" N , 094 28' 20.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-889-
+ >> Land area(LNDARE)
+ Position : 76 43' 15.04" N , 094 28' 13.00" E
+ Primitive  : Area
+=
+-890-
+ >> Coastline(COALNE)
+ Position : 76 45' 36.05" N , 094 29' 49.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-891-
+ >> Land area(LNDARE)
+ Position : 76 45' 41.07" N , 094 29' 41.09" E
+ Primitive  : Area
+=
+-892-
+ >> Coastline(COALNE)
+ Position : 76 41' 33.00" N , 094 44' 24.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-893-
+ >> Land area(LNDARE)
+ Position : 76 41' 38.02" N , 094 44' 16.09" E
+ Primitive  : Area
+=
+-894-
+ >> Coastline(COALNE)
+ Position : 76 44' 04.07" N , 094 47' 52.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-895-
+ >> Land area(LNDARE)
+ Position : 76 44' 09.09" N , 094 47' 44.05" E
+ Primitive  : Area
+=
+-896-
+ >> Coastline(COALNE)
+ Position : 76 41' 58.06" N , 095 20' 07.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-897-
+ >> Land area(LNDARE)
+ Position : 76 42' 03.08" N , 095 19' 59.08" E
+ Primitive  : Area
+=
+-898-
+ >> Coastline(COALNE)
+ Position : 76 57' 25.05" N , 095 43' 31.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-899-
+ >> Land area(LNDARE)
+ Position : 76 57' 30.06" N , 095 43' 24.08" E
+ Primitive  : Area
+=
+-900-
+ >> Coastline(COALNE)
+ Position : 76 55' 47.01" N , 095 48' 34.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-901-
+ >> Land area(LNDARE)
+ Position : 76 55' 52.03" N , 095 48' 27.06" E
+ Primitive  : Area
+=
+-902-
+ >> Coastline(COALNE)
+ Position : 76 52' 33.05" N , 095 43' 24.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-903-
+ >> Land area(LNDARE)
+ Position : 76 52' 38.07" N , 095 43' 17.00" E
+ Primitive  : Area
+=
+-904-
+ >> Coastline(COALNE)
+ Position : 76 50' 32.08" N , 095 44' 58.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-905-
+ >> Land area(LNDARE)
+ Position : 76 50' 38.00" N , 095 44' 51.09" E
+ Primitive  : Area
+=
+-906-
+ >> Coastline(COALNE)
+ Position : 76 52' 08.06" N , 097 32' 15.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-907-
+ >> Land area(LNDARE)
+ Position : 76 52' 13.07" N , 097 32' 09.06" E
+ Primitive  : Area
+=
+-908-
+ >> Coastline(COALNE)
+ Position : 76 52' 10.07" N , 096 49' 30.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-909-
+ >> Land area(LNDARE)
+ Position : 76 52' 15.09" N , 096 49' 23.06" E
+ Primitive  : Area
+=
+-910-
+ >> Coastline(COALNE)
+ Position : 76 53' 00.06" N , 096 42' 01.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-911-
+ >> Land area(LNDARE)
+ Position : 76 53' 05.08" N , 096 41' 54.04" E
+ Primitive  : Area
+=
+-912-
+ >> Coastline(COALNE)
+ Position : 76 51' 24.00" N , 096 29' 54.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-913-
+ >> Land area(LNDARE)
+ Position : 76 51' 29.01" N , 096 29' 48.00" E
+ Primitive  : Area
+=
+-914-
+ >> Coastline(COALNE)
+ Position : 76 34' 12.04" N , 095 57' 21.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-915-
+ >> Land area(LNDARE)
+ Position : 76 34' 17.06" N , 095 57' 14.03" E
+ Primitive  : Area
+=
+-916-
+ >> Coastline(COALNE)
+ Position : 76 33' 41.00" N , 096 08' 21.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-917-
+ >> Land area(LNDARE)
+ Position : 76 33' 46.02" N , 096 08' 14.03" E
+ Primitive  : Area
+=
+-918-
+ >> Coastline(COALNE)
+ Position : 76 34' 30.05" N , 096 26' 01.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-919-
+ >> Land area(LNDARE)
+ Position : 76 34' 35.07" N , 096 25' 54.05" E
+ Primitive  : Area
+=
+-920-
+ >> Coastline(COALNE)
+ Position : 76 34' 37.08" N , 095 29' 07.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-921-
+ >> Land area(LNDARE)
+ Position : 76 34' 42.09" N , 095 29' 00.01" E
+ Primitive  : Area
+=
+-922-
+ >> Coastline(COALNE)
+ Position : 76 32' 05.05" N , 095 32' 50.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-923-
+ >> Land area(LNDARE)
+ Position : 76 32' 10.06" N , 095 32' 43.06" E
+ Primitive  : Area
+=
+-924-
+ >> Coastline(COALNE)
+ Position : 76 21' 58.04" N , 095 06' 00.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-925-
+ >> Land area(LNDARE)
+ Position : 76 22' 03.05" N , 095 05' 53.02" E
+ Primitive  : Area
+=
+-926-
+ >> Coastline(COALNE)
+ Position : 76 24' 09.05" N , 095 08' 51.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-927-
+ >> Land area(LNDARE)
+ Position : 76 24' 14.07" N , 095 08' 44.06" E
+ Primitive  : Area
+=
+-928-
+ >> Coastline(COALNE)
+ Position : 76 27' 02.02" N , 095 21' 43.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-929-
+ >> Land area(LNDARE)
+ Position : 76 27' 07.03" N , 095 21' 35.07" E
+ Primitive  : Area
+=
+-930-
+ >> Coastline(COALNE)
+ Position : 76 23' 19.01" N , 096 12' 31.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-931-
+ >> Land area(LNDARE)
+ Position : 76 23' 24.03" N , 096 12' 24.04" E
+ Primitive  : Area
+=
+-932-
+ >> Coastline(COALNE)
+ Position : 76 21' 10.04" N , 094 33' 31.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-933-
+ >> Land area(LNDARE)
+ Position : 76 21' 15.06" N , 094 33' 23.07" E
+ Primitive  : Area
+=
+-934-
+ >> Coastline(COALNE)
+ Position : 76 24' 32.01" N , 094 45' 53.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-935-
+ >> Land area(LNDARE)
+ Position : 76 24' 37.03" N , 094 45' 45.09" E
+ Primitive  : Area
+=
+-936-
+ >> Coastline(COALNE)
+ Position : 77 19' 20.02" N , 100 04' 43.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-937-
+ >> Land area(LNDARE)
+ Position : 77 19' 25.04" N , 100 04' 38.07" E
+ Primitive  : Area
+=
+-938-
+ >> Coastline(COALNE)
+ Position : 77 13' 54.03" N , 100 19' 04.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-939-
+ >> Land area(LNDARE)
+ Position : 77 13' 59.05" N , 100 18' 59.02" E
+ Primitive  : Area
+=
+-940-
+ >> Coastline(COALNE)
+ Position : 77 12' 00.07" N , 100 11' 16.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-941-
+ >> Land area(LNDARE)
+ Position : 77 12' 05.08" N , 100 11' 11.02" E
+ Primitive  : Area
+=
+-942-
+ >> Coastline(COALNE)
+ Position : 77 10' 06.08" N , 100 06' 14.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-943-
+ >> Land area(LNDARE)
+ Position : 77 10' 12.00" N , 100 06' 09.03" E
+ Primitive  : Area
+=
+-944-
+ >> Coastline(COALNE)
+ Position : 76 56' 31.07" N , 100 17' 03.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-945-
+ >> Land area(LNDARE)
+ Position : 76 56' 36.08" N , 100 16' 58.04" E
+ Primitive  : Area
+=
+-946-
+ >> Coastline(COALNE)
+ Position : 77 41' 36.06" N , 101 17' 46.04" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-947-
+ >> Land area(LNDARE)
+ Position : 77 41' 41.08" N , 101 17' 42.01" E
+ Primitive  : Area
+=
+-948-
+ >> Coastline(COALNE)
+ Position : 77 40' 30.09" N , 101 22' 39.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-949-
+ >> Land area(LNDARE)
+ Position : 77 40' 36.01" N , 101 22' 35.03" E
+ Primitive  : Area
+=
+-950-
+ >> Coastline(COALNE)
+ Position : 77 23' 15.07" N , 101 56' 51.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-951-
+ >> Land area(LNDARE)
+ Position : 77 23' 20.09" N , 101 56' 47.08" E
+ Primitive  : Area
+=
+-952-
+ >> Coastline(COALNE)
+ Position : 77 32' 04.02" N , 102 27' 24.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-953-
+ >> Land area(LNDARE)
+ Position : 77 32' 09.03" N , 102 27' 20.04" E
+ Primitive  : Area
+=
+-954-
+ >> Coastline(COALNE)
+ Position : 77 12' 26.03" N , 105 51' 16.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-955-
+ >> Land area(LNDARE)
+ Position : 77 12' 31.05" N , 105 51' 14.02" E
+ Primitive  : Area
+=
+-956-
+ >> Coastline(COALNE)
+ Position : 77 19' 16.07" N , 105 58' 25.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-957-
+ >> Land area(LNDARE)
+ Position : 77 19' 21.09" N , 105 58' 23.06" E
+ Primitive  : Area
+=
+-958-
+ >> Coastline(COALNE)
+ Position : 77 36' 37.06" N , 105 28' 00.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-959-
+ >> Land area(LNDARE)
+ Position : 77 36' 42.08" N , 105 27' 58.04" E
+ Primitive  : Area
+=
+-960-
+ >> Coastline(COALNE)
+ Position : 77 36' 45.03" N , 105 44' 06.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-961-
+ >> Land area(LNDARE)
+ Position : 77 36' 50.05" N , 105 44' 04.07" E
+ Primitive  : Area
+=
+-962-
+ >> Coastline(COALNE)
+ Position : 77 34' 03.08" N , 106 00' 12.08" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-963-
+ >> Land area(LNDARE)
+ Position : 77 34' 09.00" N , 106 00' 11.00" E
+ Primitive  : Area
+=
+-964-
+ >> Coastline(COALNE)
+ Position : 77 33' 02.01" N , 106 21' 41.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-965-
+ >> Land area(LNDARE)
+ Position : 77 33' 07.02" N , 106 21' 39.04" E
+ Primitive  : Area
+=
+-966-
+ >> Coastline(COALNE)
+ Position : 77 30' 12.00" N , 106 31' 31.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-967-
+ >> Land area(LNDARE)
+ Position : 77 30' 17.02" N , 106 31' 29.09" E
+ Primitive  : Area
+=
+-968-
+ >> Coastline(COALNE)
+ Position : 77 18' 53.01" N , 107 03' 08.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-969-
+ >> Land area(LNDARE)
+ Position : 77 18' 58.03" N , 107 03' 06.07" E
+ Primitive  : Area
+=
+-970-
+ >> Coastline(COALNE)
+ Position : 77 25' 16.07" N , 107 26' 23.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-971-
+ >> Land area(LNDARE)
+ Position : 77 25' 21.09" N , 107 26' 22.05" E
+ Primitive  : Area
+=
+-972-
+ >> Coastline(COALNE)
+ Position : 77 23' 35.02" N , 107 34' 26.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-973-
+ >> Land area(LNDARE)
+ Position : 77 23' 40.04" N , 107 34' 25.07" E
+ Primitive  : Area
+=
+-974-
+ >> Coastline(COALNE)
+ Position : 78 19' 42.03" N , 097 47' 26.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-975-
+ >> Land area(LNDARE)
+ Position : 78 19' 47.03" N , 097 47' 20.04" E
+ Primitive  : Area
+=
+-976-
+ >> Coastline(COALNE)
+ Position : 78 32' 11.00" N , 098 38' 14.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-977-
+ >> Land area(LNDARE)
+ Position : 78 32' 16.00" N , 098 38' 08.07" E
+ Primitive  : Area
+=
+-978-
+ >> Coastline(COALNE)
+ Position : 78 35' 51.02" N , 098 39' 49.01" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-979-
+ >> Land area(LNDARE)
+ Position : 78 35' 56.02" N , 098 39' 43.02" E
+ Primitive  : Area
+=
+-980-
+ >> Coastline(COALNE)
+ Position : 78 45' 40.04" N , 097 46' 16.00" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-981-
+ >> Land area(LNDARE)
+ Position : 78 45' 45.04" N , 097 46' 09.05" E
+ Primitive  : Area
+=
+-982-
+ >> Coastline(COALNE)
+ Position : 78 47' 03.02" N , 098 00' 02.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-983-
+ >> Land area(LNDARE)
+ Position : 78 47' 08.02" N , 097 59' 56.06" E
+ Primitive  : Area
+=
+-984-
+ >> Coastline(COALNE)
+ Position : 78 46' 44.08" N , 098 09' 06.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-985-
+ >> Land area(LNDARE)
+ Position : 78 46' 49.08" N , 098 09' 00.00" E
+ Primitive  : Area
+=
+-986-
+ >> Coastline(COALNE)
+ Position : 78 44' 31.02" N , 098 35' 05.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-987-
+ >> Land area(LNDARE)
+ Position : 78 44' 36.02" N , 098 34' 59.06" E
+ Primitive  : Area
+=
+-988-
+ >> Coastline(COALNE)
+ Position : 78 41' 54.00" N , 098 41' 47.03" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-989-
+ >> Land area(LNDARE)
+ Position : 78 41' 59.01" N , 098 41' 41.03" E
+ Primitive  : Area
+=
+-990-
+ >> Coastline(COALNE)
+ Position : 78 46' 44.08" N , 098 44' 32.07" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-991-
+ >> Land area(LNDARE)
+ Position : 78 46' 49.08" N , 098 44' 26.08" E
+ Primitive  : Area
+=
+-992-
+ >> Coastline(COALNE)
+ Position : 78 46' 21.08" N , 099 22' 44.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-993-
+ >> Land area(LNDARE)
+ Position : 78 46' 26.08" N , 099 22' 38.09" E
+ Primitive  : Area
+=
+-994-
+ >> Coastline(COALNE)
+ Position : 79 20' 29.07" N , 099 56' 57.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-995-
+ >> Land area(LNDARE)
+ Position : 79 20' 34.07" N , 099 56' 52.05" E
+ Primitive  : Area
+=
+-996-
+ >> Coastline(COALNE)
+ Position : 79 25' 09.08" N , 100 00' 07.09" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-997-
+ >> Land area(LNDARE)
+ Position : 79 25' 14.08" N , 100 00' 02.04" E
+ Primitive  : Area
+=
+-998-
+ >> Land area(LNDARE)
+ Position : 53 37' 24.04" N , 142 22' 38.07" E
+ Primitive  : Area
+=
+-999-
+ >> Coastline(COALNE)
+ Position : 53 36' 47.07" N , 142 23' 12.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-1000-
+ >> Land area(LNDARE)
+ Position : 53 32' 35.06" N , 141 00' 16.00" E
+ Primitive  : Area
+=
+-1001-
+ >> Coastline(COALNE)
+ Position : 53 31' 58.09" N , 141 00' 51.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-1002-
+ >> Land area(LNDARE)
+ Position : 53 26' 44.03" N , 141 12' 58.02" E
+ Primitive  : Area
+=
+-1003-
+ >> Coastline(COALNE)
+ Position : 53 26' 07.07" N , 141 13' 33.02" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-1004-
+ >> Land area(LNDARE)
+ Position : 53 22' 35.09" N , 141 23' 21.09" E
+ Primitive  : Area
+=
+-1005-
+ >> Coastline(COALNE)
+ Position : 53 21' 59.03" N , 141 23' 56.06" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-1006-
+ >> Coastline(COALNE)
+ Position : 81 02' 05.05" N , 065 29' 34.05" E
+ Primitive  : Line
+ [Category of coastline(CATCOA)]  : flat coast
+=
+-1007-
+ >> Sea area / named water area(SEAARE)
+ Position : 83 16' 26.05" N , 120 11' 37.01" E
+ Primitive  : Point
+ [Information(INFORM)]  : 0
+ [Object name(OBJNAM)]  : ARCTIC OCEAN
+ [Scale minimum(SCAMIN)]  : 30000000
+ [NOBJNM]  : 북극해
+=
+-1008-
+ >> Land region(LNDRGN)
+ Position : 76 29' 26.00" N , 142 33' 23.00" E
+ Primitive  : Point
+ [Object name(OBJNAM)]  : Novosibirsk Is.
+ [Scale minimum(SCAMIN)]  : 120000000
+ [NOBJNM]  : 노보시비르스크 제도
+=
+-7984-
+ >> Land region(LNDRGN)
+ Position : 50 53' 33.07" N , 086 13' 01.04" E
+ Primitive  : Point
+ [Information(INFORM)]  : 0
+ [Object name(OBJNAM)]  : ASIA
+ [Scale minimum(SCAMIN)]  : 120000000
+ [NOBJNM]  : 아시아
+=
+-7985-
+ >> Land region(LNDRGN)
+ Position : 55 47' 06.09" N , 069 29' 41.04" E
+ Primitive  : Point
+ [Information(INFORM)]  : 1
+ [Object name(OBJNAM)]  : KANAKHSTAN
+ [Scale minimum(SCAMIN)]  : 90000000
+ [NOBJNM]  : 카자흐스탄
+=

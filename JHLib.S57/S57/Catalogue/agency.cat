@@ -1,0 +1,414 @@
+1#AR#Argentina#Servicio de Hidrografía Naval (SHN)
+10#AU#Australia#Australian Hydrographic Office (AHO)
+11#AN#Australia#Australian Hydrographic Office - Defence forces
+12#12#Israel#Israel Navy
+17#17#India#Indian Navy Specific
+18#18#India#Inland Waterway Authority of India
+20#BH#Bahrain#Hydrographic Survey Directorate (HSD)
+30#BE#Belgium#Maritime and Coastal Services - Flemish Hydrography
+40#BR#Brazil#Directorate of Hydrography and Navigation (DHN)
+50#CA#Canada#Canadian Hydrographic Service (CHS)
+51#C4#Canada#Canadian Forces
+60#CL#Chile#Servicio Hidrográfico y Oceanográfico de la Armada (SHOA)
+70#CN#China#Maritime Safety Administration (MSA)
+71#C1#China#China Navy Hydrographic Office
+72#C2#China#Hong Kong Special Administrative Region
+73#C3#China#Macau Special Administrative Region
+80#HR#Croatia#Hrvatski Hidrografski Institut
+90#CU#Cuba#Oficina Nacional de Hidrografia y Geodesia
+100#CY#Cyprus#Hydrographic Unit of the Department of Lands and Surveys
+110#DK#Denmark#Geodatastyrelsen (GST)
+111#DI#Denmark#Danish Maritime Authority
+112#D2#Denmark#Umhvørvisstovan (Faroe Islands)
+120#DO#Dominican Rep.#Servicio Hidrográfico y Oceanográfico, ARD
+130#EC#Ecuador#Instituto Oceanográfico de la Armada (INOCAR)
+140#EG#Egypt#Egyptian Navy Hydrographic Department (ENHD)
+150#FJ#Fiji#Fiji Islands Maritime Safety Administration (FIMSA)
+160#FI#Finland#Finnish Transport and Communications Agency (Traficom)
+170#FR#France#Service Hydrographique et Océanographique de la Marine (SHOM)
+180#DE#Germany#Bundesamt für Seeschifffahrt und Hydrographie (BSH)
+190#GR#Greece#Hellenic Navy Hydrographic Service (HNHS)
+200#GT#Guatemala#Ministerio de la Defensa Nacional
+201#G1#Guatemala#Comisión Portuaria Nacional
+210#IS#Iceland#Icelandic Coast Guard
+220#IN#India#National Hydrographic Office
+230#ID#Indonesia#Jawatan Hidro-Oseanografi (JANHIDROS)
+240#IR#Islamic Rep. of Iran#Ports and Shipping Organization (PSO)
+250#IT#Italy#Istituto Idrografico della Marina (IIM)
+260#JP#Japan#Japan Hydrographic and Oceanographic Department (JHOD)
+270#KP#Korea (DPR of)#Hydrographic Department
+280#KR#Korea (Rep. of)#Korea Hydrographic and Oceanographic Agency (KHOA)
+290#MY#Malaysia#National Hydrographic Centre
+300#MC#Monaco#Direction des Affaires Maritimes
+310#NL#Netherlands#Koninklijke Marine Dienst der Hydrografie/ CZSK
+320#NZ#New Zealand#Land Information New Zealand (LINZ)
+321#N3#New Zealand#Geospatial Intelligence New Zealand
+330#NG#Nigeria#Nigerian Navy Hydrographic Office
+340#NO#Norway#Norwegian Hydrographic Service
+341#NI#Norway#Electronic Chart Centre
+342#N2#Norway#Norwegian Defence
+350#OM#Oman#National Hydrographic Office
+360#PK#Pakistan#Pakistan Hydrographic Department
+370#PG#Papua New Guinea#Hydrographic Division, NMSA
+380#PE#Peru#Dirección de Hidrografía y Nave가ción (DHN)
+390#PH#Philippines#National Mapping and Resource Information Authority
+400#PL#Poland#Biuro Hydrograficzne
+401#P1#Poland#Inland Navigation Office in Szczecin
+410#PT#Portugal#Instituto Hidrografico, Portugal (IHP)
+420#RU#Russian Federation#Head Department of Navigation & Oceanography (DNO)
+425#R1#Russian Federation#Federal State Unitary Hydrographe Department
+430#SG#Singapore#Hydrographic Department, MPA
+440#ZA#South Africa (Rep. of)#South African Navy Hydrographic Office (SANHO)
+450#ES#Spain#Instituto Hidrográfico de la Marina (IHM)
+460#LK#Sri Lanka#Sri Lanka National Hydrographic Office (SLNHO)
+470#SR#Suriname#Maritieme Autoriteit Suriname (MAS)
+480#SE#Sweden#Sjöfartsverket, Swedish Maritime Administration
+490#SY#Syrian Arab Republic#General Directorate of Ports
+500#TH#Thailand#Hydrographic Department, Royal Thai Navy
+505#TO#Tonga#Tonga Defence Services
+510#TT#Trinidad & Tobago#Trinidad & Tobago Hydrographic Unit
+520#TR#Türkiye#Seyir, Hidrografi ve Osinografi Dairesi Baskanligi
+530#AE#United Arab Emirates#Ministry of Communications
+540#GB#UK#United Kingdom Hydrographic Office
+541#G2#UK#UKHO Royal Navy
+550#US#USA#Office of Coast Survey (NOS/NOAA)
+551#U1#USA#National Geospatial-Intelligence Agency (NGA)
+552#U2#USA#Commander, Naval Meteorology and Oceanography Command
+553#U3#USA#U.S. Army Corps of Engineers (USACE)
+554#U4#USA#National Geospatial-Intelligence Agency (NGA)
+560#UY#Uruguay#Oceanographic, Hydrographic and Meteorological Service
+570#VE#Venezuela#Commandancia General de la Armada (DHN)
+580#RS#Serbia#Direkcija Za Unutrašnje Plovne Puteve
+590#CD#Congo (Dem. Rep. of)#Ministère des Transports et Communications
+600#AL#Albania#Albanian Hydrographic Service
+620#AO#Angola#Not known
+625#AI#Anguilla#Ministry of Infrastructure, Communications & Utilities
+630#AG#Antigua and Barbuda#Antigua and Barbuda Port Authority
+640#AW#Aruba#Netherlands ENC charting responsibility
+645#AZ#Azerbaijan#Azerbaijan Navy
+650#BS#Bahamas#Port Department, Ministry of Transport and Aviation
+660#BD#Bangladesh#Hydrographic Department
+670#BB#Barbados#Barbados Port Inc
+680#BZ#Belize#Belize Port Authority
+690#BJ#Benin#Direction Générale du Port Autonome de Cotonou
+695#BM#Bermuda#Ministry of Works, Engineering and Housing
+700#BO#Bolivia#Servicio Nacional de Hidrografia Naval de Bolivia
+705#VG#British Virgin Islands#Chief Minister's Office
+710#BN#Brunei Darussalam#Department of Marine
+715#B2#Brunei Darussalam#Survey Department
+720#BG#Bulgaria#Hidrografska Sluzhba Pri Ministerstvo Na Otbranata
+730#KH#Cambodia#Service de l'Hydrologie et des grands barrages
+740#CM#Cameroon#Port Autonome de Douala (PAD)
+750#CV#Cabo Verde#Instituto Maritímo Portuário (IMP)
+755#KY#The Cayman Islands#Governor's Office
+760#CO#Colombia#Ministerio de Defensa Nacional
+770#KM#Comoros#Not Known
+780#CG#Congo (Rep. of)#Port Autonome de Pointe Noire
+790#CK#Cook Islands#Maritime Division, Ministry of Tourism and Transport
+800#CR#Costa-Rica#Instituto Geografico Nacional (IGN)
+810#CI#Côte d'Ivoire#Direction Générale du Port Autonome d'Abidjan
+820#DJ#Djibouti#Ministère de l'Equipement et des Transports
+830#DM#Dominica#Not known
+840#SV#El Salvador#Gerente de Geodesia, Centro Nacional de Registros
+850#GQ#Equatorial Guinea#Ministry of Transportation and Civil Aviation
+860#ER#Eritrea#Department of Marine Transport
+870#EE#Estonia#Estonian Transport Administration (ETA)
+880#ET#Ethiopia#Ministry of Transport and Communications
+890#GA#Gabon#Direction Générale de la Marine Marchande
+900#GM#Gambia#Gambia Ports Authority
+905#GE#Georgia#Maritime Transport Agency of Georgia
+910#GH#Ghana#Ghana Ports and Harbours Authority
+920#GD#Grenada#Grenada Ports Authority
+930#GN#Guinea#Port Autonome de Conakry
+940#GW#Guinea-Bissau#Administração dos Portos da Guiné-Bissau
+950#GY#Guyana#Maritime Administration Department Hydrographic Office
+960#HT#Haiti#Service Maritime et de Navigation d'Haïti
+970#HN#Honduras#Empresa Nacional Portuaria
+980#IQ#Iraq#Marine Department, General Company for Iraki Ports
+990#IE#Ireland#Maritime Safety Directorate
+1000#IL#Israel#Administration of Shipping and Ports
+1001#11#Israel#Survey of Israel
+1002#12#Israel#Israel Navy
+1010#JM#Surveys and Mapping Division (Jamaica)
+1020#JO#Jordan#The Ports Corporation, Jordan
+1030#KE#Kenya#Survey of Kenya, Kenya Ports Authority
+1040#KI#Kiribati#Ministry of Transport and Communications
+1050#KW#Kuwait#Ministry of Communications
+1060#LV#Latvia#Maritime Administration of Latvia
+1070#LB#Lebanon#Lebanese Navy Hydrographic Service
+1080#LR#Liberia#Ministry of Lands, Mines and Energy
+1090#LY#Libyan Arab Jamahiriya#Not known
+1100#LT#Lithuania#Lithuanian Transport Safety Administration
+1110#MG#Madagascar#Institut Géographique et Hydrographique National
+1120#MW#Malawi#Hydrographic Survey Unit
+1121#M2#Malawi#Marine Department
+1130#MV#Maldives#Department of Information and Broadcasting
+1140#MT#Malta#Malta Maritime Authority Ports Directorate
+1150#MH#Marshall Islands#Ministry of Resources and Development
+1160#MR#Mauritania#Ministère de la Défense Nationale
+1170#MU#Mauritius#Housing and Land, Hydrographic Unit
+1180#MX#Mexico#Secretaria de Marina Armada de Mexico
+1190#FM#Micronesia#Not known
+1197#M3#Montserrat#Montserrat Port Authority
+1200#MA#Morocco#Division Hydrographie et Cartographie (DHC)
+1210#MZ#Mozambique#Instituto Nacional de Hidrografia e Navegação
+1220#MM#Myanmar#Central Naval Hydrographic Depot (CNHD)
+1225#ME#Montenegro#Ministry of Defence, Navy Headquarters
+1226#M1#Montenegro#Institute of Hydrometeorology and Seismology
+1230#NA#Namibia#Ministry of Works, Transports and Communications
+1240#NR#Nauru#Nauru Phosphate Corporation
+1250#NI#Nicaragua#Ministero de la Presidencia
+1255#NU#Niue#Lands and Survey Division
+1260#PW#Palau#Bureau of Domestic Affairs
+1270#PA#Panama#Autoridad Maritima de Panama
+1280#PY#Paraguay#Armada Paraguaya
+1290#QA#Qatar#Urban Planning & Development Authority
+1300#RO#Romania#Directia Hidrografica Maritima
+1310#KN#Saint Kitts and Nevis#St. Christopher Air and Sea Ports Authority
+1320#LC#Saint Lucia#Saint Lucia Air and Sea Ports Authority
+1330#VC#Saint Vincent/Grenadines#Ministry of Communications and Works
+1340#WS#Samoa#Ministry of Transport, Marine and Shipping Division
+1350#ST#Sao Tome and Principe#Not known
+1360#SA#Saudi Arabia#General Directorate of Military Survey (GDMS)
+1365#S1#Saudi Arabia#General Authority for Survey and Geospatial Information
+1370#SN#Senegal#Service de sécurité maritime du Sénégal
+1380#SC#Seychelles#Hydrographic and Topographic Brigade
+1390#SL#Sierra Leone#Sierra Leone Maritime Administration
+1400#SI#Slovenia#Ministry of Transport Maritime Office
+1410#SB#Solomon Islands#Solomon Islands Maritime Authority (SIMA)
+1420#SO#Somalia#Somali Hydrographic Office
+1430#SD#Sudan#Survey Department
+1440#TZ#Tanzania#Ministry of Lands, Housing and Human Settlements
+1441#T1#Tanzania#Tanzania Ports Authority (ТРА)
+1450#TG#Togo#University of Lome, Research Department
+1460#TK#Tokelau#Not known
+1470#TN#Tunisia#Service Hydrographique et Océanographique (SHO)
+1475#TC#Turks & Caicos Islands#Governor's Office
+1480#TV#Tuvalu#Ministry of Labour, Works and Communications
+1485#UG#Uganda#Commissioner for Transport Regulation
+1490#UA#Ukraine#State Hydrographic Service of Ukraine
+1500#VU#Vanuatu#Vanuatu Hydrographic Unit
+1510#VN#Viet Nam#Viet Nam Maritime People's Navy
+1511#V1#Viet Nam#Vietnam Maritime Safety Corporation (VMSC)
+1512#V2#Viet Nam#Viet Nam Maritime Safety-South (VMS-S)
+1513#Al#Australia#Maritime Geospatial Branch (MGB)
+1514#A4#Australia#Maritime Geospatial Branch (MGB)
+1515#G4#UK#UKHO Royal Navy
+1516#A2#United Arab Emirates#Dubai Municipality Survey Department
+1517#DZ#Algeria#Service Hydrographique des Forces Navales
+1518#A3#United Arab Emirates#Abu Dhabi Maritime
+1520#YE#Yemen#Ministry of Transport, Yemen Ports Authority
+1600#OM#International#Antarctic Treaty Consultative Committee
+1610#ON#International#International Radio Consultative Committee
+1620#00#International#Comite International Radio-Maritime
+1630#OP#International#IHO Data Centre for Digital Bathymetry
+1640#00#International#Digital Geographic Information Working Group
+1650#OR#International#European Communities Commission
+1660#OS#International#European Harbour Masters Association
+1670#QT#International#Food and Agriculture Organization
+1680#QU#International#Federation Internationale des Geometres
+1690#OV#International#International Atomic Energy Agency
+1700#OW#International#International Association of Geodesy
+1710#QX#International#International Association of Institutes of Navigation
+1720#QY#International#International Association of Lighthouse Authorities
+1730#QZ#International#International Association of Ports and Harbours
+1740#ΧΑ#International#International Cartographic Association
+1750#XB#International#International Cable Protection Committee
+1760#XC#International#International Chamber of Shipping
+1770#XD#International#Scientific Exploration of the Mediterranean
+1780#XE#International#International Council of Scientific Unions
+1790#XF#International#International Electrotechnical Commission
+1800#XG#International#International Geographical Union
+1810#AA#International#International Hydrographic Organization (IHO)
+1820#XH#International#International Maritime Academy
+1830#XI#International#International Maritime Organization
+1840#XJ#International#International Maritime Satellite Organization
+1850#XK#International#Intergovernmental Oceanographic Commission
+1860#XL#International#International Organization for Standardization
+1870#XM#International#Photogrammetry and Remote Sensing
+1880#XN#International#International Telecommunication Union
+1890#XO#International#International Union of Geodesy and Geophysics
+1900#XP#International#International Union of Surveying and Mapping
+1910#XO#International#Oil Companies International Marine Forum
+1920#XR#International#Pan American Institute of Geography and History
+1930#XS#International#Radio Technical Commission for Maritime Services
+1940#XT#International#Scientific Commission on Antarctic Research
+1950#XU#International#The Hydrographic Society
+1960#XV#International#World Meteorological Organization
+1970#XW#International#United Nations, Office for Ocean Affairs
+2010#MS#International#Co-operating Hydrographic Offices
+2020#PM#International#PRIMAR Regional ENC Coordinating Centre
+2030#IC#International#International Centre for ENC (IC-ENC)
+2040#EA#International#East Asia Hydrographic Commission (EAHC)
+2041#5H#International#HyCAM Solutions LLP
+3817#OM#-#BMT ARGOSS Ltd
+3878#OS#-#OpenSeaMap.Org
+3879#OT#-#Naval Meteorological & Oceanographic Office, R.O.C. Taiwan
+6682#1A#-#ARAMCO
+7196#IC#-#CARIS
+7453#1D#-#Amt fuer Geoinformationswesen der Bundeswehr
+7710#IE#-#TerraNautical Data
+7967#IF#-#Force Technology, Danish Maritime Institute
+7969#1H#-#OVF (General Directorate of Water Management)
+7970#11#-#Navionics S.p.A.
+7971#1J#-#Navionics test and sample datasets
+7972#1K#-#Kingway Technology Co
+7973#IL#-#Laser-Scan Ltd
+7974#IM#-#Channel of Moscow
+7975#IN#-#Nautical Data International, Inc.
+7976#10#-#Offshore Systems Ltd.
+7977#IP#-#Port Of London Authority
+7978#1Q#-#Quality Positioning Services
+7979#IR#-#Rijkswaterstaat
+7980#1S#-#Austrian Supreme Shipping Authority
+7981#IT#-#UKHO - private production
+7982#10#-#ENC Center, National Taiwan Ocean University
+7983#IV#-#The Volga-Baltic State Territorial Department
+7984#1W#-#Wasser- und Schiffahrtsverwaltung des Bundes
+7985#1X#-#Noorderzon Software
+7986#1Y#-#Tér-Team Ltd., Budapest
+7987#IZ#-#JS Co Geocentre-Consulting, Moscow
+10794#2A#-#Azienda Regionale Navigazione Interna (ARNI)
+11051#2B#-#Bundesanstalt für Wasserbau, Karlsruhe
+11308#2C#-#IIC Technologies
+11565#2D#-#SVP, s.p., OZ Bratislava
+11822#2E#-#Euronav Ltd UK
+11973#2G#-#Chart Pilot Ltd.
+12004#2Q#-#QUADRANT-ENC
+12055#2H#-#DMER, Zagreb
+12056#21#-#Innovative Navigation GmbH
+12060#2M#-#MARIN (Maritime Research Institute Netherlands)
+12061#2N#-#Hochschule Bremen (Nautik)
+12063#2P#-#PLOVPUT Beograd
+12065#2R#-#Port of Rotterdam
+12079#2S#-#Ssangyong Information & Communications Corp.
+12083#2J#-#C-Map
+12084#2K#-#Kamvodput
+12093#2T#-#Wartsila Voyage Limited
+12094#2U#-#ULTRANS TM srl
+12095#2V#-#The Volga State Territorial Department for Waterways
+12096#2W#-#via donau - Osterreichische Wasserstrassen-Gesellschaft
+12097#2X#-#e-MLX. Korea
+12099#27#-#Land Information New Zealand Hydrographic Services
+14906#3A#-#Azovo-Donskoe State Basin Waterway
+15163#3B#-#AEMDR, Rousse, Bulgaria
+15420#3C#-#Command & Control Technologies GmbH
+15934#3E#-#Development Centre for Ship Technology/Transport
+16012#4P#-#Public Works and Government Services Canada
+16035#3D#-#FPAEMDR DRIIREST
+16038#3Z#-#Aero Karta Complex Ltd
+16191#3F#-#Finnish Navy
+16193#3H#-#HYPACK, Inc.
+16194#31#-#ICAN
+16199#3N#-#Raymarine Ltd
+16200#30#-#Ocean Surveys Inc.
+16201#3P#-#Pechora Waterways and Navigation Board
+16203#3R#-#A.F.D.J. R.A. Galati
+16204#3S#-#Leidos
+16205#3T#-#Periskal bv
+16206#3U#-#US Army Corps of Engineers - Channel Condition Data
+16207#3V#-#The Volga-Don Waterways And Navigation Board
+16208#3W#-#Wasserschutzpolizei-Schule
+19018#4A#-#Arctic and Antarctic Research Institute (AARI)
+19275#4B#-#BaikalChart, Russia
+19532#4C#-#Rheinschifffahrtsdirektion (RSD) Basel
+20046#4E#-#Environmental Systems Research Institute (ESRI)
+20122#4G#-#GEOMOD
+20127#4L#-#SHOM test data
+20306#41#-#Canadian Ice Service
+20311#4N#-#MeteoConsult
+20315#4R#-#MD Atlantic Technologies
+20316#4S#-#ADVETO Advanced Technology AB
+20317#4T#-#OOO Tekhpromcomplect
+20318#4U#-#Center for Coastal & Ocean Mapping (Univ New Hampshire)
+20319#4V#-#Voies Navigables de France (VNF)
+20320#4W#-#Fachstelle fuer Geoinformationen Sued (WSA Regensburg)
+20323#4Z#-#C-Map Russia
+23130#5A#-#American Commercial Lines (ACL), Inc.
+23644#5C#-#CRUP d.o.o., Croatia
+24158#5E#-#River Transport Authority (RTA), Egypt
+24168#5Z#-#SeaZone Solutions
+24181#5B#-#Bremer Schiffsmeldedienst
+24203#5X#-#WSA Bremerhaven
+24418#51#-#European Inland ECDIS Expert Group
+24422#5M#-#Hydrographic Office (Sarawak Marine Department)
+24423#5N#-#NAVTRON SRL
+24425#5P#-#Safe Trip SA, Argentina
+24427#5R#-#Sevzapgeoinform (Russia)
+24430#5U#-#United Kingdom Royal Navy
+24432#SW#-#WSA Cuxhaven
+24455#5T#-#TEC Asociados
+27242#6A#-#AMEC
+27499#6B#-#C-Tech SRL, Romania
+27756#6C#-#Guoy Consultancy Sdn Bhd
+28233#6N#-#Navtor AS
+28243#6P#-#Panama Canal Authority
+28249#6F#-#Mercuries Data Systems Ltd.
+28266#6W#-#MSCW (Hochschule Wismar)
+28542#6U#-#U.S. Geological Survey (USGS)
+31354#7A#-#Azerbaijan Navy, Service of Navigation
+31868#7C#-#SevenCs GmbH
+32264#7L#-#Latincomp
+32298#7J#-#ChartCo Limited
+32320#7M#-#Marine Technology sp. o.o.
+32323#7P#-#PETROBRAS
+32328#7U#-#Australian Hydrographic Office - Provisional/sample datasets
+32641#7H#-#Petroslav Hydroservice, Russia
+32651#7R#-#Federal Service of Geodesy and Cartography (Russia)
+32652#7S#-#Centre Sevzapgeoinform (SZGI)
+32653#7T#-#Terra Corp
+32655#7V#-#De Vlaamse Waterweg
+32656#7W#-#Waterwegen en Zeekanaal
+35466#8A#-#L-3 Communications Oceania Limited
+35980#8C#-#Seebyte Ltd.
+36363#8T#-#Abris, Llc
+36376#8E#-#ATLAS ELEKTRONIK GmbH
+39578#9A#-#CherSoft Ltd
+39624#9D#-#National Navigation Authority (Czech Republic)
+40092#9C#-#Chartworld Gmbh
+40865#9H#-#Hamburg Port Authority
+40876#9S#-#Solutions from Silicon, Sydney
+40877#9T#-#Tresco Engineering bvba
+40883#9Z#-#Nobeltec, Inc
+42000#6D#-#Marine Geodesy LLC
+42001#6G#-#PD Ports
+42002#9E#-#The Enisei State Territorial Department for Waterways
+42003#4D#-#David Evans and Associates, Inc.
+42004#6S#-#The Severnaya Dvina State Territorial Department
+42005#6T#-#TCarta Marine
+42006#20#-#Terra OOO
+42007#8W#-#Department of Transport Western Australia
+42008#M8#-#Maju Geohydro Sdn Bhd
+42009#9W#-#Service Public de Wallonie
+42010#5V#-#Nautical Publications Gmbh
+42011#40#-#Ocean Wise
+42012#8V#-#Port of Antwerp
+42013#4H#-#Grand Port Maritime du Havre
+42014#7N#-#India National Hydrographic Office - Miscellaneous
+42015#9P#-#Elbe Pilots Germany
+42016#6R#-#Grand Port Maritime de Rouen
+42017#61#-#FB Imray Laurie Norie and Wilson GmbH
+42018#8R#-#Federal Agency for Maritime and River Transport (FAMRT)
+42019#7B#-#Port de Barcelona, España
+42020#9V#-#CoVadem
+42021#8S#-#Sorlingas Data Services Ltd
+42022#M6#-#MAPMEDIA
+42023#3M#-#Meritaito Ltd (Arctia Group)
+42024#8M#-#MORIS LLC
+42025#3L#-#Lloyd's Register Voyage AS
+42026#6M#-#Mapitech Ltd
+42027#8N#-#NAUTITEC GmbH & Co. KG
+42028#9U#-#Hydrographic Science Research Center (Univ Southern Miss)
+42029#2Y#-#Sii Tech Inc.
+43456#6V#-#VietNav Ltd, VIETNAM
+44444#5S#-#Associated British Ports Southampton
+44445#6E#-#ConcENC O00
+44446#2L#-#CTC JSC
+44447#7E#-#EGS Survey Pty Ltd
+44448#9N#-#North Caspian Operating Company N.V. (NCOC)
+44449#1G#-#SSG Navigation L.L.C
+44450#8B#-#Port de Bruxelles / Haven van Brussel
+44451#8P#-#Servicios Hidrograficos Punta Brava C.A.
+44452#3G#-#Argonav GmbH
+44453#8U#-#UMI SAN
+44454#6H#-#Hydrographica AB

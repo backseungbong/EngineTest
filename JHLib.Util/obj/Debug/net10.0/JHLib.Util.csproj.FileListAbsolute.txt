@@ -24,3 +24,16 @@ D:\2026\Project\3DTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.dll
 D:\2026\Project\3DTest\JHLib.Util\obj\Debug\net10.0\refint\JHLib.Util.dll
 D:\2026\Project\3DTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.pdb
 D:\2026\Project\3DTest\JHLib.Util\obj\Debug\net10.0\ref\JHLib.Util.dll
+D:\2026\Project\EngineTest\JHLib.Util\bin\Debug\net10.0\JHLib.Util.deps.json
+D:\2026\Project\EngineTest\JHLib.Util\bin\Debug\net10.0\JHLib.Util.dll
+D:\2026\Project\EngineTest\JHLib.Util\bin\Debug\net10.0\JHLib.Util.pdb
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.csproj.AssemblyReference.cache
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.AssemblyInfoInputs.cache
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.AssemblyInfo.cs
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.csproj.CoreCompileInputs.cache
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.sourcelink.json
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.dll
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\refint\JHLib.Util.dll
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\JHLib.Util.pdb
+D:\2026\Project\EngineTest\JHLib.Util\obj\Debug\net10.0\ref\JHLib.Util.dll

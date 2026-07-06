@@ -1,0 +1,118 @@
+[
+    {
+        "ID": "WRECKS_1",
+        "DisplayName": "Dangerous Wreck",
+        "IconPath": "ISODGR01",
+        "ObjectClass": "WRECKS",
+        "Primitive": "Point",
+        "SubTemplate": null
+    },
+    {
+        "ID": "OBSTRN_1",
+        "DisplayName": "Obstruction",
+        "IconPath": "OBSTRN01",
+        "ObjectClass": "OBSTRN",
+        "Primitive": "Point",
+        "SubTemplate": null
+    },
+    {
+        "ID": "SOUNDG_15",
+        "DisplayName": "15m Sounding",
+        "IconPath": "15",
+        "ObjectClass": "SOUNDG",
+        "Primitive": "Point",
+        "SubTemplate": null
+    },
+    {
+        "ID": "TS_PAD_1",
+        "DisplayName": "Actual Tidal",
+        "IconPath": "ACTUAL01",
+        "ObjectClass": "TS_PAD",
+        "Primitive": "Point",
+        "SubTemplate": null
+    },
+        {
+        "ID": "TS_PAD_2",
+        "DisplayName": "Predicted Tidal",
+        "IconPath": "PREDICT1",
+        "ObjectClass": "TS_PAD",
+        "Primitive": "Point",
+        "SubTemplate": null
+    },
+    {
+        "ID": "BOYCAR_WEST_1",
+        "DisplayName": "West Buoy, cardinal",
+        "IconPath": "BOYPIL01",
+        "ObjectClass": "BOYCAR",
+        "Primitive": "Point",
+        "SubTemplate": {
+            "Topmark_Layer": {
+                "ID": "TOPMAR_1",
+                "DisplayName": "Top mark",
+                "IconPath": "TOPMAR08",
+                "ObjectClass": "TOPMAR",
+                "Primitive": "Point",
+                "SubTemplate": null
+            }
+        }
+    },
+    {
+        "ID": "BOYCAR_EAST_1",
+        "DisplayName": "East Buoy, cardinal",
+        "IconPath": "BOYPIL01",
+        "ObjectClass": "BOYCAR",
+        "Primitive": "Point",
+        "SubTemplate": {
+            "Topmark_Layer": {
+                "ID": "TOPMAR_2",
+                "DisplayName": "Top mark",
+                "IconPath": "TOPMAR07",
+                "ObjectClass": "TOPMAR",
+                "Primitive": "Point",
+                "SubTemplate": null
+            }
+        }
+    },
+    {
+        "ID": "CBLSUB_1",
+        "DisplayName": "Cable, submarine",
+        "IconPath": "CBLSUB06",
+        "ObjectClass": "CBLSUB",
+        "Primitive": "Line",
+        "SubTemplate": null
+    },
+    {
+        "ID": "RESARE_1",
+        "DisplayName": "Restricted area",
+        "IconPath": "ENTRES51",
+        "ObjectClass": "RESARE",
+        "Primitive": "Area",
+        "SubTemplate": {
+            "Center_Symbol": {
+                "ID": "ENTRES_51",
+                "DisplayName": "CenterSymbol",
+                "IconPath": "ENTRES51",
+                "ObjectClass": "CENTER",
+                "Primitive": "Point",
+                "SubTemplate": null
+            }
+        }
+    },
+    {
+        "ID": "CTNARE_1",
+        "DisplayName": "Caution area",
+        "IconPath": "CTNARE51",
+        "ObjectClass": "CTNARE",
+        "Primitive": "Area",
+        "SubTemplate": {
+            "Center_Symbol": {
+                "ID": "CTNARE_51",
+                "DisplayName": "CenterSymbol",
+                "IconPath": "CTNARE51",
+                "ObjectClass": "CENTER",
+                "Primitive": "Point",
+                "SubTemplate": null
+            }
+        }
+    }
+]

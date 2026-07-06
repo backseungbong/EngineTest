@@ -1,0 +1,200 @@
+AGENCY#1#F#A#Agency responsible for production##c2 (mandatory)#S57###
+BCNSHP#2#F#E#Beacon shape#stake, pole, perch, post|withy|beacon tower|lattice beacon|pile beacon|cairn|buoyant beacon|##S57###
+BUISHP#3#F#E#Building shape#||||high-rise building|pyramid|cylindrical|sperical|cubic|##S57###
+BOYSHP#4#F#E#Buoy shape#conical (nun, ogival)|can (cylindrical)|spherical|pillar|spar (spindle)|barrel (tun)|super-buoy|ice buoy|##S57###
+BURDEP#5#F#F#Buried depth##xx.x#S57#0#15000.0#
+CALSGN#6#F#S#Call sign###S57###
+CATAIR#7#F#L#Category of airport / airfield#military aeroplane airport|civil aeroplane airport|military heliport|civil heliport|glider airfield|small planes airfield||emergency airfield|##S57###
+CATACH#8#F#L#Category of anchorage#unrestricted anchorage|deep water anchorage|tanker anchorage|explosives anchorage|quarantine anchorage|sea-plane anchorage|small craft anchorage|small craft mooring area|anchorage for periods up to 24 hours|anchorage for a limitied period of time|##S57###
+CATBRG#9#F#L#Category of bridge#fixed bridge|opening bridge|swing bridge|lifting bridge|bascule bridge|pontoon bridge|draw bridge|transporter bridge|footbridge|viaduct|aqueduct|suspension bridge|##S57###
+CATBUA#10#F#E#Category of built-up area#urban area|settlement|village|town|city|holiday village|##S57###
+CATCBL#11#F#E#Category of cable#power line||transmission line|telephone|telegraph|mooring cable/chain|##S57###
+CATCAN#12#F#E#Category of canal#transportation|drainage|irrigation|##S57###
+CATCAM#13#F#E#Category of cardinal mark#north cardinal mark|east cardinal mark|south cardinal mark|west cardinal mark|##S57###
+CATCHP#14#F#E#Category of checkpoint#custom|##S57###
+CATCOA#15#F#E#Category of coastline#steep coast|flat coast|sandy shore|stony shore|shingly shore|glacier (seaward end)|mangrove|marshy shore|coral reef|ice coast|shelly shore|##S57###
+CATCTR#16#F#E#Category of control point#triangulation point|observation spot|fixed point|bench-mark|boundary mark|horizontal control, main station|horizontal control, secondary station|##S57###
+CATCON#17#F#E#Category of conveyor#aerial cableway (telepheric)|belt conveyor|##S57###
+CATCOV#18#F#E#Category of coverage#coverage|no coverage available|##S57###
+CATCRN#19#F#E#Category of crane#|container crane/gantry|sheerlegs|travelling crane|A-frame|##S57###
+CATDAM#20#F#E#Category of dam#weir|dam|flood barrage|##S57###
+CATDIS#21#F#E#Category of distance mark#distance mark not physically installed|visible mark, pole|visible mark, board|visible mark, unknown shape|##S57###
+CATDOC#22#F#E#Category of dock#tidal|non tidal (wet dock)|##S57###
+CATDPG#23#F#L#Category of dumping ground#|chemical waste dumping ground|nuclear waste dumping ground|explosives dumping ground|spoil ground|vessel dumping ground|##S57###
+CATFNC#24#F#E#Category of fence/wall#fence||hedge|wall|##S57###
+CATFRY#25#F#E#Category of ferry#'free-moving' ferry|cable ferry|ice ferry|##S57###
+CATFIF#26#F#E#Category of fishing  facility#fishing stake|fish trap|fish weir|tunny net|##S57###
+CATFOG#27#F#E#Category of fog signal#explosive|diaphone|siren|nautophone|reed|tyfon|bell|whistle|gong|horn|##S57###
+CATFOR#28#F#E#Category of fortified structure#castle|fort|battery|blockhouse|Martello tower|redoubt|##S57###
+CATGAT#29#F#E#Category of gate#|flood barrage gate|caisson|lock gate|dyke gate|sluice|##S57###
+CATHAF#30#F#L#Category of harbour facility#RoRo-terminal||ferry terminal|fishing harbour|yacht harbour/marina|naval base|tanker terminal|passenger terminal|shipyard|container terminal|bulk terminal|syncrolift|straddle carrier|##S57###
+CATHLK#31#F#L#Category of hulk#floating restaurant|historic ship|museum|accomodation|floating breakwater|##S57###
+CATICE#32#F#E#Category of ice#fast ice||||glacier|||polar ice|##S57###
+CATINB#33#F#E#Category of installation buoy#catenary anchor leg mooring (CALM)|single buoy mooring (SBM or SPM)|##S57###
+CATLND#34#F#L#Category of land region#fen|marsh|moor/bog|heathland|mountain range|lowlands|canyon lands|paddy field|agricultural land|savanna/grassland|parkland|swamp|landslide|lava flow|salt pan|moraine|crater|cave|rock column or pinnacle|cay|##S57###
+CATLMK#35#F#L#Category of landmark#cairn|cemetery|chimney|dish aerial|flagstaff (flagpole)|flare stack|mast|windsock|monument|column (pillar)|memorial plaque|obelisk|statue|cross|dome|radar scanner|tower|windmill|windmotor|spire/minaret|large rock or boulder on land|##S57###
+CATLAM#36#F#E#Category of lateral mark#port-hand lateral mark|starboard-hand lateral mark|preferred channel to starboard lateral mark|preferred channel to port lateral mark|##S57###
+CATLIT#37#F#L#Category of lights#direction function|||leading light|aero light|air obstruction light|fog detector light|flood light|strip light|subsidiary light|spotlight|front|rear|lower|upper|moire' effect|emergency|bearing light|horizontally disposed|vertically disposed|##S57###
+CATMFA#38#F#E#Category of marine farm/culture#crustaceans|oyster/mussels|fish|seaweed|pearl culture farm|##S57###
+CATMPA#39#F#L#Category of military practice area#|torpedo exercise area|submarine exercise area|firing danger area|mine-laying practice area|small arms firing range|##S57###
+CATMOR#40#F#E#Category of mooring/warping facility#dolphin|deviation dolphin|bollard|tie-up wall|post or pile|chain/wire/cable|mooring buoy|##S57###
+CATNAV#41#F#E#Category of navigation line#clearing line|transit line|leading line bearing a recommended track|##S57###
+CATOBS#42#F#E#Category of obstruction#snag / stump|wellhead|diffuser|crib|fish haven|foul area|foul ground|ice boom|ground tackle|boom|##S57###
+CATOFP#43#F#L#Category of offshore platform#oil derrick / rig|production platform|observation / research platform|articulated loading platform (ALP)|single anchor leg mooring (SALM)|mooring tower|artificial island|floating production, storage and off-loading vessel (FPSO)|accomodation platform|navigation, communication and control buoy (NCCB)|##S57###
+CATOLB#44#F#E#Category of oil barrier#oil retention (high pressure pipe)|floating oil barrier|##S57###
+CATPLE#45#F#E#Category of pile#stake||post|tripodal|##S57###
+CATPIL#46#F#E#Category of pilot boarding place#boarding by pilot-cruising vessel|boarding by helicopter|pilot comes out from shore|##S57###
+CATPIP#47#F#L#Category of pipeline / pipe#|outfall pipe|intake pipe|sewer|bubbler system|supply pipe|##S57###
+CATPRA#48#F#E#Category of production area#quarry|mine|stockpile|power station area|refinery area|timber yard|factory area|tank farm|wind farm|slag heap / spoil heap|##S57###
+CATPYL#49#F#E#Category of pylon#power transmission pylon/pole|telephone/telegraph pylon/pole|aerial cableway/sky pylon|bridge pylon/tower|bridge pier|##S57###
+CATQUA#50#F#E#Category of quality of data#data quality A|data quality B|data quality C|data quality D|data quality E|quality not evaluated|##S57###
+CATRAS#51#F#E#Category of radar station#radar surveillance station|coast radar station|##S57###
+CATRTB#52#F#E#Category of radar transponder beacon#ramark, radar beacon transmitting continuously|racon, radar transponder beacon|leading racon/radar transponder beacon|##S57###
+CATROS#53#F#L#Category of radio station#circular (non-directional) marine or aero-marine radiobeacon|directional radiobeacon|rotating-pattern radiobeacon|Consol beacon|radio direction-finding station|coast radio station providing QTG service|aeronautical radiobeacon|Decca|Loran C|Differential GPS|Toran|Omega|Syledis|Chaika (Chayka)|##S57###
+CATTRK#54#F#E#Category of recommended track#based on a system of fixed marks|not based on a system of fixed marks|##S57###
+CATRSC#55#F#L#Category of rescue station#rescue station with lifeboat|rescue station with rocket||refuge  for shipwrecked mariners|refuge for intertidal area walkers|lifeboat lying  at a mooring|aid radio station|first aid equipment|##S57###
+CATREA#56#F#L#Category of restricted area#offshore safety zone|||nature reserve|bird sanctuary|game preserve|seal sanctuary|degaussing range|military area|historic wreck area||navigational aid safety zone||minefield||||swimming area|waiting area|research area|dredging area|fish sanctuary|ecological reserve|no wake area|swinging area|water skiing area|Environmentally Sensitive Sea Area (ESSA)|Particularly Sensitive Sea Area (PSSA)##S57###
+CATROD#57#F#E#Category of road#motorway|major road|minor road|track / path|major street|minor street|crossing|##S57###
+CATRUN#58#F#E#Category of runway#aeroplane|helicopter landing pad|##S57###
+CATSEA#59#F#E#Category of sea area#|gat|bank|deep|bay|trench|basin|mud flats|reef|ledge|canyon|narrows|shoal|knoll|ridge|seamount|pinnacle|abyssal plain|plateau|spur|shelf|trough|saddle|abyssal hills|apron|archipelagic apron|borderland|continental margin|continental rise|escarpment|fan|fracture zone|gap|guyot|hill|hole|levee|median valley|moat|mountains|peak|province|rise|seachannel|seamount chain|shelf edge|sill|slope|terrace|valley|canal|lake|river|reach|##S57###
+CATSLC#60#F#E#Category of shoreline construction#breakwater|groyne (groin)|mole|pier ( jetty)|promenadepier|wharf (quay)|training wall|rip rap|revetment|sea wall|landing steps|ramp|slipway|fender|solid face wharf|open face wharf|log ramp|##S57###
+CATSIT#61#F#L#Category of signal station, traffic#port control|port entry and departure|International Port Traffic|berthing|dock|lock|flood barrage|bridge passage|dredging|traffic control light|##S57###
+CATSIW#62#F#L#Category of signal station, warning#danger|maritime obstruction|cable|military practice|distress|weather|storm|ice|time|tide|tidal stream|tide gauge|tide scale|diving|water level gauge|##S57###
+CATSIL#63#F#E#Category of silo/tank#silo in general|tank in general|grain elevator|water tower|##S57###
+CATSLO#64#F#E#Category of slope#cutting|embankment|dune|hill|pingo|cliff|scree|##S57###
+CATSCF#65#F#L#Category of small craft facility#visitor`s berth|nautical club|boat hoist|sailmaker|boatyard|public inn|restaurant|chandler|provisions|doctor|pharmacy|water tap|fuel station|electricity|bottle gas|showers|launderette|public toilets|post box|public telephone|refuse bin|car park|parking for boats and trailers|caravan site|camping site|sewerage pump-out station|emergency telephone|landing / launching place for boats|visitors mooring|scrubbing berth|picnic area|mechanics workshop|guard and/or security service|##S57###
+CATSPM#66#F#L#Category of special purpose mark#firing danger area mark|target mark|marker ship mark|degaussing range mark|barge mark|cable mark|spoil ground mark|outfall mark|ODAS (Ocean-Data-Acquisition-System)|recording mark|seaplane anchorage mark|recreation zone mark|private mark|mooring mark|LANBY (Large Automatic Navigational Buoy)|leading mark|measured distance mark|notice mark|TSS mark (Traffic Separation Scheme)|anchoring prohibited mark|berthing prohibited mark|overtaking prohibited mark|two-way traffic prohibited mark|'reduced wake' mark|speed limit mark|stop mark|general warning mark|'sound ship's siren' mark|restricted vertical clearence mark|maximum vessel's draught mark|restricted horizontal clearance mark|strong current warning mark|berthing permitted mark|overhead power cable mark|'channel edge gradient' mark|telephone mark|ferry crossing mark||pipline mark|anchorage mark|clearing mark|control mark|diving mark|refuge beacon|foul ground mark|yachting mark|heliport mark|GPS mark|seaplane landing mark|entry prohibited mark|work in progress mark|mark with unknown purpose|welhead mark|channel separation mark|marine farm mark|artifical reef mark|##S57###
+CATTSS#67#F#E#Category of Traffic Separation Scheme#IMO - adopted|not IMO - adopted|##S57###
+CATVEG#68#F#L#Category of vegetation#grass||bush|deciduous wood|coniferous  wood|wood in general (inc mixed wood)|mangroves|||mixed crops|reed|moos|tree in general|evergreen tree|coniferous tree|palm tree|nipa palm tree|casuarina tree|eucalypt tree|deciduous tree|mangrove tree|filao tree|##S57###
+CATWAT#69#F#E#Category of water turbulence#breakers|eddies|overfalls|tide rips|bombora|##S57###
+CATWED#70#F#E#Category of weed / kelp#kelp|sea weed|sea grass|saragasso|##S57###
+CATWRK#71#F#E#Category of wreck#non-dangerous wreck|dangerous wreck|distributed remains of wreck|wreck showing mast/masts|wreck showing any portion of hull or superstructure|##S57###
+CATZOC#72#F#E#Category of zone of confidence data#zone of confidence A1|zone of confidence A2|zone of confidence B|zone of confidence C|zone of confidence D|zone of confidence U (data not assessed)|##S57###
+$SPACE#73#C#E#Character spacing#expanded/condensed|standard|##S57###
+$CHARS#74#C#A#Character specification###S57###
+COLOUR#75#F#L#Colour#white|black|red|green|blue|yellow|grey|brown|amber|violet|orange|magenta|pink|##S57###
+COLPAT#76#F#L#Colour pattern#horizontal stripes|vertical stripes|diagonal stripes|squared|stripes (direction unknown)|border stripes|##S57###
+COMCHA#77#F#A#Communication channel##[XXXX];[XXXX];...#S57###
+$CSIZE#78#C#F#Compass size##xx.xx#S57###
+CPDATE#79#F#A#Compilation date##CCYYMMDD (mandatory)#S57###
+CSCALE#80#F#I#Compilation scale##xxxxxxxx#S57#0##
+CONDTN#81#F#E#Condition#under construction|ruined|under reclamation|wingless|planned construction|##S57###
+CONRAD#82#F#E#Conspicuous, Radar#radar conspicuous|not radar conspicuous|radar conspicuous (has radar reflector)|##S57###
+CONVIS#83#F#E#Conspicuous, visual#visual conspicuous|not visual conspicuous|##S57###
+CURVEL#84#F#F#Current velocity##xx.x#S57###
+DATEND#85#F#A#Date end##CCYYMMDD (mandatory)#S57###
+DATSTA#86#F#A#Date start##CCYYMMDD (mandatory)#S57###
+DRVAL1#87#F#F#Depth range value 1##sxxxxx.x#S57###
+DRVAL2#88#F#F#Depth range value 2##sxxxxx.x#S57###
+DUNITS#89#F#E#Depth units#meters|fathoms and feet|feet|fathoms and fractions|##S57##
+ELEVAT#90#F#F#Elevation##xxx.x#S57#0##
+ESTRNG#91#F#F#Estimated Range of Transmission##xxx.x#S57#0#10800.0#
+EXCLIT#92#F#E#Exhibition condition of light#light shown without change of character|daytime light|fog light|night light|##S57###
+EXPSOU#93#F#E#Exposition of sounding#within the range of depth of the surrounding depth area|shoaler than range of depth of the surrounding depth area|deeper than range of depth of the surrounding depth area|##S57###
+FUNCTN#94#F#L#Function#|harbour-master's office|custom office|health office|hospital|post office|hotel|railway station|police station|water-police station|pilot office|pilot lookout|bank office|headquarters for district control|transit shed/warehouse|factory|power station|administrative|educational facility|church|chapel|temple|pagoda|shinto shrine|buddhist temple|mosque|marabout|lookout|communication|television|radio|radar|light support|microwave|cooling|observation|timeball|clock|control|airship mooring|stadium|bus station|##S57###
+HEIGHT#95#F#F#Height##xxx.x#S57#0#30000.0#
+HUNITS#96#F#E#Height/length units#meters|feet|##S57##
+HORACC#97#F#F#Horizontal accuracy##xx.x#S57#0##
+HORCLR#98#F#F#Horizontal clearance##xxx.x#S57#0##
+HORLEN#99#F#F#Horizontal length##xxx.x#S57#0##
+HORWID#100#F#F#Horizontal width##xx.x#S57#0##
+ICEFAC#101#F#F#Ice factor##xx.x#S57#0##
+INFORM#102#F#S#Information###S57###
+JRSDTN#103#F#E#Jurisdiction#international|national|national sub-division|##S57###
+$JUSTH#104#C#E#Justification - horizontal#centre justified|right justified|left justified|##S57###
+$JUSTV#105#C#E#Jusitifaction - vertical#bottom justified|centre justified|top justified|##S57###
+LIFCAP#106#F#F#Lifting capacity##xxx.x#S57#0##
+LITCHR#107#F#E#Light characteristic#fixed|flashing|long-flashing|quick-flashing|very quick-flashing|ultra quick-flashing|isophased|occulting|interrupted quick-flashing|interrupted very quick-flashing|interrupted ultra quick-flashing|morse|fixed / flash|flash / long-flash|occulting / flash|fixed / long-flash|occulting alternating|long-flash alternating|flash alternating|group alternating|||||quick-flash plus long-flash|very quick-flash plus long-flash|ultra quick-flash plus long-flash|alternating|fixed and alternating flashing|##S57###
+LITVIS#108#F#L#Light visibility#high intensity|low intensity|faint|intensified|unintensified|visibility deliberately restricted|obscured|partially obscured|##S57###
+MARSYS#109#F#E#Marks navigational - System of#IALA A|IALA B|||||||no system|other sytem|##S57###
+MLTYLT#110#F#I#Multiplicity of lights##xx#S57###
+NATION#111#F#A#Nationality##c2 (mandatory)#S57###
+NATCON#112#F#L#Nature of construction#masonry|concreted|loose boulders|hard surfaced|unsurfaced|wooden|metal|glass reinforced plastic (GRP)|painted|##S57###
+NATSUR#113#F#L#Natural surface#mud|clay|silt|sand|stone|gravel|pebbles|cobbles|rocky||lava|||coral|||shells|boulder|##S57###
+NATQUA#114#F#L#Nature of surface - qualifying terms#fine|medium|coarse|broken|sticky|soft|stiff|volcanic|calcareous|hard|##S57###
+NMDATE#115#F#A#Notice to Mariners date##CCYYMMDD (mandatory)#S57###
+OBJNAM#116#F#S#Object name###S57###
+ORIENT#117#F#F#Orientation##xxx.xx#S57#0#360.000#
+PEREND#118#F#A#Periodic date, end##CCYYMMDD (mandatory)#S57###
+PERSTA#119#F#A#Periodic date, start##CCYYMMDD (mandatory)#S57###
+PICREP#120#F#S#Pictorial representation###S57###
+PILDST#121#F#S#Pilot district###S57###
+PRCTRY#122#F#A#Producing country##c2 (mandatory)#S57###
+PRODCT#123#F#L#Product#oil|gas|water|stone|coal|ore|chemicals|drinking water|milk|bauxite|coke|iron ingots|salt|sand|timber|sawdust / wood chips|scrap metal|liquified natural gas (LNG)|liquified petroleum gas (LPG)|wine|cement|grain|##S57###
+PUBREF#124#F#S#Publication reference###S57###
+QUASOU#125#F#L#Quality of sounding measurement#depth known|depth unknown|doubtful sounding|unreliable sounding|no bottom found at value shown|least depth known|least depth unknown, safe clearance at value shown|value reported (not surveyed)|value reported (not confirmed)|maintained depth|not regularly maintained|##S57###
+RADWAL#126#F#A#Radar wave lenght##V.VV-B (mandatory)#S57###
+RADIUS#127#F#F#Radius##xxx.x#S57#0#60004800.0#
+RECDAT#128#F#A#Recording date##CCYYMMDD (mandatory)#S57##
+RECIND#129#F#A#Recording indication##c1,c2,c3 (mandatory)#S57##
+RYRMGV#130#F#A#Reference year for magnetic variation##CCYY (mandatory)#S57###
+RESTRN#131#F#L#Restriction#anchoring prohibited|anchoring restricted|fishing prohibited|fishing restricted|trawling prohibited|trawling restricted|entry prohibited|entry restricted|dredging prohibited|dredging restricted|diving prohibited|diving restricted|no wake|area to be avoided|construction prohibited|discharging prohibited|discharging restricted|industrial or mineral exploration/development prohibited|industrial or mineral exploration/development restricted|drilling prohibited|drilling restricted|removal of historic artifacts prohibited|cargo transhipment (lightering) prohibited|dragging prohibited|stopping prohibited|landing prohibited|speed restricted|##S57###
+SCAMAX#132#F#I#Scale maximum##xxxxxxxx#S57##
+SCAMIN#133#F#I#Scale minimum##xxxxxxxx#S57#1##
+SCVAL1#134#F#I#Scale value one##xxxxxxxx#S57#1##
+SCVAL2#135#F#I#Scale value two##xxxxxxxx#S57#1##
+SECTR1#136#F#F#Sector limit one##xxx.xx#S57#0#360.00#
+SECTR2#137#F#F#Sector limit two##xxx.xx#S57#0#360.00#
+SHIPAM#138#F#A#Shift Parameters##sxx.xxx#S57###
+SIGFRQ#139#F#I#Signal frequency###S57#0##
+SIGGEN#140#F#E#Signal generation#automatically|by wave action|by hand|by wind|##S57###
+SIGGRP#141#F#A#Signal group##(c) (c) ...#S57###
+SIGPER#142#F#F#Signal period##xx.xx#S57#0##
+SIGSEQ#143#F#A#Signal sequence##(EE.E)+LL.L#S57###
+SOUACC#144#F#F#Sounding accuracy##xx.xx#S57#0##
+SDISMX#145#F#I#Sounding distance - maximum##xxxx#S57#0##
+SDISMN#146#F#I#Sounding distance - minimum##xxxx#S57#0##
+SORDAT#147#F#A#Source date##CCYYMMDD (mandatory)#S57###
+SORIND#148#F#A#Source indication##c2, c2, c5, c ...#S57###
+STATUS#149#F#L#Status#permanent|occasional|recommended|not in use|periodically/intermittent|reserved|temporary|private|mandatory||extinguished|illuminated|historic|public|synchronized|watched|un-watched|existence doubtful|##S57###
+SURATH#150#F#S#Survey authority###S57###
+SUREND#151#F#A#Survey date - end##CCYYMMDD  (mandatory)#S57###
+SURSTA#152#F#A#Survey date - start##CCYYMMDD (mandatory)#S57###
+SURTYP#153#F#L#Survey Type#reconnaissance / sketch survey|controlled survey||examintion survey|passage survey|remotely sensed|##S57###
+$SCALE#154#C#F#Symbol scaling factor##x.x#S57###
+$SCODE#155#C#A#Symbolization code###S57###
+TECSOU#156#F#L#Technique of sounding measurement#found by echo-sounder|found by side scan sonar|found by multi-beam|found by diver|found by lead-line|swept by wire-drag|found by laser|swept by vertical acoustic system|found by electromagnetic sensor|photogrammetry|satelite imagery|found by levelling|swept by side-scan sonar|computer generated|##S57###
+$TXSTR#157#C#S#Text string###S57###
+TXTDSC#158#F#S#Textual Description###S57###
+TS_TSP#159#F#A#Tidal stream - panel values###S57###
+TS_TSV#160#F#A#Tidal stream - time series values###S57###
+T_ACWL#161#F#E#Tide - accuracy of water level#better than 0.1m and 10 minutes|worse than 0.1m or 10 minutes|##S57###
+T_HWLW#162#F#A#Tide - high and low water values##CCYYMMDDThhmm,xx.x,CCYYMMDDThhmm,xx.x#S57###
+T_MTOD#163#F#E#Tide - method of tidal prediction#simplified harmonic method of tidal prediction|full harmonic method of tidal prediction|height and time difference non-harmonic method|other non-harmonic method|##S57###
+T_THDF#164#F#A#Tide - time and heigt differences###S57###
+T_TINT#165#F#I#Tide,current-time interval of values###S57###
+T_TSVL#166#F#A#Tide - time series values###S57###
+T_VAHC#167#F#A#Tidal, value of harmonic constituents###S57###
+TIMEND#168#F#A#Time end##CCYYMMDDThhmmss (mandatory)#S57###
+TIMSTA#169#F#A#Time start##CCYYMMDDThhmmss (mandatory)#S57###
+$TINTS#170#C#E#Tint#darkest blue|medium blue|lightest blue|##S57###
+TOPSHP#171#F#E#Top mark shape#cone, point up|cone, point down|sphere|2 sphere|cylinder (can)|board|x-shape (St. Andrew's cross)|upright cross (St. George cross)|cube, point up|2 cones, point to point|2 cones, base to base|rhombus (diamond)|2 cones (points upward)|2 cones (points downward)|besom, point up (broom or perch)|besom, point down (broom or perch)|flag|sphere over rhombus|square|rectangle, horizontal|rectangle, vertical|trapezium, up|trapezium, down|triangle# point up|triangle, point down|circle|two upright crosses (one over the other)|T-shape|triangle pointing up over a circle|upright cross over a circle|rhombus over a circle|circle over a triangle pointing up|other shape (see INFORM)|##S57###
+TRAFIC#172#F#E#Traffic flow#inbound|outbound|one-way|two-way|##S57###
+VALACM#173#F#F#Value of annual change in magnetic variation##sxx.x#S57###
+VALDCO#174#F#F#Value of depth contour##sxxxxx.x#S57#-100#45000.0#
+VALLMA#175#F#F#Value of local magnetic anomaly##xx.x#S57#-45#45.0#
+VALMAG#176#F#F#Value of magnetic variation##sxx.xx#S57###
+VALMXR#177#F#F#Value of maximum range##xx.x#S57#0#10800.0#
+VALNMR#178#F#F#Value of nominal range##xx.x#S57#0#80.0#
+VALSOU#179#F#F#Value of sounding##sxxxxx.xx#S57#-45#45000.0#
+VERACC#180#F#F#Vertical accuracy##xx.x#S57#0##
+VERCLR#181#F#F#Vertical clearance##xx.x#S57#0##
+VERCCL#182#F#F#Vertical clearance, closed##xx.x#S57#0##
+VERCOP#183#F#F#Vertical clearance, open##xx.x#S57#0##
+VERCSA#184#F#F#Vertical clearance, safe##xx.x#S57#0##
+VERDAT#185#F#E#Vertical datum#Mean low water springs|Mean lower low water springs|Mean sea level|Lowest low water|Mean low water|Lowest low water springs|Approximate mean low water springs|Indian spring low water|Low water springs|Approximate lowest astronomical tide|Nearly lowest low water|Mean lower low water|Low water|Approximate mean low water|Approximate mean lower low water|Mean high water|Mean high water springs|High water|Approximate mean sea level|High water springs|Mean higher high water|Equinoctial spring low water|Lowest astronomical tide|Local datum|International Great Lakes Datum 1985|Mean water level|Lower low water large tide|Higher high water large tide|Nearly highest high water|Highest astronomical tide (HAT)|##S57###
+VERLEN#186#F#F#Vertical length##xxx.x#S57#0##
+WATLEV#187#F#E#Water level effect#partly submerged at high water|always dry|always under water/submerged|covers and uncovers|awash|subject to inundation or flooding|floating|##S57#0#5#00
+CAT_TS#188#F#E#Category of Tidal stream#flood stream|ebb stream|Other tidal flow|##S57##
+PUINTS#189#F#E#Positional accuracy units#meters|degrees of arc|milimeters|feet|cables|##S57###
+CLSDEF#190#F#S#Object class definition##S57###
+CLSNAM#191#F#S#Object class name##S57###
+SYMINS#192#F#S#Symbol instruction##S57###
+NINFOM#300#N#S#Information in national language##c ...#S57###
+NOBJNM#301#N#S#Object name in national language##c...#S57###
+NPLDST#302#N#S#Pilot district in national language##c ...#S57###
+$NTXST#303#N#S#Text string in national language###S57###
+NTXTDS#304#N#S#Textual description in national language###S57###
+HORDAT#400#S#E#Horizontal datum#WGS 72|WGS 84|European 1950|Potsdam Datum|Adindan|Afgooye|Ain el Abd 1970 |Anna 1 Astro 1965|Antigua Island Astro 1943|Arc 1950|Arc 1960|Ascension Island 1958|Astro beacon "E" 1945|Astro DOS 71/4|Astro Tern Island (FRIG) 1961|Astronomical Station 1952|Australian Geodetic 1966|Australian Geodetic 1984|Ayabelle Lighthouse|Bellevue (IGN)|Bermuda 1957|Bissau|Bogota Observatory|Bukit Rimpah|Camp Area Astro|Campo Inchauspe 1969|Canton Astro 1966|Cape|Cape Canaveral|Carthage|Chatam Island Astro 1971|Chua Astro|Corrego Alegre|Dabola|Djakarta (Batavia)|DOS 1968|Easter Island 1967|European 1979|Fort Thomas 1955|Gan 1970|Geodetic Datum 1949|Graciosa Base SW 1948|Guam 1963|Gunung Segara|GUX 1 Astro|Herat North|Hjorsey 1955|Hong Kong 1963|Hu-Tzu-Shan|Indian|Indian 1954|Indian 1975|Ireland 1965|ISTS 061 Astro 1968|ISTS 073 Astro 1969|Johnston Island 1961|Kandawala|Kerguelen Island 1949|Kertau 1948|Kusaie Astro 1951|L. C. 5 Astro 1961|Leigon|Liberia 1964|Luzon|Mahe 1971|Massawa|Merchich|Midway Astro 1961|Minna|Montserrat Island Astro 1958|M'Poraloko|Nahrwan|Naparima, BWI|North American 1927|North American 1983|Observatorio Meteorologico 1939|Old Egyptian 1907|Old Hawaiian|Oman|Ordnance Survey of Great Britain 1936|Pico de las Nieves|Pitcairn Astro 1967|Point 58|Pointe Noire 1948|Porto Santo 1936|Provisional South American 1956|Provisional South Chilean 1963 (also known as Hito XVIII 1963)|Puerto Rico|Qatar national|Qornoq|Reunion|Rome 1940|Santo (DOS) 1965|Sao Braz|Sapper Hill 1943|Schwarzeck|Selvagem Grande 1938|South American 1969|South Asia|Tananarive  Observatory 1925|Timbalai 1948|Tokyo|Tristan Astro 1968|Viti Levu 1916|Wake-Eniwetok 1960|Wake Island Astro 1952|Yacare|Zanderij|American Samoa 1962|Deception Island|Indian 1960|Indonesian 1974|North Sahara 1959|Pulkovo 1942|S-42 (Pulkovo 1942)|S-JYSK|Voirol 1950|Average Terrestrial System 1977|Compensation Ge'ode'sique du Que'bec 1977|Finnish (KKJ)|Ordnance Survey of Ireland|Revised Kertau|Revised Nahrwan|GGRS 76 (Greece)|Nouvelle Triangulation de France|RT 90 (Sweden)|Geocentric Datum of Australia (GDA)|BJZ54 (A954 Beijing Coordinates)|Modified BJZ54|GDZ80|Local datum|##S57###
+POSACC#401#S#F#Positional Accuracy##xxxx.x#S57#0##
+QUAPOS#402#S#E#Quality of position#surveyed|unsurveyed|inadequately surveyed|approximated|position doubtful|unreliable|reported (not surveyed)|reported (not confirmed)|estimated|precisely known|calculated|##S57###
