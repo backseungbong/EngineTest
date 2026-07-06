@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JHApp.ECDIS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8cf5beb0dc3137c3c1dc6d8fd94cb7c66293865")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df40970b552c7268cfbef2975efd14ea22d2cc45")]
 [assembly: System.Reflection.AssemblyProductAttribute("JHApp.ECDIS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JHApp.ECDIS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
