@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="JHApp.ECDIS/JHApp.ECDIS.csproj" />
+  <Project Path="JHLib.Util/JHLib.Util.csproj" />
+  <Project Path="JHLib.WPFUtil/JHLib.WPFUtil.csproj" />
 </Solution>
