@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JHLib.S57\JHLib.S57.csproj" />
+    <ProjectReference Include="..\JHLib.Util\JHLib.Util.csproj" />
+    <ProjectReference Include="..\JHLib.WPFUtil\JHLib.WPFUtil.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -4,9 +4,16 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:JHApp.ECDIS"
+        xmlns:vm="clr-namespace:JHApp.ECDIS.ViewModels"
+        xmlns:gesture="clr-namespace:JHLib.WPFUtil.Gesture;assembly=JHLib.WPFUtil"
+        xmlns:util="clr-namespace:JHLib.WPFUtil;assembly=JHLib.WPFUtil"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+        Title="MainWindow" Height="1080" Width="1920">
+    <Grid >
+        <Grid UseLayoutRounding="True" SnapsToDevicePixels="True">
+            <util:ViewGraphicsLayer x:Name="ViewGraphicsLayer" SnapsToDevicePixels="True" UseLayoutRounding="True"/>
+            <gesture:GesturePanel x:Name="ViewGesturePanel"/>
+        </Grid>
     </Grid>
 </Window>
+       

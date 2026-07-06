@@ -1,13 +1,7 @@
-﻿using System.Text;
+﻿using System.ComponentModel;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using JHLib.WPFUtil;
+using JHApp.ECDIS.ViewModels;
 
 namespace JHApp.ECDIS
 {
@@ -18,7 +12,14 @@ namespace JHApp.ECDIS
     {
         public MainWindow()
         {
+            EcdisApp.Init();
             InitializeComponent();
+
+            if (DesignerProperties.GetIsInDesignMode(this)) return;
+            DataContext = VM.MainVM;
+
+            ViewGraphicsLayer.Manager = EcdisApp.LayerManager;
+            EcdisApp.ModeLayer.GesturePanel = ViewGesturePanel;
         }
     }
 }
