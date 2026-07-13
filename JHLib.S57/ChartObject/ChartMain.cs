@@ -420,7 +420,9 @@ namespace JHLib.S57.ChartObject
                 {
                     const double MUL_FACTOR = 1d / 10000000;
 
-                    pWorld = EPSG3857.ToWorld(pInt2D.X * MUL_FACTOR, pInt2D.Y * MUL_FACTOR);
+                    // [bsb 막음]
+                    //pWorld = EPSG3857.ToWorld(pInt2D.X * MUL_FACTOR, pInt2D.Y * MUL_FACTOR);
+                    pWorld = ChartRenderer.ToWorld(pInt2D.X * MUL_FACTOR, pInt2D.Y * MUL_FACTOR);
                     pWorld = ref add(ref pWorld, 1);
                     pInt2D = ref add(ref pInt2D, 1);
                 }

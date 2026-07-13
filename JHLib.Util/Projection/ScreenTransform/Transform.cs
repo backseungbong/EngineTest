@@ -132,10 +132,18 @@ namespace JHLib.Util.Projection.ScreenTransform
         public Matrix22D ToWorld2 => _toWorld2;
 
 
+        // [bsb] 추가된 프로퍼티
+        public readonly IMapProjection Projection;
+
         [SkipLocalsInit]
+        //internal Transform(ScreenInfo sinfo,
+        //    uint version, double transX, double transY, double rotation, double scale, bool immediateTransformApply)
         internal Transform(ScreenInfo sinfo,
-            uint version, double transX, double transY, double rotation, double scale, bool immediateTransformApply)
+            uint version, double transX, double transY, double rotation, double scale, bool immediateTransformApply, IMapProjection projection)
         {
+            // [bsb]
+            Projection = projection;
+
             var lb = sinfo.FloatBound;
             var w2s = sinfo.FactorMeToPixel / scale;
             var toLocal = Matrix22D.Create(transX, -transY, rotation, w2s, sinfo.PivotScreenX, sinfo.PivotScreenY);
@@ -147,39 +155,59 @@ namespace JHLib.Util.Projection.ScreenTransform
             _toLocal1 = toLocal;
             _toWorld1 = toWorld;
 
+            // [bsb 막음]
+            //toWorld.Transform64PostFlipY(lb, out var wPath);
+            //var wb = wPath.GetBound();
+            //var eb = new DoubleRect(EPSG3857.ToWGS84D(wb.P1), EPSG3857.ToWGS84D(wb.P2));
             toWorld.Transform64PostFlipY(lb, out var wPath);
-
             var wb = wPath.GetBound();
-            var eb = new DoubleRect(EPSG3857.ToWGS84D(wb.P1), EPSG3857.ToWGS84D(wb.P2));
-
-            var WXMIN = EPSG3857.MIN_PJX;
-            var WXMAX = EPSG3857.MAX_PJX;
-            var EXMIN = EPSG3857.MIN_LON;
-            var EXMAX = EPSG3857.MAX_LON;
+            // 화면(lb)의 네 꼭지점을 명시적으로 월드 좌표 배열로 변환
+            Double2D[] worldVertices = [toWorld.Transform64PostFlipY(lb.X1, lb.Y1), toWorld.Transform64PostFlipY(lb.X2, lb.Y1), toWorld.Transform64PostFlipY(lb.X2, lb.Y2), toWorld.Transform64PostFlipY(lb.X1, lb.Y2)];
+            // 투영법 객체에게 바운드 계산을 위임 (eb, eb1, eb2 계산 시 동일하게 적용)
+            var eb = projection.CalculateWGS84Bound(wb, worldVertices);
+            // [bsb]
 
             var multiTransform = false;
-            if (wb.X1 < WXMIN)
+            if (projection.SupportMultiTransform)
             {
-                _toLocal2 = Matrix22D.Create(WXMAX + (transX - WXMIN), -transY, rotation, w2s, sinfo.PivotScreenX, sinfo.PivotScreenY);
-                _toWorld2 = _toLocal2.Invert();
-                _worldBound1 = new((float)WXMIN, (float)wb.Y1, (float)wb.X2, (float)wb.Y2);
-                _wgs84Bound1 = new((float)EXMIN, (float)eb.Y1, (float)eb.X2, (float)eb.Y2);
-                _worldBound2 = new((float)(WXMAX - (WXMIN - wb.X1)), (float)wb.Y1, (float)WXMAX, (float)wb.Y2);
-                _wgs84Bound2 = new((float)(EXMAX - (EXMIN - eb.X1)), (float)eb.Y1, (float)EXMAX, (float)eb.Y2);
-                multiTransform = true;
-            }
-            else if (WXMAX < wb.X2)
-            {
-                _toLocal2 = Matrix22D.Create(WXMIN - (WXMAX - transX), -transY, rotation, w2s, sinfo.PivotScreenX, sinfo.PivotScreenY);
-                _toWorld2 = _toLocal2.Invert();
-                _worldBound1 = new((float)wb.X1, (float)wb.Y1, (float)WXMAX, (float)wb.Y2);
-                _wgs84Bound1 = new((float)eb.X1, (float)eb.Y1, (float)EXMAX, (float)eb.Y2);
-                _worldBound2 = new((float)WXMIN, (float)wb.Y1, (float)(WXMIN + (wb.X2 - WXMAX)), (float)wb.Y2);
-                _wgs84Bound2 = new((float)EXMIN, (float)eb.Y1, (float)(EXMIN + (eb.X2 - EXMAX)), (float)eb.Y2);
-                multiTransform = true;
+                var WXMIN = EPSG3857.MIN_PJX;
+                var WXMAX = EPSG3857.MAX_PJX;
+                var EXMIN = EPSG3857.MIN_LON;
+                var EXMAX = EPSG3857.MAX_LON;
+
+                if (wb.X1 < WXMIN)
+                {
+                    _toLocal2 = Matrix22D.Create(WXMAX + (transX - WXMIN), -transY, rotation, w2s, sinfo.PivotScreenX, sinfo.PivotScreenY);
+                    _toWorld2 = _toLocal2.Invert();
+                    _worldBound1 = new((float)WXMIN, (float)wb.Y1, (float)wb.X2, (float)wb.Y2);
+                    _wgs84Bound1 = new((float)EXMIN, (float)eb.Y1, (float)eb.X2, (float)eb.Y2);
+                    _worldBound2 = new((float)(WXMAX - (WXMIN - wb.X1)), (float)wb.Y1, (float)WXMAX, (float)wb.Y2);
+                    _wgs84Bound2 = new((float)(EXMAX - (EXMIN - eb.X1)), (float)eb.Y1, (float)EXMAX, (float)eb.Y2);
+                    multiTransform = true;
+                }
+                else if (WXMAX < wb.X2)
+                {
+                    _toLocal2 = Matrix22D.Create(WXMIN - (WXMAX - transX), -transY, rotation, w2s, sinfo.PivotScreenX, sinfo.PivotScreenY);
+                    _toWorld2 = _toLocal2.Invert();
+                    _worldBound1 = new((float)wb.X1, (float)wb.Y1, (float)WXMAX, (float)wb.Y2);
+                    _wgs84Bound1 = new((float)eb.X1, (float)eb.Y1, (float)EXMAX, (float)eb.Y2);
+                    _worldBound2 = new((float)WXMIN, (float)wb.Y1, (float)(WXMIN + (wb.X2 - WXMAX)), (float)wb.Y2);
+                    _wgs84Bound2 = new((float)EXMIN, (float)eb.Y1, (float)(EXMIN + (eb.X2 - EXMAX)), (float)eb.Y2);
+                    multiTransform = true;
+                }
+                else
+                {
+                    _toLocal2 = toLocal;
+                    _toWorld2 = toWorld;
+                    _worldBound1 = wb.ToFloatRect();
+                    _wgs84Bound1 = eb.ToFloatRect();
+                    _worldBound2 = _worldBound1;
+                    _wgs84Bound2 = _wgs84Bound1;
+                }
             }
             else
             {
+                // 극방위 등 MultiTransform을 미지원하는 도법은 무조건 단일 Transform으로 처리
                 _toLocal2 = toLocal;
                 _toWorld2 = toWorld;
                 _worldBound1 = wb.ToFloatRect();
@@ -193,7 +221,9 @@ namespace JHLib.Util.Projection.ScreenTransform
             _worldOBB = new FloatOBB(_worldBound1, (float)rotation);
             _sinfo = sinfo;
 
-            WGS84Position = EPSG3857.ToWGS84D(transX, transY);
+            // [bsb 막음]
+            //WGS84Position = EPSG3857.ToWGS84D(transX, transY);
+            WGS84Position = projection.ToWGS84D(transX, transY);
             WorldPosition = new Double2D(transX, transY);
             Rotation = rotation;
             Scale = scale;

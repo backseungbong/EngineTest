@@ -1,6 +1,7 @@
 ﻿using JHLib.Graphics;
 using JHLib.NavigationLayer;
 using JHLib.NavigationLayer.InteractionMode;
+using JHLib.Util.Projection;
 
 namespace JHApp.ECDIS
 {

@@ -138,6 +138,28 @@ namespace JHLib.S57.Chart
             }
         }
 
+        public Float2D ToWorld(double lon, double lat)
+        {
+            if (_layer != null)
+            {
+                var tf = _layer.Transform;
+                return tf.WGS84ToWorld(lon, lat);
+            }
+
+            return new Float2D();
+        }
+
+        public void ResetProjection()
+        {
+            foreach (var chart in DicChart)
+            {
+                chart.Value.Dispose();
+            }
+            DicChart.Clear();
+
+            PendingDrawing();
+        }
+
 
         public void Dispose()
         {

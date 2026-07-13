@@ -148,105 +148,203 @@ namespace JHLib.Util.Projection.ScreenTransform
         }
 
 
-
+        // [bsb 막음]
         /// <summary> WGS84 -> World 변환 </summary>
-        public Float2D WGS84ToWorld(in Float2D w84) => EPSG3857.ToWorld(w84);
-        public Float2D WGS84ToWorld(in Double2D w84) => EPSG3857.ToWorld(w84);
-        public Float2D WGS84ToWorld(float lon, float lat) => EPSG3857.ToWorld(lon, lat);
-        public Float2D WGS84ToWorld(double lon, double lat) => EPSG3857.ToWorld(lon, lat);
-        public Double2D WGS84ToWorldD(in Float2D w84) => EPSG3857.ToWorldD(w84);
-        public Double2D WGS84ToWorldD(in Double2D w84) => EPSG3857.ToWorldD(w84);
-        public Double2D WGS84ToWorldD(float lon, float lat) => EPSG3857.ToWorldD(lon, lat);
-        public Double2D WGS84ToWorldD(double lon, double lat) => EPSG3857.ToWorldD(lon, lat);
+        //public Float2D WGS84ToWorld(in Float2D w84) => EPSG3857.ToWorld(w84);
+        public Float2D WGS84ToWorld(in Float2D w84) => Projection.ToWorld(w84);
+        //public Float2D WGS84ToWorld(in Double2D w84) => EPSG3857.ToWorld(w84);
+        public Float2D WGS84ToWorld(in Double2D w84) => Projection.ToWorld(new Float2D((float)w84.X, (float)w84.Y));
+        //public Float2D WGS84ToWorld(float lon, float lat) => EPSG3857.ToWorld(lon, lat);
+        public Float2D WGS84ToWorld(float lon, float lat) => Projection.ToWorld(lon, lat);
+        //public Float2D WGS84ToWorld(double lon, double lat) => EPSG3857.ToWorld(lon, lat);
+        public Float2D WGS84ToWorld(double lon, double lat) => Projection.ToWorld((float)lon, (float)lat);
+        //public Double2D WGS84ToWorldD(in Float2D w84) => EPSG3857.ToWorldD(w84);
+        public Double2D WGS84ToWorldD(in Float2D w84) => Projection.ToWorldD(new Double2D(w84.X, w84.Y));
+        //public Double2D WGS84ToWorldD(in Double2D w84) => EPSG3857.ToWorldD(w84);
+        public Double2D WGS84ToWorldD(in Double2D w84) => Projection.ToWorldD(w84);
+        //public Double2D WGS84ToWorldD(float lon, float lat) => EPSG3857.ToWorldD(lon, lat);
+        public Double2D WGS84ToWorldD(float lon, float lat) => Projection.ToWorldD(lon, lat);
+        //public Double2D WGS84ToWorldD(double lon, double lat) => EPSG3857.ToWorldD(lon, lat);
+        public Double2D WGS84ToWorldD(double lon, double lat) => Projection.ToWorldD(lon, lat);
 
         /// <summary> WGS84 -> World 변환 (자체 Array에 변환된 좌표 저장) </summary>     
-        public void WGS84ToWorld(Span<Float2D> w84) => EPSG3857.ToWorld(w84);
+        //public void WGS84ToWorld(Span<Float2D> w84) => EPSG3857.ToWorld(w84);
+        public void WGS84ToWorld(Span<Float2D> w84)
+        {
+            for (int i = 0; i < w84.Length; i++) w84[i] = Projection.ToWorld(w84[i]);
+        }
 
         /// <summary> WGS84 -> World 변환 (다른 Array에 변환좌표 저장) </summary>
-        public void WGS84ToWorld(Span<Float2D> w84, Span<Float2D> wxy) => EPSG3857.ToWorld(w84, wxy);
+        //public void WGS84ToWorld(Span<Float2D> w84, Span<Float2D> wxy) => EPSG3857.ToWorld(w84, wxy);
+        public void WGS84ToWorld(Span<Float2D> w84, Span<Float2D> wxy)
+        {
+            for (int i = 0; i < w84.Length; i++) wxy[i] = Projection.ToWorld(w84[i]);
+        }
 
 
 
         /// <summary> World -> WGS84 변환 </summary> 
-        public Float2D WorldToWGS84(in Float2D wp) => EPSG3857.ToWGS84(wp);
-        public Float2D WorldToWGS84(in Double2D wp) => EPSG3857.ToWGS84(wp);
-        public Float2D WorldToWGS84(float wx, float wy) => EPSG3857.ToWGS84(wx, wy);
-        public Float2D WorldToWGS84(double wx, double wy) => EPSG3857.ToWGS84(wx, wy);
-        public Double2D WorldToWGS84D(in Float2D wp) => EPSG3857.ToWGS84D(wp);
-        public Double2D WorldToWGS84D(in Double2D wp) => EPSG3857.ToWGS84D(wp);
-        public Double2D WorldToWGS84D(float wx, float wy) => EPSG3857.ToWGS84D(wx, wy);
-        public Double2D WorldToWGS84D(double wx, double wy) => EPSG3857.ToWGS84D(wx, wy);
+        //public Float2D WorldToWGS84(in Float2D wp) => EPSG3857.ToWGS84(wp);
+        public Float2D WorldToWGS84(in Float2D wp) => Projection.ToWGS84(wp);
+        //public Float2D WorldToWGS84(in Double2D wp) => EPSG3857.ToWGS84(wp);
+        public Float2D WorldToWGS84(in Double2D wp) => Projection.ToWGS84(new Float2D((float)wp.X, (float)wp.Y));
+        //public Float2D WorldToWGS84(float wx, float wy) => EPSG3857.ToWGS84(wx, wy);
+        public Float2D WorldToWGS84(float wx, float wy) => Projection.ToWGS84(wx, wy);
+        //public Float2D WorldToWGS84(double wx, double wy) => EPSG3857.ToWGS84(wx, wy);
+        public Float2D WorldToWGS84(double wx, double wy) => Projection.ToWGS84((float)wx, (float)wy);
+        //public Double2D WorldToWGS84D(in Float2D wp) => EPSG3857.ToWGS84D(wp);
+        public Double2D WorldToWGS84D(in Float2D wp) => Projection.ToWGS84D(new Double2D(wp.X, wp.Y));
+        //public Double2D WorldToWGS84D(in Double2D wp) => EPSG3857.ToWGS84D(wp);
+        public Double2D WorldToWGS84D(in Double2D wp) => Projection.ToWGS84D(wp);
+        //public Double2D WorldToWGS84D(float wx, float wy) => EPSG3857.ToWGS84D(wx, wy);
+        public Double2D WorldToWGS84D(float wx, float wy) => Projection.ToWGS84D(wx, wy);
+        //public Double2D WorldToWGS84D(double wx, double wy) => EPSG3857.ToWGS84D(wx, wy);
+        public Double2D WorldToWGS84D(double wx, double wy) => Projection.ToWGS84D(wx, wy);
 
         /// <summary> World -> WGS84 변환 (자체 Array에 변환된 좌표 저장) </summary>     
-        public void WorldToWGS84(Span<Float2D> wxy) => EPSG3857.ToWGS84(wxy);
+        //public void WorldToWGS84(Span<Float2D> wxy) => EPSG3857.ToWGS84(wxy);
+        public void WorldToWGS84(Span<Float2D> wxy)
+        {
+            for (int i = 0; i < wxy.Length; i++) wxy[i] = Projection.ToWGS84(wxy[i]);
+        }
 
         /// <summary> World -> WGS84 변환 (다른 Array에 변환좌표 저장) </summary>
-        public void WorldToWGS84(Span<Float2D> wxy, Span<Float2D> w84) => EPSG3857.ToWGS84(wxy, w84);
-
+        //public void WorldToWGS84(Span<Float2D> wxy, Span<Float2D> w84) => EPSG3857.ToWGS84(wxy, w84);
+        public void WorldToWGS84(Span<Float2D> wxy, Span<Float2D> w84)
+        {
+            for (int i = 0; i < wxy.Length; i++) w84[i] = Projection.ToWGS84(wxy[i]);
+        }
 
 
         /// <summary> WGS84 -> Screen 변환 </summary>  
-        public Float2D WGS84ToScreen(in Float2D w84) => EPSG3857.WGS84ToScreen(_toLocal, w84);
-        public Float2D WGS84ToScreen(in Double2D w84) => EPSG3857.WGS84ToScreen(_toLocal, w84);
-        public Float2D WGS84ToScreen(float lon, float lat) => EPSG3857.WGS84ToScreen(_toLocal, lon, lat);
-        public Float2D WGS84ToScreen(double lon, double lat) => EPSG3857.WGS84ToScreen(_toLocal, lon, lat);
-        public Double2D WGS84ToScreenD(in Float2D w84) => EPSG3857.WGS84ToScreenD(_toLocal, w84);
-        public Double2D WGS84ToScreenD(in Double2D w84) => EPSG3857.WGS84ToScreenD(_toLocal, w84);
-        public Double2D WGS84ToScreenD(float lon, float lat) => EPSG3857.WGS84ToScreenD(_toLocal, lon, lat);
-        public Double2D WGS84ToScreenD(double lon, double lat) => EPSG3857.WGS84ToScreenD(_toLocal, lon, lat);
+        //public Float2D WGS84ToScreen(in Float2D w84) => EPSG3857.WGS84ToScreen(_toLocal, w84);
+        public Float2D WGS84ToScreen(in Float2D w84) => WorldToScreen(Projection.ToWorld(w84));
+        //public Float2D WGS84ToScreen(in Double2D w84) => EPSG3857.WGS84ToScreen(_toLocal, w84);
+        public Float2D WGS84ToScreen(in Double2D w84) => WorldToScreen(Projection.ToWorld(new Float2D((float)w84.X, (float)w84.Y)));
+        //public Float2D WGS84ToScreen(float lon, float lat) => EPSG3857.WGS84ToScreen(_toLocal, lon, lat);
+        public Float2D WGS84ToScreen(float lon, float lat) => WorldToScreen(Projection.ToWorld(lon, lat));
+        //public Float2D WGS84ToScreen(double lon, double lat) => EPSG3857.WGS84ToScreen(_toLocal, lon, lat);
+        public Float2D WGS84ToScreen(double lon, double lat) => WorldToScreen(Projection.ToWorld((float)lon, (float)lat));
+        //public Double2D WGS84ToScreenD(in Float2D w84) => EPSG3857.WGS84ToScreenD(_toLocal, w84);
+        public Double2D WGS84ToScreenD(in Float2D w84) => WorldToScreenD(Projection.ToWorld(w84));
+        //public Double2D WGS84ToScreenD(in Double2D w84) => EPSG3857.WGS84ToScreenD(_toLocal, w84);
+        public Double2D WGS84ToScreenD(in Double2D w84) => WorldToScreenD(Projection.ToWorldD(w84));
+        //public Double2D WGS84ToScreenD(float lon, float lat) => EPSG3857.WGS84ToScreenD(_toLocal, lon, lat);
+        public Double2D WGS84ToScreenD(float lon, float lat) => WorldToScreenD(Projection.ToWorldD(lon, lat));
+        //public Double2D WGS84ToScreenD(double lon, double lat) => EPSG3857.WGS84ToScreenD(_toLocal, lon, lat);
+        public Double2D WGS84ToScreenD(double lon, double lat) => WorldToScreenD(Projection.ToWorldD(lon, lat));
 
         /// <summary> WGS84 -> Screen 변환 (자체 Array에 변환된 좌표 저장) </summary>  
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void WGS84ToScreen(Span<Float2D> w84) =>
-            EPSG3857.WGS84ToScreen(_toLocal, w84);
+        //public void WGS84ToScreen(Span<Float2D> w84) =>
+        //    EPSG3857.WGS84ToScreen(_toLocal, w84);
+        public void WGS84ToScreen(Span<Float2D> w84)
+        {
+            for (int i = 0; i < w84.Length; i++)
+                w84[i] = _toLocal.TransformPreFlipY(Projection.ToWorld(w84[i]));
+        }
 
         /// <summary> WGS84 -> Screen 변환 (다른 Array에 변환된 좌표 저장) </summary>
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void WGS84ToScreen(Span<Float2D> w84, Span<Float2D> sxy) =>
-            EPSG3857.WGS84ToScreen(_toLocal, w84, sxy);
+        //public void WGS84ToScreen(Span<Float2D> w84, Span<Float2D> sxy) =>
+        //    EPSG3857.WGS84ToScreen(_toLocal, w84, sxy);
+        public void WGS84ToScreen(Span<Float2D> w84, Span<Float2D> sxy)
+        {
+            for (int i = 0; i < w84.Length; i++)
+                sxy[i] = _toLocal.TransformPreFlipY(Projection.ToWorld(w84[i]));
+        }
 
         /// <summary> WGS84 -> Screen 변환 </summary>
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void WGS84ToScreen(ref Float2D w84, ref Float2D sxy, int count) =>
-            EPSG3857.WGS84ToScreen(_toLocal, ref w84, ref sxy, count);
+        //public void WGS84ToScreen(ref Float2D w84, ref Float2D sxy, int count) =>
+        //    EPSG3857.WGS84ToScreen(_toLocal, ref w84, ref sxy, count);
+        public void WGS84ToScreen(ref Float2D w84, ref Float2D sxy, int count)
+        {
+            var srcSpan = MemoryMarshal.CreateSpan(ref w84, count);
+            var dstSpan = MemoryMarshal.CreateSpan(ref sxy, count);
+            for (int i = 0; i < count; i++)
+                dstSpan[i] = _toLocal.TransformPreFlipY(Projection.ToWorld(srcSpan[i]));
+        }
 
         /// <summary> WGS84 -> Screen 변환 </summary>
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void WGS84ToScreen(in FloatRect w84rect, out Float2Dx4 path4) =>
-            EPSG3857.WGS84ToScreen(_toLocal, w84rect, out path4);
+        //public void WGS84ToScreen(in FloatRect w84rect, out Float2Dx4 path4) =>
+        //    EPSG3857.WGS84ToScreen(_toLocal, w84rect, out path4);
+        public void WGS84ToScreen(in FloatRect w84rect, out Float2Dx4 path4)
+        {
+            Unsafe.SkipInit(out path4);
+            var span = MemoryMarshal.CreateSpan(ref Unsafe.As<Float2Dx4, Float2D>(ref path4), 4);
+            // 극방위 등 직사각형이 유지되지 않는 도법을 위해 4꼭지점을 각각 투영하여 스크린으로 변환합니다.
+            span[0] = _toLocal.TransformPreFlipY(Projection.ToWorld(w84rect.X1, w84rect.Y1));
+            span[1] = _toLocal.TransformPreFlipY(Projection.ToWorld(w84rect.X2, w84rect.Y1));
+            span[2] = _toLocal.TransformPreFlipY(Projection.ToWorld(w84rect.X2, w84rect.Y2));
+            span[3] = _toLocal.TransformPreFlipY(Projection.ToWorld(w84rect.X1, w84rect.Y2));
+        }
 
 
 
         /// <summary> Screen -> WGS84 변환 </summary>
-        public Float2D ScreenToWGS84(in Float2D sp) => EPSG3857.ScreenToWGS84(_toWorld, sp);
-        public Float2D ScreenToWGS84(in Double2D sp) => EPSG3857.ScreenToWGS84(_toWorld, sp);
-        public Float2D ScreenToWGS84(float sx, float sy) => EPSG3857.ScreenToWGS84(_toWorld, sx, sy);
-        public Float2D ScreenToWGS84(double sx, double sy) => EPSG3857.ScreenToWGS84(_toWorld, sx, sy);
-        public Double2D ScreenToWGS84D(in Float2D sp) => EPSG3857.ScreenToWGS84D(_toWorld, sp);
-        public Double2D ScreenToWGS84D(in Double2D sp) => EPSG3857.ScreenToWGS84D(_toWorld, sp);
-        public Double2D ScreenToWGS84D(float sx, float sy) => EPSG3857.ScreenToWGS84D(_toWorld, sx, sy);
-        public Double2D ScreenToWGS84D(double sx, double sy) => EPSG3857.ScreenToWGS84D(_toWorld, sx, sy);
+        //public Float2D ScreenToWGS84(in Float2D sp) => EPSG3857.ScreenToWGS84(_toWorld, sp);
+        //public Float2D ScreenToWGS84(in Double2D sp) => EPSG3857.ScreenToWGS84(_toWorld, sp);
+        //public Float2D ScreenToWGS84(float sx, float sy) => EPSG3857.ScreenToWGS84(_toWorld, sx, sy);
+        //public Float2D ScreenToWGS84(double sx, double sy) => EPSG3857.ScreenToWGS84(_toWorld, sx, sy);
+        //public Double2D ScreenToWGS84D(in Float2D sp) => EPSG3857.ScreenToWGS84D(_toWorld, sp);
+        //public Double2D ScreenToWGS84D(in Double2D sp) => EPSG3857.ScreenToWGS84D(_toWorld, sp);
+        //public Double2D ScreenToWGS84D(float sx, float sy) => EPSG3857.ScreenToWGS84D(_toWorld, sx, sy);
+        //public Double2D ScreenToWGS84D(double sx, double sy) => EPSG3857.ScreenToWGS84D(_toWorld, sx, sy);
+
+        public Float2D ScreenToWGS84(in Float2D sp) => Projection.ToWGS84(ScreenToWorld(sp));
+        public Float2D ScreenToWGS84(in Double2D sp) => Projection.ToWGS84(ScreenToWorld(new Float2D((float)sp.X, (float)sp.Y)));
+        public Float2D ScreenToWGS84(float sx, float sy) => Projection.ToWGS84(ScreenToWorld(sx, sy));
+        public Float2D ScreenToWGS84(double sx, double sy) => Projection.ToWGS84(ScreenToWorld((float)sx, (float)sy));
+        public Double2D ScreenToWGS84D(in Float2D sp) => Projection.ToWGS84D(ScreenToWorldD(sp));
+        public Double2D ScreenToWGS84D(in Double2D sp) => Projection.ToWGS84D(ScreenToWorldD(sp));
+        public Double2D ScreenToWGS84D(float sx, float sy) => Projection.ToWGS84D(ScreenToWorldD(sx, sy));
+        public Double2D ScreenToWGS84D(double sx, double sy) => Projection.ToWGS84D(ScreenToWorldD(sx, sy));
 
         /// <summary> Screen -> WGS84 변환 (자체 Array에 변환된 좌표 저장) </summary>    
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void ScreenToWGS84(Span<Float2D> sxy) =>
-            EPSG3857.ScreenToWGS84(_toWorld, sxy);
+        //public void ScreenToWGS84(Span<Float2D> sxy) =>
+        //    EPSG3857.ScreenToWGS84(_toWorld, sxy);
+        public void ScreenToWGS84(Span<Float2D> sxy)
+        {
+            for (int i = 0; i < sxy.Length; i++)
+                sxy[i] = Projection.ToWGS84(_toWorld.TransformPostFlipY(sxy[i]));
+        }
 
         /// <summary> Screen -> WGS84 변환 (다른 Array에 변환된 좌표 저장) </summary>
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void ScreenToWGS84(Span<Float2D> sxy, Span<Float2D> w84) =>
-            EPSG3857.ScreenToWGS84(_toWorld, sxy, w84);
+        //public void ScreenToWGS84(Span<Float2D> sxy, Span<Float2D> w84) =>
+        //    EPSG3857.ScreenToWGS84(_toWorld, sxy, w84);
+        public void ScreenToWGS84(Span<Float2D> sxy, Span<Float2D> w84)
+        {
+            for (int i = 0; i < sxy.Length; i++)
+                w84[i] = Projection.ToWGS84(_toWorld.TransformPostFlipY(sxy[i]));
+        }
 
         /// <summary> Screen -> WGS84 변환 </summary>
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void ScreenToWGS84(ref Float2D sxy, ref Float2D w84, int count) =>
-            EPSG3857.ScreenToWGS84(_toWorld, ref sxy, ref w84, count);
+        //public void ScreenToWGS84(ref Float2D sxy, ref Float2D w84, int count) =>
+        //    EPSG3857.ScreenToWGS84(_toWorld, ref sxy, ref w84, count);
+        public void ScreenToWGS84(ref Float2D sxy, ref Float2D w84, int count)
+        {
+            var srcSpan = MemoryMarshal.CreateSpan(ref sxy, count);
+            var dstSpan = MemoryMarshal.CreateSpan(ref w84, count);
+            for (int i = 0; i < count; i++)
+                dstSpan[i] = Projection.ToWGS84(_toWorld.TransformPostFlipY(srcSpan[i]));
+        }
 
         /// <summary> Screen -> WGS84 변환 </summary>
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
-        public void ScreenToWGS84(in FloatRect srect, out Float2Dx4 path4) =>
-            EPSG3857.ScreenToWGS84(_toWorld, srect, out path4);
-
+        //public void ScreenToWGS84(in FloatRect srect, out Float2Dx4 path4) =>
+        //    EPSG3857.ScreenToWGS84(_toWorld, srect, out path4);
+        public void ScreenToWGS84(in FloatRect srect, out Float2Dx4 path4)
+        {
+            ScreenToWorld(srect, out path4); // 스크린 사각형을 월드 4꼭지점으로 변환 (기존 로직 활용)
+            var span = MemoryMarshal.CreateSpan(ref Unsafe.As<Float2Dx4, Float2D>(ref path4), 4);
+            for (int i = 0; i < 4; i++)
+                span[i] = Projection.ToWGS84(span[i]); // 월드 4꼭지점을 각각 WGS84로 역산
+        }
 
 
 

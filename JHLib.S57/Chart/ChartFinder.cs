@@ -247,7 +247,8 @@ namespace JHLib.S57.Chart
                     if (clip.Execute(0, 0) == true)
                     {
                         // World좌표로 확인한다.
-                        if (FindCoverage.ParseCoverage(cov.name, out var pointsCover) == true)
+                        //if (FindCoverage.ParseCoverage(cov.name, out var pointsCover) == true)
+                        if (FindCoverage.ParseCoverage(projection, cov.name, out var pointsCover) == true)
                         {
                             // Step 1. 화면 영역과 현재 Cover와의 교차정보를 가져온다.
                             clip.Clear();
@@ -405,7 +406,8 @@ namespace JHLib.S57.Chart
                 for (int i = 0; i < 6; i++)
                 {
                     string name = "WORLDMAP" + (i + 1).ToString();
-                    if (FindCoverage.ParseCoverage(name, out var pathsCover) == true)
+                    //if (FindCoverage.ParseCoverage(name, out var pathsCover) == true)
+                    if (FindCoverage.ParseCoverage(projection, name, out var pathsCover) == true)
                     {
                         // Step 1. 화면 영역과 현재 Cover와의 교차정보를 가져온다.
                         clip.Clear();

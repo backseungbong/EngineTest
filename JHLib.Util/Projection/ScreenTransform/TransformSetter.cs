@@ -10,6 +10,36 @@ namespace JHLib.Util.Projection.ScreenTransform
     public delegate void UpdatedTransform(Transform updateTransform);
     public abstract class TransformSetter
     {
+        // [bsb]
+        private IMapProjection _projection = new MercatorProjection(); // 기본값을 Mercator로 구현하여 할당
+
+        // 투영법을 런타임에 전환하는 메서드
+        public Transform SetProjection(IMapProjection newProjection)
+        {
+            Transform updateTransform;
+            lock (_locker)
+            {
+                // 1. 현재 화면이 바라보고 있는 경위도(WGS84) 중심 좌표를 가져옵니다.
+                // (_transform이 아직 생성되기 전이라면 기본값 0, 0 처리)
+                double currentLon = _transform != null ? _transform.WGS84Position.X : 0;
+                double currentLat = _transform != null ? _transform.WGS84Position.Y : 0;
+
+                // 2. 투영법 객체를 교체합니다.
+                _projection = newProjection;
+
+                // 3. [핵심] 새로운 투영법을 기준으로 월드 중심 좌표(transX, transY)를 다시 계산합니다!
+                var newWorldPos = _projection.ToWorldD(currentLon, currentLat);
+                var clampedPos = _projection.CheckProjectionRange(newWorldPos.X, newWorldPos.Y);
+                _transX = clampedPos.X;
+                _transY = clampedPos.Y;
+
+                // 4. 새로운 상태로 Transform을 업데이트합니다.
+                updateTransform = UpdateTransform();
+            }
+            ChangedTransform(updateTransform);
+            return updateTransform;
+        }
+
         private readonly Lock _locker;
 
         private int _width;
@@ -63,7 +93,7 @@ namespace JHLib.Util.Projection.ScreenTransform
 
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
         private Transform UpdateTransform(bool immediateTransformApply = true) =>
-            _transform = new(_screenInfo, ++_version, _transX, _transY, _rotation, _scale, immediateTransformApply);
+            _transform = new(_screenInfo, ++_version, _transX, _transY, _rotation, _scale, immediateTransformApply, _projection);
 
         /// <summary> Transform Version을 갱신하고, OnUpdateTransform 이벤트를 발생시킨다 </summary>      
         [MethodImpl(MethodImplOptions.AggressiveInlining)]
@@ -355,7 +385,10 @@ namespace JHLib.Util.Projection.ScreenTransform
             {
                 var tf = _transform;
                 var wp = tf.ScreenToWorldD(tf.PivotPositionX + screenMoveX, tf.PivotPositionY + screenMoveY);
-                wp = EPSG3857.CheckProjectionRange(wp);
+                // [bsb 막음]
+                //wp = EPSG3857.CheckProjectionRange(wp);
+                var cp = _projection.CheckProjectionRange(wp.X, wp.Y);
+                wp = new Double2D(cp.X, cp.Y);
 
                 var pastScale = _scale;
                 var lastScale = CheckScale(pastScale / scaleAmount);
@@ -372,7 +405,9 @@ namespace JHLib.Util.Projection.ScreenTransform
                     tw = Matrix22D.Create(wp.X, -wp.Y, tf.Rotation, tf.FactorMeToPixel / lastScale, px, py).Invert();
                     wp = tw.Transform64PostFlipY(px - (screenOriginX - px), py - (screenOriginY - py));
                 }
-                SetTranslation(EPSG3857.CheckProjectionRange(wp));
+                // [bsb 막음]
+                //SetTranslation(EPSG3857.CheckProjectionRange(wp));
+                SetTranslation(wp.X, wp.Y);
                 updateTransform = UpdateTransform();
             }
             ChangedTransform(updateTransform);
@@ -432,13 +467,26 @@ namespace JHLib.Util.Projection.ScreenTransform
         [MethodImpl(MethodImplOptions.NoInlining)]
         public Transform MoveToWGS84(double lon, double lat, bool isRelative = false, bool immediateTransformApply = true)
         {
+            // [bsb 막음]
+            //Transform updateTransform;
+            //lock (_locker)
+            //{
+            //    var tf = _transform;
+            //    var rx = isRelative ? tf.WGS84Position.X + lon : lon;
+            //    var ry = isRelative ? tf.WGS84Position.Y + lat : lat;
+            //    SetTranslation(EPSG3857.ToWorldD(rx, ry));
+            //    updateTransform = UpdateTransform(immediateTransformApply);
+            //}
+            //ChangedTransform(updateTransform);
+            //return updateTransform;
+
             Transform updateTransform;
             lock (_locker)
             {
                 var tf = _transform;
                 var rx = isRelative ? tf.WGS84Position.X + lon : lon;
                 var ry = isRelative ? tf.WGS84Position.Y + lat : lat;
-                SetTranslation(EPSG3857.ToWorldD(rx, ry));
+                SetTranslation(_projection.ToWorldD(rx, ry));
                 updateTransform = UpdateTransform(immediateTransformApply);
             }
             ChangedTransform(updateTransform);
@@ -449,7 +497,9 @@ namespace JHLib.Util.Projection.ScreenTransform
         [MethodImpl(MethodImplOptions.NoInlining)]
         public void MoveToWGS84Simple(double lon, double lat)
         {
-            SetTranslation(EPSG3857.ToWorldD(lon, lat));
+            // [bsb 막음]
+            //SetTranslation(EPSG3857.ToWorldD(lon, lat));
+            SetTranslation(_projection.ToWorldD(lon, lat));
             UpdateTransform();
         }
 
@@ -518,7 +568,10 @@ namespace JHLib.Util.Projection.ScreenTransform
             {
                 var tf = _transform;
                 var wp = tf.ScreenToWorldD(tf.PivotPositionX + screenMoveX, tf.PivotPositionY + screenMoveY);
-                wp = EPSG3857.CheckProjectionRange(wp);
+                // [bsb 막음]
+                //wp = EPSG3857.CheckProjectionRange(wp);
+                var cp = _projection.CheckProjectionRange(wp.X, wp.Y);
+                wp = new Double2D(cp.X, cp.Y);
 
                 var pastScale = _scale;
                 var lastScale = CheckScale(pastScale / scaleAmount);
@@ -545,7 +598,9 @@ namespace JHLib.Util.Projection.ScreenTransform
         private void SetTranslation(in Double2D wp) => SetTranslation(wp.X, wp.Y);
         private void SetTranslation(double wx, double wy)
         {
-            var rp = EPSG3857.CheckProjectionRange(wx, wy);
+            // [bsb 막음]
+            //var rp = EPSG3857.CheckProjectionRange(wx, wy);
+            var rp = _projection.CheckProjectionRange(wx, wy);
             _transX = rp.X;
             _transY = rp.Y;
         }

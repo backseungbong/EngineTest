@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\JHLib.Graphics\JHLib.Graphics.csproj" />
+    <ProjectReference Include="..\JHLib.MilitaryCoordinateConverter\JHLib.MilitaryCoordinateConverter.csproj" />
     <ProjectReference Include="..\JHLib.NavigationLayer\JHLib.NavigationLayer.csproj" />
     <ProjectReference Include="..\JHLib.S57\JHLib.S57.csproj" />
     <ProjectReference Include="..\JHLib.Util\JHLib.Util.csproj" />
