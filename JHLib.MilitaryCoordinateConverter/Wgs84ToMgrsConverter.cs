@@ -59,18 +59,25 @@ namespace JHLib.MilitaryCoordinateConverter
         /// </summary>
         private static string ConvertUtmToMgrs(double utmX, double utmY, int zone, double lat)
         {
-            // 1. UTM 위도대(Latitude Band) 문자 결정
-            char latBand = GetUtmLatitudeBand(lat);
+            try
+            {
+                // 1. UTM 위도대(Latitude Band) 문자 결정
+                char latBand = GetUtmLatitudeBand(lat);
 
-            // 2. 100km 격자 식별자(Square Identifier) 계산
-            string squareId = Get100kSquareId(zone, utmX, utmY);
+                // 2. 100km 격자 식별자(Square Identifier) 계산
+                string squareId = Get100kSquareId(zone, utmX, utmY);
 
-            // 3. 미터 단위 평면 좌표를 5자리 정수로 단축 (1m 정밀도 기준 각 5자리, 총 10자리 격자)
-            int easting = (int)Math.Floor(utmX % 100000);
-            int northing = (int)Math.Floor(utmY % 100000);
+                // 3. 미터 단위 평면 좌표를 5자리 정수로 단축 (1m 정밀도 기준 각 5자리, 총 10자리 격자)
+                int easting = (int)Math.Floor(utmX % 100000);
+                int northing = (int)Math.Floor(utmY % 100000);
 
-            // 포맷팅: Zone + Band + SquareId + Easting(5자리) + Northing(5자리)
-            return $"{zone}{latBand}{squareId}{easting:D5}{northing:D5}";
+                // 포맷팅: Zone + Band + SquareId + Easting(5자리) + Northing(5자리)
+                return $"{zone}{latBand}{squareId}{easting:D5}{northing:D5}";
+            }
+            catch (Exception ex)
+            {
+                return string.Empty;
+            }
         }
 
         private static char GetUtmLatitudeBand(double lat)

@@ -20,22 +20,30 @@ namespace JHLib.MilitaryCoordinateConverter
         /// <returns>WGS84 위도, 경도 튜플</returns>
         public static (double Latitude, double Longitude) ConvertMgrsToWgs84(string mgrs)
         {
-            // 1. 공백 제거 및 대문자 변환 후 MGRS 포맷 파싱
-            string cleanMgrs = mgrs.Replace(" ", "").ToUpper();
-            var (zone, latBand, squareId, eastingStr, northingStr) = ParseMgrsString(cleanMgrs);
+            try
+            {
+                // 1. 공백 제거 및 대문자 변환 후 MGRS 포맷 파싱
+                string cleanMgrs = mgrs.Replace(" ", "").ToUpper();
+                var (zone, latBand, squareId, eastingStr, northingStr) = ParseMgrsString(cleanMgrs);
 
-            // 2. MGRS 격자 식별자를 기반으로 한 표준 UTM Base 평면 좌표($m$) 복원
-            var (baseEasting, baseNorthing) = GetUtmBaseFromSquare(zone, squareId, latBand);
+                // 2. MGRS 격자 식별자를 기반으로 한 표준 UTM Base 평면 좌표($m$) 복원
+                var (baseEasting, baseNorthing) = GetUtmBaseFromSquare(zone, squareId, latBand);
 
-            // 3. 입력된 정밀도(숫자 자릿수)에 따른 세부 미터 단위 오프셋 반영
-            double utmX = baseEasting + ScaleOffset(eastingStr);
-            double utmY = baseNorthing + ScaleOffset(northingStr);
+                // 3. 입력된 정밀도(숫자 자릿수)에 따른 세부 미터 단위 오프셋 반영
+                double utmX = baseEasting + ScaleOffset(eastingStr);
+                double utmY = baseNorthing + ScaleOffset(northingStr);
 
-            // 4. UTM -> WGS84 역투영 변환 수행
-            bool isNorth = IsNorthHemisphere(latBand);
-            var (latitude, longitude) = TransformUtmToWgs84(utmX, utmY, zone, isNorth);
+                // 4. UTM -> WGS84 역투영 변환 수행
+                bool isNorth = IsNorthHemisphere(latBand);
+                var (latitude, longitude) = TransformUtmToWgs84(utmX, utmY, zone, isNorth);
 
-            return (latitude, longitude);
+                return (latitude, longitude);
+
+            }
+            catch (Exception ex)
+            {
+                return (0, 0);
+            }
         }
 
         private static (int zone, char latBand, string squareId, string easting, string northing) ParseMgrsString(string mgrs)
