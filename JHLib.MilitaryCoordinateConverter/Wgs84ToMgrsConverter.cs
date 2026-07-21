@@ -12,13 +12,28 @@ namespace JHLib.MilitaryCoordinateConverter
             _transformationFactory = new CoordinateTransformationFactory();
         }
 
+        public static bool TryConvertWgs84ToMgrs(double latitude, double longitude, out string mgrs)
+        {
+            mgrs = string.Empty;
+
+            try
+            {
+                mgrs = ConvertWgs84ToMgrs(latitude, longitude);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+        }
+
         /// <summary>
         /// WGS84 위경도 좌표를 MGRS 문자열로 변환합니다.
         /// </summary>
         /// <param name="latitude">위도 (Decimal Degrees)</param>
         /// <param name="longitude">경도 (Decimal Degrees)</param>
         /// <returns>MGRS 좌표 문자열 (예: 52SCH12345678)</returns>
-        public static string ConvertWgs84ToMgrs(double latitude, double longitude)
+        private static string ConvertWgs84ToMgrs(double latitude, double longitude)
         {
             // 1. WGS84 -> UTM 변환 수행
             var (utmX, utmY, zone, isNorth) = TransformWgs84ToUtm(latitude, longitude);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JHLib.WPFUtil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4b688f7230f97ae201947f1df1d7d8ffd01585c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0efd7fb5f0a79bb93c9c56f440965a40740abeb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("JHLib.WPFUtil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JHLib.WPFUtil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

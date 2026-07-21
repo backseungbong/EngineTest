@@ -1,5 +1,4 @@
 ﻿using JHLib.Util.Projection;
-using JHLib.MilitaryCoordinateConverter;
 
 namespace JHApp.ECDIS.ViewModels
 {
@@ -7,12 +6,12 @@ namespace JHApp.ECDIS.ViewModels
     {
         public MainVM() 
         {
-            // WGS84 -> UTM -> MGRS
-            double lat = 35.1025;
-            double lon = 129.0403;
-            var mgrs = Wgs84ToMgrsConverter.ConvertWgs84ToMgrs(lat, lon);
-            // MGRS -> UTM -> WGS84
-            var (newLat, newLon) = MgrsToWgs84Converter.ConvertMgrsToWgs84(mgrs);
+            //// WGS84 -> UTM -> MGRS
+            //double lat = 35.1025;
+            //double lon = 129.0403;
+            //Wgs84ToMgrsConverter.TryConvertWgs84ToMgrs(lat, lon, out var mgrs);
+            //// MGRS -> UTM -> WGS84
+            //MgrsToWgs84Converter.TryConvertMgrsToWgs84(mgrs, out var newLat, out var newLon);
         }
 
         private string _projectionName = "Mercator Projection";
